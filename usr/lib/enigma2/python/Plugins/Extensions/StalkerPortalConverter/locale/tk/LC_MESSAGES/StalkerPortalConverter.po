@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Islenýän çykyş formatyny saýlaň: M3U ýa-da telewizor buketi \ n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Serwer URL-leri bilen bir faýl açyň ýa-da öý eýesini we MAC salgysyny redaktirlemek üçin BLUE düwmesini basyň"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Aýdym sanawyny döretmek üçin CONVERT basyň"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Esasy menýu"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< elatyr"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Giriş kody:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Hasap maglumatlary ýüklendi"
 
 msgid "Active:"
-msgstr ""
+msgstr "Işjeň:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "{OD VOD elementleri goşuldy"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Hakyky tanamak şowsuz:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Aşakda"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Buket ýagdaýy: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Buketler döredildi: {} kanallary bolan {} toparlar"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Katalog döredip bolmaýar:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Çykyş katalogyny üýtgediň"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Kanal sanawynyň ýalňyşlygy:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Kanal sanawy şowsuz: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Arassala"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Birikdiriş säwligi:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Konwersiýa başlamazdan öň ýatyryldy"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Öwürmek ýalňyşlygy:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Buket döredilmezden ozal öwrülişik saklandy"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Konwersiýa ulanyjy tarapyndan saklandy"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "M3U döredilende öwrülişik bes edildi"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Buket döredilende öwrülişik bes edildi"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Kanal gözlemek wagtynda öwrülişik bes edildi"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Toparlamak wagtynda öwrülişik bes edildi"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Gaýtadan işlemek wagtynda öwrülişik bes edildi"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Öwürmek wagty gutardy"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Stalker portalyny hakyky kanallar bilen M3U pleýlistine öwüriň"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "M3U öwüriň"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Telewizora öwüriň"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Kanaly gaýtadan işlemegiň ýalňyşlygy"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Pleýlist faýlyny poz"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Öçürmek şowsuz:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Öçürildi:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Directoryazyp bolmaýan katalog:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Maýyp"
 
 msgid "Disk"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "Redaktirläň"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "MAC salgysyny redaktirläň"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Portal URL-ni redaktirläň"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Işledilen"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "MAC salgysyny giriziň (meselem, 00: 1A: 79: XX: XX: XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Portal URL-i giriziň (mysal üçin http://example.com/c/ ýa-da http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Sazlama bahalaryna girmekde säwlik"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Sazlama bahalaryna girmekde säwlik:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Kataloga girmekde säwlik:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Aýdym sanawyny döretmekde säwlik:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Roralňyşlyk maglumatlary: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Hasap maglumatlary çykarmakda säwlik"
 
 msgid "Error!"
-msgstr ""
+msgstr "Roralňyşlyk!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Roralňyşlyk:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Roralňyşlyk: MAC salgysy nädogry"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Roralňyşlyk: portal URL nädogry"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Roralňyşlyk: Portal we MAC hökmany"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Möhleti:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Hasap maglumatlary ýüklenmedi"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Tokeni alyp bilmedi!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Portal ýa-da MAC konfigurasiýasyny okap bilmedi: \ n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Kanal sanawyny alyp bilmedi"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Meýdanlar arassalandy"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Toparlamak: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "Kömek: \ n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "El çarpmak şowsuz: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "El çarpmak şowsuz boldy: Hiç hili bellik alynmady"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Gaty disk"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Kody gizläň"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "VOD-ny pleýliste goşuň"
 
 msgid "Information"
-msgstr ""
+msgstr "Maglumat"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Başlangyç säwligi"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Kanal sanawy üçin JSON nädogry jogap"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Nädogry MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Nädogry URL: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Playüklenen sanaw sanawy:% s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "{} {{} Dogry ýazgylar ýüklendi"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Hasap maglumatyny fonda ýüklemek ..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U {} kanallary bilen döredildi"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC salgysy:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Maks:"
 
 msgid "Network"
-msgstr ""
+msgstr "Tor"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Täze giriş kody:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Täze kod"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Täze giriş kody döredildi!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Muňa jogap hökmünde kanal tapylmady"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Hiç hili faýl tapylmady:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Hiç hili faýl ýa-da katalog tapylmady:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Faýlda dogry ýazgy ýok"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "{On-da ýeterlik ýer ýok!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Çykyş faýly:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Parol:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Sanaw sanawy faýly:"
 
 msgid "Portal URL:"
 msgstr ""
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "{} Kanallary taýýarlamak ..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "0 basyň: Giriş koduny görkeziň | 1 basyň: Täze kod"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Taýýar - Faýl saýlaň ýa-da URL / MAC giriziň"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Faýl skaner ... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Buket ýerini saýlaň"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Kök dagyny saýlaň"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Sanaw sanawyny saýlaň"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Pleýlist faýly saýlaň"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Öwürmegiň görnüşini saýlaň"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Katalogy saýlaň"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Öçürmek üçin faýly saýlaň: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Pleýlist faýly saýlaň"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Bu bukjany saýlaň"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Saýlanan katalog:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Saýlanan:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Buket ýerini düzüň"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Görnüşi öwüriň"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Kod görkez"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "M3U öwrüjisine Stalker portaly% s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Öwürmek işine başlamak ..."
 
 msgid "Status:"
-msgstr ""
+msgstr ": Agdaýy:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "1/3 ädim: Portala birikmek ..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "1/3 ädim: El çarpmak ..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "2/3 ädim: Hakyky tanamak ..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "2/3 ädim: Aýdym sanawy faýly döretmek ..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "3/3 ädim: Buket faýly dörediň ..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "3/3 ädim: M3U faýly dörediň ..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "3/3 ädim: Kanal almak ..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "4/4 ädim: VOD mazmunyny almak ..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Dur"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Öwürmegi bes etmek ..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Portaly üýtgetmek üçin häzirki prosesi duruzmak ..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Üstünlik!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Wagtlaýyn ammar"
 
 msgid "Top"
-msgstr ""
+msgstr "Topokarky"
 
 msgid "USB Drive"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Täzelenme ýatyryldy!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Stalker öwrüjisini täzeläň"
 
 msgid "User:"
-msgstr ""
+msgstr "Ulanyjy:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD goşulmagy: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Saýlanan faýldan dogry portallar:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Web portal serweri öçürildi"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Web portal serweri açyk"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Web serwer ýalňyşlygy:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Web serwer saklandy"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Web serweri: http: //% s:% d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Siz eýýäm iň soňky wersiýasyny işleýärsiňiz:% s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Iň soňky wersiýasyny eýýäm işleýärsiňiz: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Ilki bilen Web Serweri başlamaly!"

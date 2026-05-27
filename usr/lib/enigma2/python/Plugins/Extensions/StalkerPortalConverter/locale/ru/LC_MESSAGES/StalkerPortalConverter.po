@@ -20,7 +20,7 @@ msgid "- Choose the desired output format: M3U or TV bouquet\n"
 msgstr "- Выберите желаемый выходной формат: M3U или TV-букет\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Откройте файл с URL-адресами серверов или нажмите СИНЮЮ кнопку, чтобы изменить хост и MAC-адрес.\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Нажмите CONVERT, чтобы создать плейлист."
@@ -32,7 +32,7 @@ msgid "<< Cancel"
 msgstr "<< Отменить"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Код доступа:"
 
 msgid "Account info loaded"
 msgstr "Информация об аккаунте загружена"
@@ -41,10 +41,10 @@ msgid "Active:"
 msgstr "Активен:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Добавлено {} элементов VOD."
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Аутентификация не удалась:"
 
 msgid "Bottom"
 msgstr "Низ"
@@ -63,10 +63,10 @@ msgid "Change Output Directory"
 msgstr "Изменить выходной каталог"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Ошибка списка каналов:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Ошибка списка каналов: HTTP {}"
 
 msgid "Clear"
 msgstr "Очистить"
@@ -133,13 +133,13 @@ msgid "Deleted:"
 msgstr "Удалено: "
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Каталог недоступен для записи:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Неполноценный"
 
 msgid "Disk"
-msgstr ""
+msgstr "Диск"
 
 msgid "Edit"
 msgstr "Редактировать"
@@ -151,13 +151,13 @@ msgid "Edit Portal URL"
 msgstr "Изменить URL портала"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Включено"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
 msgstr "Введите MAC-адрес (например, 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Введите URL-адрес портала (например, http://example.com/c/ или http://example.com:8088/c/)."
 
 msgid "Error accessing configuration values"
 msgstr "Ошибка доступа к значениям конфигурации"
@@ -230,13 +230,13 @@ msgid "Handshake failed: No token received"
 msgstr "Рукопожатие не удалось: токен не получен"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Жесткий диск"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Скрыть код"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Включить VOD в плейлист"
 
 msgid "Information"
 msgstr "Информация"
@@ -249,7 +249,7 @@ msgid "Invalid JSON response for channel list"
 msgstr "Не удалось получить список каналов."
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Неверный MAC-адрес: {mac}"
 
 #, fuzzy
 msgid "Invalid URL: {portal}"
@@ -276,16 +276,16 @@ msgid "Max:"
 msgstr "Максимум: "
 
 msgid "Network"
-msgstr ""
+msgstr "Сеть"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Новый код доступа:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Новый Кодекс"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Создан новый код доступа!"
 
 msgid "No channels found in response"
 msgstr "Каналов в ответе не найдено"
@@ -323,7 +323,7 @@ msgid "Preparing {} channels..."
 msgstr "Подготовка %d каналов..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Нажмите 0: Показать код доступа | Нажмите 1: Новый код"
 
 msgid "Ready - Select a file or enter URL/MAC"
 msgstr "Готово — выберите файл или введите URL/MAC"
@@ -374,7 +374,7 @@ msgid "Set Type Conversion"
 msgstr "Преобразование типа набора"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Показать код"
 
 msgid "Stalker Portal to M3U Converter v.%s"
 msgstr "Конвертер Stalker Portal в M3U v.%s"
@@ -424,13 +424,13 @@ msgid "Success!"
 msgstr "Выполнено успешно! "
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Временное хранение"
 
 msgid "Top"
 msgstr "Сверху"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB-накопитель"
 
 msgid "Update Aborted!"
 msgstr "Обновление прервано!"
@@ -442,25 +442,25 @@ msgid "User:"
 msgstr "Пользователь:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Включение VOD: {}"
 
 msgid "Valid Portals from Selected File:"
 msgstr "Действительные порталы из выбранного файла:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Сервер веб-портала выключен"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Сервер веб-портала включен"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Ошибка веб-сервера:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Веб-сервер остановлен"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Веб-сервер: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
 msgstr "Вы уже используете последнюю версию: %s"
@@ -469,7 +469,7 @@ msgid "You are already running the latest version: {}"
 msgstr "Вы уже используете последнюю версию: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Сначала вам необходимо запустить веб-сервер!"
 
 #~ msgid "Get ALL portal/MAC from file"
 #~ msgstr "Получить ВСЕ порталы/MAC из файла"

@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Roghnaigh an fhormáid aschuir a theastaíonn: M3U nó bouquet teilifíse\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Oscail comhad le URLanna freastalaí nó brúigh an cnaipe GORM chun an t-óstach agus an seoladh MAC a chur in eagar\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Brúigh CONVERT chun an seinmliosta a ghiniúint"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Ar ais go dtí an príomh-roghchlár"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Cealaigh"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Cód Rochtana:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Lódaíodh faisnéis chuntais"
 
 msgid "Active:"
-msgstr ""
+msgstr "Gníomhach:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Cuireadh {} mhír VOD leis"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Theip ar an bhfíordheimhniú:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Bun"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Suíomh bouquet socraithe mar: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Bouquets cruthaithe: {} grúpaí le {} cainéil"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Ní féidir eolaire a chruthú:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Athraigh Eolaire Aschuir"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Earráid liosta cainéal:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Theip ar an liosta cainéal: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Glan"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Earráid cheangail:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Cealaíodh an comhshó roimh thús"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Earráid tiontaithe:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Cuireadh stop leis an gcomhshó roimh chruthú bouquet"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Chuir an t-úsáideoir stop leis an gcomhshó"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Cuireadh stop leis an gcomhshó le linn cruthú M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Cuireadh stop leis an gcomhshó le linn cruthú bouquet"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Cuireadh stop leis an gcomhshó le linn aisghabháil cainéal"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Cuireadh deireadh leis an gcomhshó le linn na grúpála"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Cuireadh stop leis an gcomhshó le linn próiseála"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Sáraíodh an teorainn ama comhshó"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Tiontaigh Stalker Portal go seinnliosta M3U le cainéil iarbhír"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Tiontaigh go M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Tiontaigh go teilifís"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Earráid phróiseála cainéil chriticiúil"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Scrios an Comhad Seinmliosta"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Theip ar an scriosadh:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Scriosta:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Níl an t-eolaire inscríofa:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "faoi ​​mhíchumas"
 
 msgid "Disk"
-msgstr ""
+msgstr "Diosca"
 
 msgid "Edit"
-msgstr ""
+msgstr "Cuir in eagar"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Cuir Seoladh MAC in Eagar"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Cuir URL Tairseach in Eagar"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Cumasaithe"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Cuir isteach Seoladh MAC (m.sh., 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Cuir isteach URL Tairseach (m.sh. http://example.com/c/ nó http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Earráid agus luachanna cumraíochta á rochtain"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Earráid agus luachanna cumraíochta á rochtain:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Earráid agus an t-eolaire á rochtain:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Earráid agus seinmliosta á chruthú:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Sonraí earráide: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Earráid agus faisnéis cuntais á baint"
 
 msgid "Error!"
-msgstr ""
+msgstr "Earráid!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Earráid:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Earráid: Seoladh MAC neamhbhailí"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Earráid: URL tairsí neamhbhailí"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Earráid: Tairseach agus MAC ag teastáil"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Éaga:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Theip ar lódáil faisnéise cuntais"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Theip ar chomhartha a fháil!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Theip ar léamh na tairsí nó cumraíocht MAC:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Theip ar an liosta cainéal a aisghabháil"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Réimsí glanta"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Grúpáil: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "CABHAIR:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Theip ar chroitheadh ​​láimhe: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Theip ar chroitheadh ​​láimhe: Ní bhfuarthas aon chomhartha"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Diosca Crua"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Folaigh Cód"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Cuir VOD san áireamh sa Seinmliosta"
 
 msgid "Information"
-msgstr ""
+msgstr "Eolas"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Earráid tosaithe"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Freagra neamhbhailí JSON don liosta cainéal"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC neamhbhailí: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "URL neamhbhailí: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Seinmliosta luchtaithe: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Lódáileadh {} iontráil bhailí ó {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Faisnéis chuntais á lódáil sa chúlra..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U cruthaithe le {} cainéil"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "Seoladh MAC:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Uasmhéid:"
 
 msgid "Network"
-msgstr ""
+msgstr "Líonra"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Cód Rochtana Nua:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Cód Nua"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Cód rochtana nua ginte!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Níor aimsíodh aon chainéil mar fhreagra"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Níor aimsíodh aon chomhad i:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Níor aimsíodh aon chomhaid nó eolaire i:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Níor aimsíodh aon iontrálacha bailí sa chomhad"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Níl go leor spáis ar {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Comhad Aschuir:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Pasfhocal:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Comhad Seinmliosta:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URL Tairseach:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "{} cainéal á ullmhú…"
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Brúigh 0: Taispeáin Cód Rochtana | Brúigh 1: Cód Nua"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Réidh - Roghnaigh comhad nó cuir isteach URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Comhad á scanadh... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Roghnaigh Post Bouquet"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Roghnaigh Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Roghnaigh Seinmliosta"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Roghnaigh Comhad Seinmliosta"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Roghnaigh Cineál Tiontú"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Roghnaigh eolaire"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Roghnaigh comhad le scriosadh in: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Roghnaigh comhad seinmliosta"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Roghnaigh an t-eolaire seo"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Comhadlann roghnaithe:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Roghnaithe:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Socraigh Post Bouquet"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Socraigh Tiontú Cineál"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Taispeáin Cód"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Tiontaire M3U go Tairseach Stalker v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Próiseas comhshó á thosú..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Stádas:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Céim 1/3: Ag nascadh leis an tairseach..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Céim 1/3: Croitheadh ​​láimhe..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Céim 2/3: Fíordheimhniú..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Céim 2/3: Comhad seinmliosta á chruthú..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Céim 3/3: Cruthaigh comhad Bouquet..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Céim 3/3: Cruthaigh comhad M3U..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Céim 3/3: cainéil a fháil..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Céim 4/4: Ábhar VOD a fháil..."
 
 msgid "Stop"
 msgstr ""
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Comhshó á stopadh..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Ag cur stop leis an bpróiseas reatha chun an tairseach a athrú..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Rath!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Stóráil Sealadach"
 
 msgid "Top"
-msgstr ""
+msgstr "Barr"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Tiomántán USB"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Tobscoireadh an Nuashonrú!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Uasghrádú tiontaire Stalker"
 
 msgid "User:"
-msgstr ""
+msgstr "Úsáideoir:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Cuimsiú VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Tairseacha Bailí ón gComhad Roghnaithe:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Freastalaí Tairseach Gréasáin Off"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Freastalaí Tairseach Gréasáin Ar"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Earráid fhreastalaí gréasáin:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Stopadh an freastalaí gréasáin"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Freastalaí Gréasáin: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Tá an leagan is déanaí á rith agat cheana: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Tá an leagan is déanaí á rith agat cheana: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Ní mór duit an Freastalaí Gréasáin a thosú ar dtús!"

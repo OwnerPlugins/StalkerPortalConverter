@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Valitse haluamasi lähtömuoto: M3U tai TV bouquet\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Avaa tiedosto palvelimen URL-osoitteilla tai paina SINISTÄ painiketta muokataksesi isäntä- ja MAC-osoitetta\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Luo soittolista painamalla CONVERT"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Takaisin päävalikkoon"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Peruuta"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Pääsykoodi:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Tilitiedot ladattu"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktiivinen:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Lisätty {} VOD-kohdetta"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Todennus epäonnistui:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Pohja"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Kimpun sijainti asetettu: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Kimppuja luotu: {} ryhmää, joissa on {} kanavaa"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Ei voi luoda hakemistoa:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Muuta lähtöhakemistoa"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Kanavaluettelovirhe:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Kanavaluettelo epäonnistui: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Selkeä"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Yhteysvirhe:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Muunnos peruttu ennen aloitusta"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Muunnosvirhe:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Muuntaminen lopetettiin ennen kimpun luomista"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Käyttäjä pysäytti muuntamisen"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Muuntaminen pysähtyi M3U:n luomisen aikana"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Muuntaminen keskeytettiin kimpun luomisen aikana"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Muuntaminen pysäytettiin kanavan haun aikana"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Muuntaminen pysähtyi ryhmittelyn aikana"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Muuntaminen keskeytettiin käsittelyn aikana"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Konversion aikakatkaisu ylitetty"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Muunna Stalker Portal M3U-soittolistaksi todellisilla kanavilla"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Muunna muotoon M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Muunna televisioon"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Kriittinen kanavan käsittelyvirhe"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Poista soittolistatiedosto"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Poistaminen epäonnistui:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Poistettu:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Hakemistoa ei voi kirjoittaa:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Ei käytössä"
 
 msgid "Disk"
-msgstr ""
+msgstr "Levy"
 
 msgid "Edit"
-msgstr ""
+msgstr "Muokata"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Muokkaa MAC-osoitetta"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Muokkaa portaalin URL-osoitetta"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Käytössä"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Anna MAC-osoite (esim. 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Anna portaalin URL-osoite (esim. http://example.com/c/ tai http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Virhe käytettäessä määritysarvoja"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Virhe käytettäessä määritysarvoja:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Virhe käytettäessä hakemistoa:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Virhe luotaessa soittolistaa:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Virheen tiedot: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Virhe poimittaessa tilitietoja"
 
 msgid "Error!"
-msgstr ""
+msgstr "Virhe!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Virhe:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Virhe: Virheellinen MAC-osoite"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Virhe: virheellinen portaalin URL-osoite"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Virhe: Portaali ja MAC vaaditaan"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Vanheneminen:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Tilitietojen lataaminen epäonnistui"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Tunnuksen saaminen epäonnistui!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Portaalin tai MAC-määrityksen lukeminen epäonnistui:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Kanavaluettelon hakeminen epäonnistui"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Kentät tyhjennetty"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Ryhmittely: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "APUA:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Kättely epäonnistui: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Kädenpuristus epäonnistui: Tokenia ei vastaanotettu"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Kiintolevy"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Piilota koodi"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Sisällytä VOD soittolistaan"
 
 msgid "Information"
-msgstr ""
+msgstr "Tiedot"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Alustusvirhe"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Virheellinen JSON-vastaus kanavaluettelossa"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Virheellinen MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Virheellinen URL-osoite: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Ladattu soittolista: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Ladattu {} kelvollista merkintää kohteesta {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Ladataan tilitietoja taustalla..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U luotu {} kanavalla"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC-osoite:"
 
 msgid "Max:"
 msgstr ""
 
 msgid "Network"
-msgstr ""
+msgstr "Verkko"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Uusi pääsykoodi:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Uusi koodi"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Uusi pääsykoodi luotu!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Vastauksessa ei löytynyt kanavia"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Tiedostoja ei löydy kohteesta:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Tiedostoja tai hakemistoja ei löydy:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Tiedostosta ei löytynyt kelvollisia merkintöjä"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Ei tarpeeksi tilaa kohteessa {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Tulostiedosto:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Salasana:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Soittolistatiedosto:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "Portaalin URL-osoite:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Valmistellaan {} kanavaa..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Paina 0: Näytä pääsykoodi | Paina 1: Uusi koodi"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Valmis – Valitse tiedosto tai kirjoita URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Skannaa tiedostoa... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Valitse Kukkakimpun sijainti"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Valitse Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Valitse Soittolista"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Valitse Soittolistatiedosto"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Valitse muunnostyyppi"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Valitse hakemisto"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Valitse poistettava tiedosto: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Valitse soittolistatiedosto"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Valitse tämä hakemisto"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Valittu hakemisto:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Valittu:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Aseta kimpun sijainti"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Aseta tyypin muunnos"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Näytä koodi"
 
 msgid "Stalker Portal to M3U Converter v.%s"
 msgstr ""
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Aloitetaan muunnosprosessi..."
 
 msgid "Status:"
 msgstr ""
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Vaihe 1/3: Yhdistetään portaaliin..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Vaihe 1/3: Kädenpuristus..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Vaihe 2/3: Todennus..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Vaihe 2/3: Luodaan soittolistatiedostoa..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Vaihe 3/3: Luo kimpputiedosto..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Vaihe 3/3: Luo M3U-tiedosto..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Vaihe 3/3: Haetaan kanavia..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Vaihe 4/4: VOD-sisällön hakeminen..."
 
 msgid "Stop"
 msgstr ""
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Lopetetaan muuntamista..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Pysäytetään nykyinen prosessi portaalin vaihtamiseksi..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Menestys!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Väliaikainen varastointi"
 
 msgid "Top"
-msgstr ""
+msgstr "Yläosa"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB-asema"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Päivitys keskeytetty!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Päivitä Stalker Converter"
 
 msgid "User:"
-msgstr ""
+msgstr "Käyttäjä:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD-sisältö: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Kelvolliset portaalit valitusta tiedostosta:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Verkkoportaalipalvelin pois päältä"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Web-portaalipalvelin päällä"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Verkkopalvelinvirhe:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Web-palvelin pysähtyi"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Verkkopalvelin: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Käytössäsi on jo uusin versio: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Käytössäsi on jo uusin versio: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Sinun on ensin käynnistettävä Web-palvelin!"

@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- ជ្រើសរើសទម្រង់លទ្ធផលដែលចង់បាន៖ M3U ឬ TV bouquet\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- បើកឯកសារជាមួយ server URLs ឬចុចប៊ូតុង BLUE ដើម្បីកែសម្រួល host និង MAC address\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- ចុច CONVERT ដើម្បីបង្កើតបញ្ជីចាក់"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< ត្រលប់ទៅម៉ឺនុយមេ"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< បោះបង់"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "លេខកូដចូលប្រើ៖"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "ព័ត៌មានគណនីត្រូវបានផ្ទុក"
 
 msgid "Active:"
-msgstr ""
+msgstr "សកម្ម៖"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "បានបន្ថែមធាតុ VOD {}"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "ការផ្ទៀងផ្ទាត់បានបរាជ័យ៖"
 
 msgid "Bottom"
-msgstr ""
+msgstr "បាត"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "ទីតាំងភួងត្រូវបានកំណត់ទៅ៖ {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "ភួងបានបង្កើត៖ {} ក្រុមដែលមាន {} ឆានែល"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "មិន​អាច​បង្កើត​ថត៖"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "ផ្លាស់ប្តូរថតលទ្ធផល"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "កំហុសក្នុងបញ្ជីឆានែល៖"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "បញ្ជីឆានែលបរាជ័យ៖ HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "ច្បាស់"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "កំហុសក្នុងការតភ្ជាប់៖"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "ការបំប្លែងត្រូវបានលុបចោលមុនពេលចាប់ផ្តើម"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "កំហុសក្នុងការបំប្លែង៖"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "ការបំប្លែងបានឈប់មុនពេលបង្កើតភួង"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "ការបំប្លែងត្រូវបានបញ្ឈប់ដោយអ្នកប្រើប្រាស់"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "ការបំប្លែងបានឈប់កំឡុងពេលបង្កើត M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "ការបំប្លែងបានឈប់កំឡុងពេលបង្កើតភួង"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "ការបំប្លែងបានបញ្ឈប់កំឡុងពេលទាញយកប៉ុស្តិ៍"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "ការបំប្លែងបានឈប់កំឡុងពេលដាក់ជាក្រុម"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "ការបំប្លែងបានឈប់កំឡុងពេលដំណើរការ"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "អស់​ពេល​នៃ​ការ​បំប្លែង​បាន​លើស"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "បំលែង Stalker Portal ទៅជាបញ្ជីចាក់ M3U ជាមួយនឹងបណ្តាញពិត"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "បម្លែងទៅជា M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "បម្លែងទៅជាទូរទស្សន៍"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "កំហុសដំណើរការឆានែលសំខាន់"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "លុបឯកសារបញ្ជីចាក់"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "ការលុបបរាជ័យ៖"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "បានលុប៖"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "បញ្ជីឈ្មោះមិនអាចសរសេរបានទេ៖"
 
 msgid "Disabled"
-msgstr ""
+msgstr "ពិការ"
 
 msgid "Disk"
-msgstr ""
+msgstr "ថាស"
 
 msgid "Edit"
-msgstr ""
+msgstr "កែសម្រួល"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "កែសម្រួលអាសយដ្ឋាន MAC"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "កែសម្រួល URL វិបផតថល"
 
 msgid "Enabled"
-msgstr ""
+msgstr "បានបើក"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "បញ្ចូលអាសយដ្ឋាន MAC (ឧ. 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "បញ្ចូល URL វិបផតថល (ឧ. http://example.com/c/ ឬ http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "កំហុសក្នុងការចូលប្រើតម្លៃកំណត់រចនាសម្ព័ន្ធ"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "កំហុសក្នុងការចូលប្រើតម្លៃកំណត់រចនាសម្ព័ន្ធ៖"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "កំហុសក្នុងការចូលប្រើថត៖"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "កំហុសក្នុងការបង្កើតបញ្ជីចាក់៖"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "ព័ត៌មានលម្អិតអំពីកំហុស៖ {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "កំហុសក្នុងការទាញយកព័ត៌មានគណនី"
 
 msgid "Error!"
-msgstr ""
+msgstr "កំហុស!"
 
 msgid "Error:"
-msgstr ""
+msgstr "កំហុស៖"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "កំហុស៖ អាសយដ្ឋាន MAC មិនត្រឹមត្រូវ"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "កំហុស៖ URL វិបផតថលមិនត្រឹមត្រូវ"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "កំហុស៖ វិបផតថល និង MAC ត្រូវបានទាមទារ"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "ផុតកំណត់៖"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "បរាជ័យក្នុងការផ្ទុកព័ត៌មានគណនី"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "បរាជ័យក្នុងការទទួលបានសញ្ញាសម្ងាត់!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "បានបរាជ័យក្នុងការអានវិបផតថល ឬការកំណត់រចនាសម្ព័ន្ធ MAC៖\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "បរាជ័យក្នុងការទាញយកបញ្ជីឆានែល"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "វាលត្រូវបានជម្រះ"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "ការដាក់ជាក្រុម៖ {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "ជំនួយ៖\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "ការចាប់ដៃបានបរាជ័យ៖ HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "ការចាប់ដៃបានបរាជ័យ៖ គ្មានសញ្ញាសម្ងាត់បានទទួលទេ។"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "ថាសរឹង"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "លាក់លេខកូដ"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "រួមបញ្ចូល VOD នៅក្នុងបញ្ជីចាក់"
 
 msgid "Information"
-msgstr ""
+msgstr "ព័ត៌មាន"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "កំហុសក្នុងការចាប់ផ្តើម"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "ការឆ្លើយតប JSON មិនត្រឹមត្រូវសម្រាប់បញ្ជីឆានែល"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC មិនត្រឹមត្រូវ៖ {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "URL មិនត្រឹមត្រូវ៖ {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "បញ្ជីចាក់ដែលបានផ្ទុក៖ %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "ផ្ទុកធាតុត្រឹមត្រូវ {} ពី {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "កំពុងផ្ទុកព័ត៌មានគណនីនៅក្នុងផ្ទៃខាងក្រោយ..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U បានបង្កើតជាមួយ {} ឆានែល"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "អាសយដ្ឋាន MAC៖"
 
 msgid "Max:"
-msgstr ""
+msgstr "អតិបរមា៖"
 
 msgid "Network"
-msgstr ""
+msgstr "បណ្តាញ"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "លេខកូដចូលថ្មី៖"
 
 msgid "New Code"
-msgstr ""
+msgstr "កូដថ្មី។"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "លេខកូដចូលប្រើថ្មីត្រូវបានបង្កើត!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "រកមិនឃើញឆានែលក្នុងការឆ្លើយតបទេ។"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "រកមិនឃើញឯកសារនៅក្នុង៖"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "រកមិនឃើញឯកសារ ឬថតឯកសារនៅក្នុង៖"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "រកមិនឃើញធាតុត្រឹមត្រូវនៅក្នុងឯកសារទេ។"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "មិនមានកន្លែងទំនេរគ្រប់គ្រាន់នៅលើ {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "ឯកសារលទ្ធផល៖"
 
 msgid "Password:"
-msgstr ""
+msgstr "ពាក្យសម្ងាត់៖"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "ឯកសារបញ្ជីចាក់៖"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URL វិបផតថល៖"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "កំពុងរៀបចំ {} ឆានែល..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "ចុច 0: បង្ហាញលេខកូដចូលដំណើរការ | ចុច 1: លេខកូដថ្មី។"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "រួចរាល់ - ជ្រើសរើសឯកសារ ឬបញ្ចូល URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "កំពុងស្កេនឯកសារ... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "ជ្រើសរើសទីតាំងភួង"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "ជ្រើសរើស Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "ជ្រើសរើសបញ្ជីចាក់"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "ជ្រើសរើសឯកសារបញ្ជីចាក់"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "ជ្រើសរើសប្រភេទនៃការបំប្លែង"
 
 msgid "Select directory"
-msgstr ""
+msgstr "ជ្រើសរើសថត"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "ជ្រើសរើសឯកសារដែលត្រូវលុបក្នុង៖ {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "ជ្រើសរើសឯកសារបញ្ជីចាក់"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "ជ្រើសរើសថតនេះ។"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "ថតដែលបានជ្រើសរើស៖"
 
 msgid "Selected:"
-msgstr ""
+msgstr "បានជ្រើសរើស៖"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "កំណត់ទីតាំងភួង"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "កំណត់ប្រភេទការបំប្លែង"
 
 msgid "Show Code"
-msgstr ""
+msgstr "បង្ហាញលេខកូដ"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker Portal ទៅ M3U Converter v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "កំពុងចាប់ផ្តើមដំណើរការបំប្លែង..."
 
 msgid "Status:"
-msgstr ""
+msgstr "ស្ថានភាព៖"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "ជំហានទី 1/3៖ ភ្ជាប់ទៅវិបផតថល..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "ជំហានទី 1/3៖ ការចាប់ដៃ..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "ជំហានទី 2/3៖ ការផ្ទៀងផ្ទាត់..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "ជំហានទី 2/3៖ បង្កើតឯកសារបញ្ជីចាក់..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "ជំហានទី 3/3៖ បង្កើតឯកសារភួង..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "ជំហានទី 3/3៖ បង្កើតឯកសារ M3U..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "ជំហានទី 3/3៖ ទទួលបានឆានែល..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "ជំហានទី ៤/៤៖ ទទួលបានខ្លឹមសារ VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "ឈប់"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "ការបញ្ឈប់ការបំប្លែង..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "ការបញ្ឈប់ដំណើរការបច្ចុប្បន្នដើម្បីប្តូរវិបផតថល..."
 
 msgid "Success!"
-msgstr ""
+msgstr "ជោគជ័យ!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "ការផ្ទុកបណ្តោះអាសន្ន"
 
 msgid "Top"
-msgstr ""
+msgstr "កំពូល"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "ដ្រាយ USB"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "ការអាប់ដេតត្រូវបានលុបចោល!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "ធ្វើឱ្យប្រសើរឡើងកម្មវិធីបម្លែង Stalker"
 
 msgid "User:"
-msgstr ""
+msgstr "អ្នកប្រើប្រាស់៖"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "ការដាក់បញ្ចូល VOD៖ {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "វិបផតថលដែលមានសុពលភាពពីឯកសារដែលបានជ្រើសរើស៖"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "ម៉ាស៊ីនមេវិបផតថលបិទ"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "ម៉ាស៊ីនមេវិបផតថលបើក"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "កំហុសម៉ាស៊ីនមេគេហទំព័រ៖"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "ម៉ាស៊ីនមេគេហទំព័របានឈប់"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "ម៉ាស៊ីនមេគេហទំព័រ៖ http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "អ្នកកំពុងដំណើរការកំណែចុងក្រោយបំផុតរួចហើយ៖ %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "អ្នកកំពុងដំណើរការកំណែចុងក្រោយបំផុតរួចហើយ៖ {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "អ្នកត្រូវចាប់ផ្តើម Web Server ជាមុនសិន!"

@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- የሚፈለገውን የውጤት ቅርጸት ይምረጡ፡ M3U ወይም TV bouquet\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- ፋይል ከአገልጋይ URLs ጋር ይክፈቱ ወይም አስተናጋጁን እና የማክ አድራሻውን ለማርትዕ ሰማያዊውን ይጫኑ\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- አጫዋች ዝርዝሩን ለመፍጠር CONVERTን ይጫኑ"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< ወደ ዋናው ምናሌ ተመለስ"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< ሰርዝ"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "የመዳረሻ ኮድ"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "የመለያ መረጃ ተጭኗል"
 
 msgid "Active:"
-msgstr ""
+msgstr "ንቁ፡"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "{} VOD ንጥሎች ታክለዋል።"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "ማረጋገጥ አልተሳካም፦"
 
 msgid "Bottom"
-msgstr ""
+msgstr "ከታች"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "የእቅፍ አቀማመጥ ተቀናብሯል ወደ፡ {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "እቅፍ አበባዎች ተፈጥረዋል፡ {} ቡድኖች {} ቻናል ያላቸው"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "ማውጫ መፍጠር አልተቻለም፡-"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "የውጤት ማውጫ ቀይር"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "የሰርጥ ዝርዝር ስህተት፡-"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "የሰርጥ ዝርዝር አልተሳካም፡ HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "ግልጽ"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "የግንኙነት ስህተት፡-"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "ልወጣ ከመጀመሩ በፊት ተሰርዟል።"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "የልወጣ ስህተት፡-"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "እቅፍ አበባ ከመፈጠሩ በፊት ልወጣ ቆሟል"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "ልወጣ በተጠቃሚ ቆሟል"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "ልወጣ M3U ሲፈጠር ቆሟል"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "እቅፍ አበባ በሚፈጠርበት ጊዜ ልወጣ ቆሟል"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "ሰርጥ ሰርስሮ በሚወጣበት ጊዜ ልወጣ ቆሟል"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "በቡድን ጊዜ ልወጣ ቆሟል"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "በሂደት ላይ እያለ ልወጣ ቆሟል"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "የልወጣ ጊዜ አልፏል"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Stalker Portal ወደ M3U አጫዋች ዝርዝር ከትክክለኛ ቻናሎች ቀይር"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "ወደ M3U ቀይር"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "ወደ ቲቪ ቀይር"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "ወሳኝ የሰርጥ ሂደት ስህተት"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "የአጫዋች ዝርዝር ፋይልን ሰርዝ"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "መሰረዝ አልተሳካም፦"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "ተሰርዟል፡"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "ማውጫ ሊጻፍ የማይችል፡-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "ተሰናክሏል።"
 
 msgid "Disk"
-msgstr ""
+msgstr "ዲስክ"
 
 msgid "Edit"
-msgstr ""
+msgstr "አርትዕ"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "የማክ አድራሻን ያርትዑ"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "ፖርታል URL አርትዕ"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ነቅቷል"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "የማክ አድራሻ አስገባ (ለምሳሌ፡ 00፡1A፡79፡XX፡XX፡XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "ፖርታል URL አስገባ (ለምሳሌ http://example.com/c/ ወይም http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "የውቅር እሴቶችን መድረስ ላይ ስህተት"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "የውቅር እሴቶችን መድረስ ላይ ስህተት፡-"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "ማውጫ መድረስ ላይ ስህተት፡-"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "አጫዋች ዝርዝር መፍጠር ላይ ስህተት"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "የስህተት ዝርዝሮች፡ {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "የመለያ መረጃ ማውጣት ላይ ስህተት"
 
 msgid "Error!"
-msgstr ""
+msgstr "ስህተት!"
 
 msgid "Error:"
-msgstr ""
+msgstr "ስህተት፡-"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "ስህተት፡ ልክ ያልሆነ የማክ አድራሻ"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "ስህተት፡ ልክ ያልሆነ ፖርታል ዩአርኤል"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "ስህተት፡ ፖርታል እና ማክ ያስፈልጋሉ።"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "ጊዜው የሚያበቃበት"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "የመለያ መረጃን መጫን አልተሳካም።"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "ማስመሰያ ማግኘት አልተሳካም!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "ፖርታልን ወይም MAC ውቅረትን ማንበብ አልተሳካም፦\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "የሰርጥ ዝርዝርን ሰርስሮ ማውጣት አልተሳካም።"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "መስኮች ጸድተዋል።"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "መቧደን፡ {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "እገዛ፡\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "መጨባበጥ አልተሳካም፡ HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "መጨባበጥ አልተሳካም፡ ምንም ምልክት አልደረሰም።"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "ሃርድ ዲስክ"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "ኮድ ደብቅ"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "በአጫዋች ዝርዝር ውስጥ VODን ያካትቱ"
 
 msgid "Information"
-msgstr ""
+msgstr "መረጃ"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "የማስጀመር ስህተት"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "ለሰርጥ ዝርዝር የተሳሳተ የJSON ምላሽ"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "ልክ ያልሆነ ማክ፡ {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "ልክ ያልሆነ URL፡ {ፖርታል}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "የተጫነ አጫዋች ዝርዝር፡ %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "የተጫኑ {} ልክ የሆኑ ግቤቶች ከ{}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "የመለያ መረጃን ከበስተጀርባ በመጫን ላይ..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U የተፈጠረው በ{} ቻናሎች ነው።"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "የማክ አድራሻ፡-"
 
 msgid "Max:"
-msgstr ""
+msgstr "ከፍተኛ፡"
 
 msgid "Network"
-msgstr ""
+msgstr "አውታረ መረብ"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "አዲስ የመዳረሻ ኮድ፡-"
 
 msgid "New Code"
-msgstr ""
+msgstr "አዲስ ኮድ"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "አዲስ የመዳረሻ ኮድ ተፈጥሯል!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "በምላሹ ምንም ሰርጦች አልተገኙም።"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "በዚህ ውስጥ ምንም ፋይሎች አልተገኙም፦"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "በዚህ ውስጥ ምንም ፋይሎች ወይም ማውጫዎች አልተገኙም፦"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "በፋይል ውስጥ ምንም ትክክለኛ ግቤቶች አልተገኙም።"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "በ{} ላይ በቂ ቦታ የለም!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "የውጤት ፋይል፡-"
 
 msgid "Password:"
-msgstr ""
+msgstr "የይለፍ ቃል፥"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "የአጫዋች ዝርዝር ፋይል፡-"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "ፖርታል URL፡"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "{} ቻናሎችን በማዘጋጀት ላይ..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "0 ን ይጫኑ፡ የመዳረሻ ኮድ አሳይ | 1 ን ይጫኑ፡ አዲስ ኮድ"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "ዝግጁ - ፋይል ይምረጡ ወይም URL/MAC ያስገቡ"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "ፋይልን በመቃኘት ላይ... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "የእቅፍ ቦታን ይምረጡ"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "ተራራ ስርን ይምረጡ"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "አጫዋች ዝርዝር ይምረጡ"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "የአጫዋች ዝርዝር ፋይልን ይምረጡ"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "የልወጣ አይነትን ይምረጡ"
 
 msgid "Select directory"
-msgstr ""
+msgstr "ማውጫ ይምረጡ"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "የሚሰርዙትን ፋይል ይምረጡ፡ {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "የአጫዋች ዝርዝር ፋይል ይምረጡ"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "ይህን ማውጫ ይምረጡ"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "የተመረጠ ማውጫ፡-"
 
 msgid "Selected:"
-msgstr ""
+msgstr "የተመረጠ፡-"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "የእቅፍ አበባ ቦታን አዘጋጅ"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "የልወጣ አይነት አዘጋጅ"
 
 msgid "Show Code"
-msgstr ""
+msgstr "ኮድ አሳይ"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker Portal ወደ M3U መለወጫ v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "የመቀየር ሂደትን በመጀመር ላይ..."
 
 msgid "Status:"
-msgstr ""
+msgstr "ሁኔታ፡"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "ደረጃ 1/3፡ ወደ ፖርታል በመገናኘት ላይ..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "ደረጃ 1/3፡ መጨባበጥ..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "ደረጃ 2/3፡ ማረጋገጥ..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "ደረጃ 2/3፡ የአጫዋች ዝርዝር ፋይል በመፍጠር ላይ..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "ደረጃ 3/3፡ Bouquet ፋይል ፍጠር..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "ደረጃ 3/3፡ የM3U ፋይል ይፍጠሩ..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "ደረጃ 3/3፡ ቻናሎችን በማግኘት ላይ..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "ደረጃ 4/4፡ የVOD ይዘትን በማግኘት ላይ..."
 
 msgid "Stop"
-msgstr ""
+msgstr "ተወ"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "መለወጥ በማቆም ላይ..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "ፖርታል ለመቀየር የአሁኑን ሂደት በማቆም ላይ..."
 
 msgid "Success!"
-msgstr ""
+msgstr "ስኬት!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "ጊዜያዊ ማከማቻ"
 
 msgid "Top"
-msgstr ""
+msgstr "ከፍተኛ"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "የዩኤስቢ ድራይቭ"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "ዝማኔ ተቋርጧል!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Stalker መለወጫ አሻሽል።"
 
 msgid "User:"
-msgstr ""
+msgstr "ተጠቃሚ፡"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "ቪኦዲ ማካተት፡ {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "ከተመረጠው ፋይል የሚሰራ ፖርታል፡"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "የድር ፖርታል አገልጋይ ጠፍቷል"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "የድር ፖርታል አገልጋይ በርቷል።"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "የድር አገልጋይ ስህተት፡-"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "የድር አገልጋይ ቆሟል"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "የድር አገልጋይ፡ http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "አስቀድመው የቅርብ ጊዜውን ስሪት እያሄዱ ነው፡ %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "አስቀድመው የቅርብ ጊዜውን ስሪት እያሄዱ ነው፡ {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "መጀመሪያ የድር አገልጋይ መጀመር አለብህ!"

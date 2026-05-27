@@ -17,427 +17,427 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Wählen Sie das gewünschte Ausgabeformat: M3U oder TV-Bouquet\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Öffnen Sie eine Datei mit Server-URLs oder drücken Sie die BLAUE Taste, um den Host und die MAC-Adresse zu bearbeiten\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Drücken Sie CONVERT, um die Playlist zu erstellen"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Zurück zum Hauptmenü"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Abbrechen"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Zugangscode:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Kontoinformationen geladen"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktiv:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "{} VOD-Artikel hinzugefügt"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Authentifizierung fehlgeschlagen:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Unten"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Blumenstraußposition eingestellt auf: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Erstellte Blumensträuße: {} Gruppen mit {} Kanälen"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Verzeichnis kann nicht erstellt werden:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Ausgabeverzeichnis ändern"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Fehler in der Kanalliste:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Kanalliste fehlgeschlagen: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Klar"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Verbindungsfehler:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Konvertierung vor Beginn abgebrochen"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Konvertierungsfehler:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Die Konvertierung wurde vor der Blumenstraußerstellung gestoppt"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Die Konvertierung wurde vom Benutzer gestoppt"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Die Konvertierung wurde während der M3U-Erstellung gestoppt"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Die Konvertierung wurde während der Blumenstraußerstellung gestoppt"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Die Konvertierung wurde während des Kanalabrufs gestoppt"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Die Konvertierung wurde während der Gruppierung gestoppt"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Die Konvertierung wurde während der Verarbeitung gestoppt"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Konvertierungs-Timeout überschritten"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Konvertieren Sie Stalker Portal in eine M3U-Playlist mit aktuellen Kanälen"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Konvertieren Sie in M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Auf TV umstellen"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Kritischer Kanalverarbeitungsfehler"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Playlist-Datei löschen"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Löschen fehlgeschlagen:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Gelöscht:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Verzeichnis nicht beschreibbar:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Deaktiviert"
 
 msgid "Disk"
-msgstr ""
+msgstr "Scheibe"
 
 msgid "Edit"
-msgstr ""
+msgstr "Bearbeiten"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Bearbeiten Sie die MAC-Adresse"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Bearbeiten Sie die Portal-URL"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Ermöglicht"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Geben Sie die MAC-Adresse ein (z. B. 00:1A:79:XX:XX:XX)."
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Geben Sie die Portal-URL ein (z. B. http://example.com/c/ oder http://example.com:8088/c/)."
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Fehler beim Zugriff auf Konfigurationswerte"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Fehler beim Zugriff auf Konfigurationswerte:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Fehler beim Zugriff auf das Verzeichnis:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Fehler beim Erstellen der Playlist:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Fehlerdetails: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Fehler beim Extrahieren der Kontoinformationen"
 
 msgid "Error!"
-msgstr ""
+msgstr "Fehler!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Fehler:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Fehler: Ungültige MAC-Adresse"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Fehler: Ungültige Portal-URL"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Fehler: Portal und MAC sind erforderlich"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Ablauf:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Kontoinformationen konnten nicht geladen werden"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Token konnte nicht abgerufen werden!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Portal- oder MAC-Konfiguration konnte nicht gelesen werden:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Senderliste konnte nicht abgerufen werden"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Felder geräumt"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Gruppierung: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "HILFE:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Handshake fehlgeschlagen: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Handshake fehlgeschlagen: Kein Token empfangen"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Festplatte"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Code ausblenden"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Fügen Sie VOD in die Playlist ein"
 
 msgid "Information"
 msgstr ""
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Initialisierungsfehler"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Ungültige JSON-Antwort für die Kanalliste"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Ungültiger MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Ungültige URL: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Geladene Playlist: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "{} gültige Einträge von {} geladen"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Kontoinformationen werden im Hintergrund geladen..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U erstellt mit {} Kanälen"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC-Adresse:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Maximal:"
 
 msgid "Network"
-msgstr ""
+msgstr "Netzwerk"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Neuer Zugangscode:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Neuer Code"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Neuer Zugangscode generiert!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Als Antwort wurden keine Kanäle gefunden"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Keine Dateien gefunden in:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Keine Dateien oder Verzeichnisse gefunden in:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "In der Datei wurden keine gültigen Einträge gefunden"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Nicht genügend Platz auf {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Ausgabedatei:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Passwort:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Playlist-Datei:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "Portal-URL:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "{} Kanäle werden vorbereitet..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Drücken Sie 0: Zugangscode anzeigen | Drücken Sie 1: Neuer Code"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Bereit – Wählen Sie eine Datei aus oder geben Sie URL/MAC ein"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Datei wird gescannt... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Wählen Sie „Bouquet-Position“."
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Wählen Sie Mount Root aus"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Wählen Sie Wiedergabeliste"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Wählen Sie Playlist-Datei"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Wählen Sie die Art der Konvertierung aus"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Verzeichnis auswählen"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Wählen Sie die zu löschende Datei aus: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Wählen Sie die Playlist-Datei aus"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Wählen Sie dieses Verzeichnis aus"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Ausgewähltes Verzeichnis:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Ausgewählt:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Legen Sie die Position des Blumenstraußes fest"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Legen Sie die Typkonvertierung fest"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Code anzeigen"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker-Portal-zu-M3U-Konverter v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Konvertierungsprozess wird gestartet..."
 
 msgid "Status:"
 msgstr ""
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Schritt 1/3: Verbindung zum Portal herstellen..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Schritt 1/3: Händedruck..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Schritt 2/3: Authentifizierung..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Schritt 2/3: Playlist-Datei erstellen..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Schritt 3/3: Bouquet-Datei erstellen..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Schritt 3/3: M3U-Datei erstellen..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Schritt 3/3: Kanäle abrufen..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Schritt 4/4: VOD-Inhalte abrufen..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Stoppen"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Konvertierung wird gestoppt..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Aktueller Prozess zum Wechseln des Portals wird gestoppt..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Erfolg!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Temporäre Lagerung"
 
 msgid "Top"
-msgstr ""
+msgstr "Spitze"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB-Laufwerk"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Update abgebrochen!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Aktualisieren Sie den Stalker-Konverter"
 
 msgid "User:"
-msgstr ""
+msgstr "Benutzer:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD-Einbindung: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Gültige Portale aus der ausgewählten Datei:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Webportalserver aus"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Webportal-Server Ein"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Webserverfehler:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Webserver gestoppt"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Webserver: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Sie führen bereits die neueste Version aus: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Sie führen bereits die neueste Version aus: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Sie müssen zuerst den Webserver starten!"

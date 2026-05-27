@@ -45,7 +45,7 @@ msgid "Added {} VOD items"
 msgstr "Προστέθηκαν {} στοιχεία ταινιών"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Ο έλεγχος ταυτότητας απέτυχε:"
 
 msgid "Bottom"
 msgstr "Κάτω"
@@ -64,10 +64,10 @@ msgid "Change Output Directory"
 msgstr "Αλλαγή καταλόγου εξόδου"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Σφάλμα λίστας καναλιών:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Η λίστα καναλιών απέτυχε: HTTP {}"
 
 msgid "Clear"
 msgstr "Καθαρισμός"
@@ -134,13 +134,13 @@ msgid "Deleted:"
 msgstr "Διαγράφηκε: "
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Ο κατάλογος δεν μπορεί να εγγραφεί:"
 
 msgid "Disabled"
 msgstr "Απενεργοποιημένο"
 
 msgid "Disk"
-msgstr ""
+msgstr "Δίσκος"
 
 msgid "Edit"
 msgstr "Επεξεργασία"
@@ -231,7 +231,7 @@ msgid "Handshake failed: No token received"
 msgstr "Η χειραψία απέτυχε: Δεν ελήφθη token"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Σκληρός δίσκος"
 
 msgid "Hide Code"
 msgstr "Απόκρυψη κωδικού"
@@ -250,7 +250,7 @@ msgid "Invalid JSON response for channel list"
 msgstr "Αποτυχία ανάκτησης λίστας καναλιών"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Μη έγκυρο MAC: {mac}"
 
 #, fuzzy
 msgid "Invalid URL: {portal}"
@@ -276,7 +276,7 @@ msgid "Max:"
 msgstr "Μέγιστοι: "
 
 msgid "Network"
-msgstr ""
+msgstr "Δίκτυο"
 
 #, fuzzy
 msgid "New Access Code:"
@@ -422,13 +422,13 @@ msgid "Success!"
 msgstr "Επιτυχία! "
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Προσωρινή αποθήκευση"
 
 msgid "Top"
 msgstr "Πάνω"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Μονάδα USB"
 
 msgid "Update Aborted!"
 msgstr "Η ενημέρωση ακυρώθηκε!"

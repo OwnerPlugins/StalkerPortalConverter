@@ -10,385 +10,385 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Zgjidhni formatin e dëshiruar të daljes: M3U ose buqetë TV\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Hapni një skedar me URL serveri ose shtypni butonin BLU për të modifikuar hostin dhe adresën MAC\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Shtypni CONVERT për të gjeneruar listën e luajtjes"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Kthehu te menyja kryesore"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Anulo"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Kodi i hyrjes:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Informacioni i llogarisë u ngarkua"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktiv:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "U shtuan {} artikuj VOD"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Autentifikimi dështoi:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Poshtë"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Pozicioni i buqetës është caktuar në: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Buqeta të krijuara: {} grupe me {} kanale"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Nuk mund të krijohet drejtori:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Ndrysho drejtorinë e daljes"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Gabim në listën e kanaleve:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Lista e kanaleve dështoi: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "E qartë"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Gabim lidhjeje:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Konvertimi u anulua përpara fillimit"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Gabim konvertimi:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Konvertimi u ndal përpara krijimit të buqetës"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Konvertimi u ndal nga përdoruesi"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Konvertimi u ndal gjatë krijimit të M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Konvertimi u ndal gjatë krijimit të buqetës"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Konvertimi u ndal gjatë marrjes së kanalit"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Konvertimi u ndal gjatë grupimit"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Konvertimi u ndal gjatë përpunimit"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Koha e konvertimit kaloi"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Konvertoni Stalker Portal në listën e luajtjes M3U me kanalet aktuale"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Konverto në M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Konverto në TV"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Gabim kritik i përpunimit të kanalit"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Fshi skedarin e listës së luajtjes"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Fshirja dështoi:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "U fshi:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Drejtoria nuk mund të shkruhet:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "I paaftë"
 
 msgid "Disk"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "Redakto"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Ndrysho adresën MAC"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Redakto URL-në e portalit"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Aktivizuar"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Fut adresën MAC (p.sh., 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Fut URL-në e portalit (p.sh. http://example.com/c/ ose http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Gabim në qasjen në vlerat e konfigurimit"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Gabim në qasjen në vlerat e konfigurimit:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Gabim gjatë qasjes në drejtori:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Gabim në krijimin e listës për luajtje:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Detajet e gabimit: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Gabim gjatë nxjerrjes së informacionit të llogarisë"
 
 msgid "Error!"
-msgstr ""
+msgstr "Gabim!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Gabim:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Gabim: adresë MAC e pavlefshme"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Gabim: URL e pavlefshme e portalit"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Gabim: Kërkohet Portali dhe MAC"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Skadimi:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Ngarkimi i informacionit të llogarisë dështoi"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Dështoi në marrjen e kodit!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Leximi i konfigurimit të portalit ose MAC dështoi:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Marrja e listës së kanaleve dështoi"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Fushat u pastruan"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Grupimi: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "NDIHMË:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Shtrëngimi i duarve dështoi: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Shtrëngimi i duarve dështoi: Nuk u mor asnjë shenjë"
 
 msgid "Hard Disk"
 msgstr ""
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Fshih kodin"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Përfshi VOD në listën e luajtjes"
 
 msgid "Information"
-msgstr ""
+msgstr "Informacion"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Gabim inicializimi"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Përgjigje e pavlefshme JSON për listën e kanaleve"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC e pavlefshme: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "URL e pavlefshme: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Lista për luajtje e ngarkuar: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "U ngarkuan {} hyrje të vlefshme nga {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Po ngarkon informacionin e llogarisë në sfond..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U krijuar me {} kanale"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "Adresa MAC:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Maksimumi:"
 
 msgid "Network"
-msgstr ""
+msgstr "Rrjeti"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Kodi i ri i hyrjes:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Kodi i ri"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "U krijua kodi i ri i hyrjes!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Nuk u gjet asnjë kanal si përgjigje"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Nuk u gjet asnjë skedar në:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Nuk u gjetën skedarë ose drejtori në:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Nuk u gjet asnjë hyrje e vlefshme në skedar"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Nuk ka hapësirë ​​të mjaftueshme në {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Skedari dalës:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Fjalëkalimi:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Skedari i listës së luajtjes:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URL e portalit:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Po përgatit {} kanale..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Shtypni 0: Shfaq kodin e hyrjes | Shtypni 1: Kodi i ri"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Gati - Zgjidhni një skedar ose futni URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Skanimi i skedarit... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Zgjidhni Pozicionin e Buqetës"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Zgjidhni Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Zgjidhni listën e luajtjes"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Zgjidhni Skedarin e listës së luajtjes"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Zgjidhni llojin e konvertimit"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Zgjidhni direktorinë"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Zgjidh skedarin për ta fshirë në: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Zgjidhni skedarin e listës së luajtjes"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Zgjidhni këtë direktori"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Drejtoria e zgjedhur:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Zgjedhur:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Vendosni pozicionin e buqetës"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Cakto konvertimin e tipit"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Shfaq kodin"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Portali Stalker në konvertuesin M3U v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Fillimi i procesit të konvertimit..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Statusi:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Hapi 1/3: Lidhja me portalin..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Hapi 1/3: Shtrëngimi i duarve..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Hapi 2/3: Vërtetimi..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Hapi 2/3: Krijimi i skedarit të listës së luajtjes..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Hapi 3/3: Krijo skedar Bouquet..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Hapi 3/3: Krijo skedar M3U..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Hapi 3/3: Marrja e kanaleve..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Hapi 4/4: Marrja e përmbajtjes VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Ndalo"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Po ndalon konvertimin..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Po ndalon procesin aktual për ndërrimin e portalit..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Suksese!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Ruajtja e Përkohshme"
 
 msgid "Top"
 msgstr ""
@@ -397,40 +397,40 @@ msgid "USB Drive"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Përditësimi u ndërpre!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Përmirëso konvertuesin Stalker"
 
 msgid "User:"
-msgstr ""
+msgstr "Përdoruesi:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Përfshirja e VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Portale të vlefshme nga skedari i zgjedhur:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Serveri i portalit në ueb është i fikur"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Serveri i portalit në ueb është aktivizuar"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Gabim i serverit në ueb:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Ueb serveri u ndal"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Serveri në internet: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Ju tashmë po ekzekutoni versionin më të fundit: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Ju tashmë po ekzekutoni versionin më të fundit: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Së pari ju duhet të nisni Web Serverin!"

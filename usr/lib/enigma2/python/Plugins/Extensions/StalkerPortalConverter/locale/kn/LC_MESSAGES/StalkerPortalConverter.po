@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- ಬಯಸಿದ ಔಟ್‌ಪುಟ್ ಸ್ವರೂಪವನ್ನು ಆಯ್ಕೆಮಾಡಿ: M3U ಅಥವಾ ಟಿವಿ ಪುಷ್ಪಗುಚ್ಛ\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- ಸರ್ವರ್ URL ಗಳೊಂದಿಗೆ ಫೈಲ್ ತೆರೆಯಿರಿ ಅಥವಾ ಹೋಸ್ಟ್ ಮತ್ತು MAC ವಿಳಾಸವನ್ನು ಸಂಪಾದಿಸಲು ನೀಲಿ ಬಟನ್ ಒತ್ತಿರಿ\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- ಪ್ಲೇಪಟ್ಟಿಯನ್ನು ರಚಿಸಲು CONVERT ಅನ್ನು ಒತ್ತಿರಿ"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< ಮುಖ್ಯ ಮೆನುಗೆ ಹಿಂತಿರುಗಿ"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< ರದ್ದುಮಾಡಿ"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "ಪ್ರವೇಶ ಕೋಡ್:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "ಖಾತೆಯ ಮಾಹಿತಿಯನ್ನು ಲೋಡ್ ಮಾಡಲಾಗಿದೆ"
 
 msgid "Active:"
-msgstr ""
+msgstr "ಸಕ್ರಿಯ:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "{} VOD ಐಟಂಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "ದೃಢೀಕರಣ ವಿಫಲವಾಗಿದೆ:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "ಕೆಳಗೆ"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "ಬೊಕೆ ಸ್ಥಾನವನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "ಹೂಗುಚ್ಛಗಳನ್ನು ರಚಿಸಲಾಗಿದೆ: {} ಚಾನಲ್‌ಗಳೊಂದಿಗೆ {} ಗುಂಪುಗಳು"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "ಡೈರೆಕ್ಟರಿಯನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "ಔಟ್ಪುಟ್ ಡೈರೆಕ್ಟರಿಯನ್ನು ಬದಲಾಯಿಸಿ"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "ಚಾನಲ್ ಪಟ್ಟಿ ದೋಷ:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "ಚಾನಲ್ ಪಟ್ಟಿ ವಿಫಲವಾಗಿದೆ: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "ತೆರವುಗೊಳಿಸಿ"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "ಸಂಪರ್ಕ ದೋಷ:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "ಪ್ರಾರಂಭದ ಮೊದಲು ಪರಿವರ್ತನೆ ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "ಪರಿವರ್ತನೆ ದೋಷ:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "ಪುಷ್ಪಗುಚ್ಛವನ್ನು ರಚಿಸುವ ಮೊದಲು ಪರಿವರ್ತನೆ ನಿಲ್ಲಿಸಲಾಗಿದೆ"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "ಬಳಕೆದಾರರಿಂದ ಪರಿವರ್ತನೆ ನಿಲ್ಲಿಸಲಾಗಿದೆ"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "M3U ರಚನೆಯ ಸಮಯದಲ್ಲಿ ಪರಿವರ್ತನೆ ನಿಲ್ಲಿಸಲಾಗಿದೆ"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "ಪುಷ್ಪಗುಚ್ಛ ರಚನೆಯ ಸಮಯದಲ್ಲಿ ಪರಿವರ್ತನೆ ನಿಲ್ಲಿಸಲಾಗಿದೆ"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "ಚಾನಲ್ ಮರುಪಡೆಯುವಿಕೆ ಸಮಯದಲ್ಲಿ ಪರಿವರ್ತನೆ ನಿಲ್ಲಿಸಲಾಗಿದೆ"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "ಗುಂಪು ಮಾಡುವ ಸಮಯದಲ್ಲಿ ಪರಿವರ್ತನೆ ನಿಲ್ಲಿಸಲಾಗಿದೆ"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "ಪ್ರಕ್ರಿಯೆಯ ಸಮಯದಲ್ಲಿ ಪರಿವರ್ತನೆ ನಿಲ್ಲಿಸಲಾಗಿದೆ"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "ಪರಿವರ್ತನೆಯ ಅವಧಿ ಮೀರಿದೆ"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "ನಿಜವಾದ ಚಾನಲ್‌ಗಳೊಂದಿಗೆ ಸ್ಟಾಕರ್ ಪೋರ್ಟಲ್ ಅನ್ನು M3U ಪ್ಲೇಪಟ್ಟಿಗೆ ಪರಿವರ್ತಿಸಿ"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "M3U ಗೆ ಪರಿವರ್ತಿಸಿ"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "ಟಿವಿಗೆ ಪರಿವರ್ತಿಸಿ"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "ನಿರ್ಣಾಯಕ ಚಾನಲ್ ಪ್ರಕ್ರಿಯೆ ದೋಷ"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "ಪ್ಲೇಪಟ್ಟಿ ಫೈಲ್ ಅನ್ನು ಅಳಿಸಿ"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "ಅಳಿಸುವಿಕೆ ವಿಫಲವಾಗಿದೆ:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "ಅಳಿಸಲಾಗಿದೆ:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "ಡೈರೆಕ್ಟರಿಯನ್ನು ಬರೆಯಲಾಗುವುದಿಲ್ಲ:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
 
 msgid "Disk"
-msgstr ""
+msgstr "ಡಿಸ್ಕ್"
 
 msgid "Edit"
-msgstr ""
+msgstr "ಸಂಪಾದಿಸು"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "MAC ವಿಳಾಸವನ್ನು ಸಂಪಾದಿಸಿ"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "ಪೋರ್ಟಲ್ URL ಅನ್ನು ಸಂಪಾದಿಸಿ"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "MAC ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ (ಉದಾ., 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "ಪೋರ್ಟಲ್ URL ಅನ್ನು ನಮೂದಿಸಿ (ಉದಾ. http://example.com/c/ ಅಥವಾ http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "ಕಾನ್ಫಿಗರೇಶನ್ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರವೇಶಿಸುವಲ್ಲಿ ದೋಷ"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "ಕಾನ್ಫಿಗರೇಶನ್ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರವೇಶಿಸುವಲ್ಲಿ ದೋಷ:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "ಡೈರೆಕ್ಟರಿಯನ್ನು ಪ್ರವೇಶಿಸುವಲ್ಲಿ ದೋಷ:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "ಪ್ಲೇಪಟ್ಟಿ ರಚಿಸುವಲ್ಲಿ ದೋಷ:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "ದೋಷ ವಿವರಗಳು: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "ಖಾತೆ ಮಾಹಿತಿಯನ್ನು ಹೊರತೆಗೆಯುವಲ್ಲಿ ದೋಷ"
 
 msgid "Error!"
-msgstr ""
+msgstr "ದೋಷ!"
 
 msgid "Error:"
-msgstr ""
+msgstr "ದೋಷ:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "ದೋಷ: ಅಮಾನ್ಯ MAC ವಿಳಾಸ"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "ದೋಷ: ಅಮಾನ್ಯ ಪೋರ್ಟಲ್ URL"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "ದೋಷ: ಪೋರ್ಟಲ್ ಮತ್ತು MAC ಅಗತ್ಯವಿದೆ"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "ಮುಕ್ತಾಯ:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "ಖಾತೆಯ ಮಾಹಿತಿಯನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "ಟೋಕನ್ ಪಡೆಯಲು ವಿಫಲವಾಗಿದೆ!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "ಪೋರ್ಟಲ್ ಅಥವಾ MAC ಕಾನ್ಫಿಗರೇಶನ್ ಅನ್ನು ಓದಲು ವಿಫಲವಾಗಿದೆ:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "ಚಾನಲ್ ಪಟ್ಟಿಯನ್ನು ಹಿಂಪಡೆಯಲು ವಿಫಲವಾಗಿದೆ"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "ಜಾಗ ತೆರವುಗೊಳಿಸಲಾಗಿದೆ"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "ಗುಂಪು ಮಾಡುವಿಕೆ: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "ಸಹಾಯ:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "ಹ್ಯಾಂಡ್‌ಶೇಕ್ ವಿಫಲವಾಗಿದೆ: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "ಹ್ಯಾಂಡ್‌ಶೇಕ್ ವಿಫಲವಾಗಿದೆ: ಯಾವುದೇ ಟೋಕನ್ ಸ್ವೀಕರಿಸಲಾಗಿಲ್ಲ"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "ಹಾರ್ಡ್ ಡಿಸ್ಕ್"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "ಕೋಡ್ ಮರೆಮಾಡಿ"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "ಪ್ಲೇಪಟ್ಟಿಯಲ್ಲಿ VOD ಅನ್ನು ಸೇರಿಸಿ"
 
 msgid "Information"
-msgstr ""
+msgstr "ಮಾಹಿತಿ"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "ಪ್ರಾರಂಭದ ದೋಷ"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "ಚಾನಲ್ ಪಟ್ಟಿಗಾಗಿ ಅಮಾನ್ಯ JSON ಪ್ರತಿಕ್ರಿಯೆ"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "ಅಮಾನ್ಯ MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "ಅಮಾನ್ಯ URL: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "ಲೋಡ್ ಮಾಡಲಾದ ಪ್ಲೇಪಟ್ಟಿ: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "{} ನಿಂದ {} ಮಾನ್ಯ ನಮೂದುಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗಿದೆ"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಖಾತೆಯ ಮಾಹಿತಿಯನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U ಅನ್ನು {} ಚಾನಲ್‌ಗಳೊಂದಿಗೆ ರಚಿಸಲಾಗಿದೆ"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC ವಿಳಾಸ:"
 
 msgid "Max:"
-msgstr ""
+msgstr "ಗರಿಷ್ಠ:"
 
 msgid "Network"
-msgstr ""
+msgstr "ನೆಟ್ವರ್ಕ್"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "ಹೊಸ ಪ್ರವೇಶ ಕೋಡ್:"
 
 msgid "New Code"
-msgstr ""
+msgstr "ಹೊಸ ಕೋಡ್"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "ಹೊಸ ಪ್ರವೇಶ ಕೋಡ್ ರಚಿಸಲಾಗಿದೆ!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "ಪ್ರತಿಕ್ರಿಯೆಯಾಗಿ ಯಾವುದೇ ಚಾನಲ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "ಇದರಲ್ಲಿ ಯಾವುದೇ ಫೈಲ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "ಇದರಲ್ಲಿ ಯಾವುದೇ ಫೈಲ್‌ಗಳು ಅಥವಾ ಡೈರೆಕ್ಟರಿಗಳು ಕಂಡುಬಂದಿಲ್ಲ:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "ಫೈಲ್‌ನಲ್ಲಿ ಯಾವುದೇ ಮಾನ್ಯ ನಮೂದುಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "{} ನಲ್ಲಿ ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶವಿಲ್ಲ!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "ಔಟ್ಪುಟ್ ಫೈಲ್:"
 
 msgid "Password:"
-msgstr ""
+msgstr "ಪಾಸ್ವರ್ಡ್:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "ಪ್ಲೇಪಟ್ಟಿ ಫೈಲ್:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "ಪೋರ್ಟಲ್ URL:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "{} ಚಾನಲ್‌ಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗುತ್ತಿದೆ..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "0 ಒತ್ತಿ: ಪ್ರವೇಶ ಕೋಡ್ ತೋರಿಸು | 1 ಒತ್ತಿ: ಹೊಸ ಕೋಡ್"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "ಸಿದ್ಧವಾಗಿದೆ - ಫೈಲ್ ಆಯ್ಕೆಮಾಡಿ ಅಥವಾ URL/MAC ನಮೂದಿಸಿ"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "ಫೈಲ್ ಅನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗುತ್ತಿದೆ... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "ಬೊಕೆ ಪೊಸಿಷನ್ ಆಯ್ಕೆಮಾಡಿ"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "ಮೌಂಟ್ ರೂಟ್ ಆಯ್ಕೆಮಾಡಿ"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "ಪ್ಲೇಪಟ್ಟಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "ಪ್ಲೇಪಟ್ಟಿ ಫೈಲ್ ಆಯ್ಕೆಮಾಡಿ"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "ಪರಿವರ್ತನೆಯ ಪ್ರಕಾರವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
 
 msgid "Select directory"
-msgstr ""
+msgstr "ಡೈರೆಕ್ಟರಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "ಅಳಿಸಲು ಫೈಲ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "ಪ್ಲೇಪಟ್ಟಿ ಫೈಲ್ ಆಯ್ಕೆಮಾಡಿ"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "ಈ ಡೈರೆಕ್ಟರಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "ಆಯ್ದ ಡೈರೆಕ್ಟರಿ:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "ಪುಷ್ಪಗುಚ್ಛದ ಸ್ಥಾನವನ್ನು ಹೊಂದಿಸಿ"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "ಪ್ರಕಾರ ಪರಿವರ್ತನೆ ಹೊಂದಿಸಿ"
 
 msgid "Show Code"
-msgstr ""
+msgstr "ಕೋಡ್ ತೋರಿಸಿ"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "M3U ಪರಿವರ್ತಕಕ್ಕೆ ಸ್ಟಾಕರ್ ಪೋರ್ಟಲ್ v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "ಪರಿವರ್ತನೆ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲಾಗುತ್ತಿದೆ..."
 
 msgid "Status:"
-msgstr ""
+msgstr "ಸ್ಥಿತಿ:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "ಹಂತ 1/3: ಪೋರ್ಟಲ್‌ಗೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "ಹಂತ 1/3: ಹಸ್ತಲಾಘವ..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "ಹಂತ 2/3: ದೃಢೀಕರಣ..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "ಹಂತ 2/3: ಪ್ಲೇಪಟ್ಟಿ ಫೈಲ್ ಅನ್ನು ರಚಿಸಲಾಗುತ್ತಿದೆ..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "ಹಂತ 3/3: ಬೊಕೆ ಫೈಲ್ ಅನ್ನು ರಚಿಸಿ..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "ಹಂತ 3/3: M3U ಫೈಲ್ ಅನ್ನು ರಚಿಸಿ..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "ಹಂತ 3/3: ಚಾನಲ್‌ಗಳನ್ನು ಪಡೆಯಲಾಗುತ್ತಿದೆ..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "ಹಂತ 4/4: VOD ವಿಷಯವನ್ನು ಪಡೆಯಲಾಗುತ್ತಿದೆ..."
 
 msgid "Stop"
-msgstr ""
+msgstr "ನಿಲ್ಲಿಸು"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "ಪರಿವರ್ತನೆಯನ್ನು ನಿಲ್ಲಿಸಲಾಗುತ್ತಿದೆ..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "ಪೋರ್ಟಲ್ ಬದಲಾಯಿಸಲು ಪ್ರಸ್ತುತ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಿಲ್ಲಿಸಲಾಗುತ್ತಿದೆ..."
 
 msgid "Success!"
-msgstr ""
+msgstr "ಯಶಸ್ಸು!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "ತಾತ್ಕಾಲಿಕ ಸಂಗ್ರಹಣೆ"
 
 msgid "Top"
-msgstr ""
+msgstr "ಟಾಪ್"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB ಡ್ರೈವ್"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "ನವೀಕರಣವನ್ನು ಸ್ಥಗಿತಗೊಳಿಸಲಾಗಿದೆ!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "ಸ್ಟಾಕರ್ ಪರಿವರ್ತಕವನ್ನು ನವೀಕರಿಸಿ"
 
 msgid "User:"
-msgstr ""
+msgstr "ಬಳಕೆದಾರ:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD ಸೇರ್ಪಡೆ: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "ಆಯ್ದ ಫೈಲ್‌ನಿಂದ ಮಾನ್ಯವಾದ ಪೋರ್ಟಲ್‌ಗಳು:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "ವೆಬ್ ಪೋರ್ಟಲ್ ಸರ್ವರ್ ಆಫ್ ಆಗಿದೆ"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "ವೆಬ್ ಪೋರ್ಟಲ್ ಸರ್ವರ್ ಆನ್ ಆಗಿದೆ"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "ವೆಬ್ ಸರ್ವರ್ ದೋಷ:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "ವೆಬ್ ಸರ್ವರ್ ಸ್ಥಗಿತಗೊಂಡಿದೆ"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "ವೆಬ್ ಸರ್ವರ್: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "ನೀವು ಈಗಾಗಲೇ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಚಲಾಯಿಸುತ್ತಿರುವಿರಿ: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "ನೀವು ಈಗಾಗಲೇ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಚಲಾಯಿಸುತ್ತಿರುವಿರಿ: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "ನೀವು ಮೊದಲು ವೆಬ್ ಸರ್ವರ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಬೇಕು!"

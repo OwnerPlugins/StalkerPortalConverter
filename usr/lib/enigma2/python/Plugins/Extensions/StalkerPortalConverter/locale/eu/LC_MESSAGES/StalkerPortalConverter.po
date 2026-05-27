@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Aukeratu nahi duzun irteera formatua: M3U edo telebista-sorta\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Ireki zerbitzariaren URLak dituen fitxategi bat edo sakatu URDINA botoia ostalaria eta MAC helbidea editatzeko\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Sakatu BIHURTU erreprodukzio-zerrenda sortzeko"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Itzuli menu nagusira"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Utzi"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Sarbide kodea:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Kontuaren informazioa kargatu da"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktiboa:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "{} VOD elementu gehitu dira"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Autentifikazioak huts egin du:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Behean"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Soraren posizioa honela ezarri da: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Sortutako sortak: {} talde {} kanalekin"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Ezin da direktorioa sortu:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Aldatu irteera-direktorioa"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Kanalen zerrendaren errorea:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Kanal zerrendak huts egin du: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Garbi"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Konexio-errorea:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Bihurketa bertan behera utzi da hasi aurretik"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Bihurtze-errorea:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Sorta sortu aurretik bihurketa gelditu zen"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Erabiltzaileak eten du bihurketa"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Bihurketa gelditu da M3U sortzean"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Bihurketa gelditu egin da sorta sorta sortzean"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Bihurketa gelditu da kanala berreskuratzean"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Bihurketa gelditu da taldekatzean"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Bihurketa gelditu da prozesatzean"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Bihurketen denbora-muga gainditu da"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Bihurtu Stalker Portal M3U erreprodukzio zerrendara benetako kanalekin"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Bihurtu M3U-ra"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Bihurtu telebistara"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Kanalaren prozesatzeko errore larria"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Ezabatu erreprodukzio zerrendaren fitxategia"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Ezin izan da ezabatu:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Ezabatua:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Direktorioa ezin da idatzi:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Ezindua"
 
 msgid "Disk"
-msgstr ""
+msgstr "Diskoa"
 
 msgid "Edit"
-msgstr ""
+msgstr "Editatu"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Editatu MAC helbidea"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Editatu atariaren URLa"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Gaituta"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Sartu MAC helbidea (adibidez, 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Sartu atariaren URLa (adibidez, http://example.com/c/ edo http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Errore bat gertatu da konfigurazio-balioetan sartzean"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Errore bat gertatu da konfigurazio-balioetan sartzean:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Errorea direktorioa atzitzean:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Errore bat gertatu da erreprodukzio-zerrenda sortzean:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Errorearen xehetasunak: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Errore bat gertatu da kontuaren informazioa ateratzean"
 
 msgid "Error!"
-msgstr ""
+msgstr "Errorea!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Errorea:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Errorea: MAC helbide baliogabea"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Errorea: atariaren URL baliogabea"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Errorea: Portal eta MAC beharrezkoak dira"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Iraungitzea:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Ezin izan da kontuaren informazioa kargatu"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Ezin izan da tokena lortu!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Ezin izan da ataria edo MAC konfigurazioa irakurri:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Ezin izan da kanal zerrenda berreskuratu"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Eremuak garbitu dira"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Taldekatzea: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "LAGUNTZA:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Esku-harremanak huts egin du: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Esku-harremanak huts egin du: ez da token jaso"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Disko gogorra"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Ezkutatu kodea"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Sartu VOD erreprodukzio-zerrendan"
 
 msgid "Information"
-msgstr ""
+msgstr "Informazioa"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Hasierako errorea"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "JSON erantzun baliogabea kanal zerrendarako"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC baliogabea: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "URL baliogabea: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Kargatu da erreprodukzio-zerrenda: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "{} erabiltzailearen baliozko {} sarrera kargatu dira"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Kontuaren informazioa atzeko planoan kargatzen..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "{} kanalekin sortutako M3U"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC Helbidea:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Gehienez:"
 
 msgid "Network"
-msgstr ""
+msgstr "Sarea"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Sarbide-kode berria:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Kode Berria"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Sarbide-kode berria sortu da!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Ez da kanalik aurkitu erantzun moduan"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Ez da fitxategirik aurkitu:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Ez da fitxategirik edo direktoriorik aurkitu:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Ez da baliozko sarrerarik aurkitu fitxategian"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Ez dago leku nahikorik {}-n!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Irteerako fitxategia:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Pasahitza:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Erreprodukzio-zerrendaren fitxategia:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "Atariaren URLa:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "{} kanal prestatzen..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Sakatu 0: Erakutsi Sarbide Kodea | Sakatu 1: Kode berria"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Prest - Hautatu fitxategi bat edo sartu URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Fitxategia eskaneatzen... % {}"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Hautatu sortaren posizioa"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Hautatu Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Hautatu Erreprodukzio zerrenda"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Hautatu Erreprodukzio-zerrendaren fitxategia"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Hautatu Bihurketa mota"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Hautatu direktorioa"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Hautatu hemen ezabatzeko fitxategia: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Hautatu erreprodukzio-zerrendaren fitxategia"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Hautatu direktorio hau"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Hautatutako direktorioa:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Hautatua:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Ezarri sortaren posizioa"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Ezarri Mota Bihurketa"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Erakutsi kodea"
 
 msgid "Stalker Portal to M3U Converter v.%s"
 msgstr ""
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Bihurtze-prozesua hasten..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Egoera:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "1/3 urratsa: atarira konektatzen..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "1/3 urratsa: eskua eman..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "2/3 urratsa: autentifikazioa..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "2/3 urratsa: erreprodukzio-zerrenda fitxategia sortzen..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "3/3 urratsa: Sortu Bouquet fitxategia..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "3/3 urratsa: Sortu M3U fitxategia..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "3/3 urratsa: kanalak lortzea..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "4/4 urratsa: VOD edukia lortzea..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Gelditu"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Bihurketa gelditzen..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Atari aldatzeko uneko prozesua gelditzen..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Arrakasta!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Aldi baterako biltegiratzea"
 
 msgid "Top"
-msgstr ""
+msgstr "Goiena"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB unitatea"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Eguneratzea bertan behera utzi da!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Berritu Stalker Converter"
 
 msgid "User:"
-msgstr ""
+msgstr "Erabiltzailea:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD sartzea: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Hautatutako fitxategitik baliozko atariak:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Web atariaren zerbitzaria itzalita"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Web Portal zerbitzaria Aktibatuta"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Web zerbitzariaren errorea:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Web zerbitzaria gelditu da"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Web zerbitzaria: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Dagoeneko azken bertsioa exekutatzen ari zara: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Dagoeneko azken bertsioa exekutatzen ari zara: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Web Zerbitzaria hasi behar duzu lehenik!"

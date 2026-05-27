@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Elektu la deziratan eligformaton: M3U aŭ televidbukedo\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Malfermu dosieron kun servilaj URL-oj aŭ premu la BLUAN butonon por redakti la gastiganton kaj MAC-adreson\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Premu CONVERT por generi la ludliston"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Reen al la ĉefa menuo"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Nuligi"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Alirkodo:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Kontaj informoj ŝarĝitaj"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktiva:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Aldonitaj {} VOD-eroj"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Aŭtentigo malsukcesis:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Fundo"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Bukeda pozicio agordita al: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Kreitaj bukedoj: {} grupoj kun {} kanaloj"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Ne povas krei dosierujon:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Ŝanĝi Eligo Dosierujo"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Eraro pri kanallisto:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Kanallisto malsukcesis: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Klara"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Eraro de konekto:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Konvertiĝo nuligita antaŭ komenco"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Konverta eraro:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Konvertiĝo ĉesis antaŭ kreado de bukedo"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Konvertiĝo ĉesigita de uzanto"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Konvertiĝo ĉesis dum kreado de M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Konvertiĝo ĉesis dum kreado de bukedoj"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Konvertiĝo ĉesis dum kanala reakiro"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Konvertiĝo ĉesis dum grupiĝo"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Konvertiĝo ĉesis dum prilaborado"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Konverttempo superis"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Konverti Stalker Portal al M3U-ludlisto kun realaj kanaloj"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Konverti al M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Konverti al televido"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Kritika eraro pri prilaborado de kanalo"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Forigi Ludlistdosieron"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Forigo malsukcesis:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Forigita:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Dosierujo ne skribebla:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Malebligita"
 
 msgid "Disk"
-msgstr ""
+msgstr "Disko"
 
 msgid "Edit"
-msgstr ""
+msgstr "Redakti"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Redaktu MAC-adreson"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Redaktu Portala URL"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Ebligita"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Enigu MAC-adreson (ekz. 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Enigu Portalan URL (ekz. http://example.com/c/ aŭ http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Eraro alirante agordajn valorojn"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Eraro alirante agordajn valorojn:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Eraro alirante dosierujon:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Eraro dum kreado de ludlisto:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Detaloj pri eraro: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Eraro ĉerpi informojn pri konto"
 
 msgid "Error!"
-msgstr ""
+msgstr "Eraro!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Eraro:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Eraro: Nevalida MAC-adreso"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Eraro: Nevalida portala URL"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Eraro: Portalo kaj MAC estas postulataj"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Eksvalidiĝo:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Malsukcesis ŝargi kontajn informojn"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Malsukcesis akiri ĵetonon!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Malsukcesis legi portalon aŭ MAC-agordon:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Malsukcesis retrovi kanalliston"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Kampoj malbariĝis"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Grupiĝo: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "HELPO:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Manpremo malsukcesis: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Manpremo malsukcesis: Neniu ĵetono ricevis"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Malmola Disko"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Kaŝi Kodon"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Inkluzivi VOD en Ludlisto"
 
 msgid "Information"
-msgstr ""
+msgstr "Informoj"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Inicialiga eraro"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Nevalida JSON-respondo por kanallisto"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Nevalida MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Nevalida URL: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Ŝargita ludlisto: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Ŝargis {} validajn enskribojn de {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Ŝarĝante kontinformojn fone..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U kreita kun {} kanaloj"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC-adreso:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Maksimumo:"
 
 msgid "Network"
-msgstr ""
+msgstr "Reto"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Nova Alirkodo:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Nova Kodo"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Nova alirkodo generita!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Neniuj kanaloj trovitaj en respondo"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Neniuj dosieroj trovitaj en:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Neniuj dosieroj aŭ dosierujoj trovitaj en:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Neniuj validaj enskriboj trovitaj en dosiero"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Ne sufiĉas spaco sur {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Eliga Dosiero:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Pasvorto:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Dosiero de Ludlisto:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "Portala URL:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Preparante {} kanalojn..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Premu 0: Montru Alirkodon | Premu 1: Nova Kodo"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Preta - Elektu dosieron aŭ enigu URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Skananta dosieron... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Elektu Bukedo-Pozicion"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Elektu Monto Radiko"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Elektu Ludliston"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Elektu Ludlistdosieron"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Elektu Tipon de Konvertiĝo"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Elektu dosierujon"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Elektu dosieron por forigi en: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Elektu ludlistdosieron"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Elektu ĉi tiun dosierujon"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Elektita dosierujo:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Elektitaj:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Agordu Bukedo-Pozicion"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Agordu Tipo-Konvertiĝon"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Montru Kodon"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker Portal al M3U-Konvertilo v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Komencante konvertan procezon..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Statuso:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Paŝo 1/3: Konekti al portalo..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Paŝo 1/3: Manpremo..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Paŝo 2/3: Aŭtentikigo..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Paŝo 2/3: Kreante ludlistdosieron..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Paŝo 3/3: Kreu Bouquet-dosieron..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Paŝo 3/3: Kreu M3U-dosieron..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Paŝo 3/3: Akiri kanalojn..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Paŝo 4/4: Akiri VOD-enhavon..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Haltu"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Ĉesigante konvertiĝon..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Ĉesigante nunan procezon por ŝanĝi portalon..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Sukceso!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Provizora Stokado"
 
 msgid "Top"
-msgstr ""
+msgstr "Supre"
 
 msgid "USB Drive"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Ĝisdatigo interrompita!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Ĝisdatigu Stalker Converter"
 
 msgid "User:"
-msgstr ""
+msgstr "Uzanto:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD-inkludo: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Validaj Portaloj de Elektita Dosiero:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Reteja Portala Servilo Malŝaltita"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Reta Portala Servilo Enŝaltita"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Eraro de retservilo:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Retservilo haltis"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "TTT-servilo: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Vi jam funkcias la plej novan version: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Vi jam funkcias la plej novan version: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Vi devas unue lanĉi la Retan Servilon!"

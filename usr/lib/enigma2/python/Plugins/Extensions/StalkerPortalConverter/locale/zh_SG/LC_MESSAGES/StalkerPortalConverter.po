@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- 选择所需的输出格式：M3U 或 TV bouquet\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- 打开包含服务器 URL 的文件或按蓝色按钮编辑主机和 MAC 地址\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- 按 CONVERT 生成播放列表"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< 返回主菜单"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< 取消"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "访问代码："
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "帐户信息已加载"
 
 msgid "Active:"
-msgstr ""
+msgstr "积极的："
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "添加了 {} 个 VOD 项目"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "认证失败："
 
 msgid "Bottom"
-msgstr ""
+msgstr "底部"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "花束位置设置为：{}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "已创建花束：包含 {} 个频道的 {} 个组"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "无法创建目录："
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "更改输出目录"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "频道列表错误："
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "频道列表失败：HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "清除"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "连接错误："
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "转换在开始前取消"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "转换错误："
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "转换在花束创建之前停止"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "用户停止转换"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "M3U 创建期间转换停止"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "花束创建期间转换停止"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "频道检索期间转换停止"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "分组期间转换停止"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "处理期间转换停止"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "超出转换超时时间"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "将 Stalker Portal 转换为具有实际频道的 M3U 播放列表"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "转换为M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "转换为电视"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "严重通道处理错误"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "删除播放列表文件"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "删除失败："
 
 msgid "Deleted:"
-msgstr ""
+msgstr "已删除："
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "目录不可写："
 
 msgid "Disabled"
-msgstr ""
+msgstr "残疾人"
 
 msgid "Disk"
-msgstr ""
+msgstr "磁盘"
 
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "编辑 MAC 地址"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "编辑门户 URL"
 
 msgid "Enabled"
-msgstr ""
+msgstr "启用"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "输入 MAC 地址（例如 00:1A:79:XX:XX:XX）"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "输入门户 URL（例如 http://example.com/c/ 或 http://example.com:8088/c/）"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "访问配置值时出错"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "访问配置值时出错："
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "访问目录时出错："
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "创建播放列表时出错："
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "错误详细信息：{}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "提取帐户信息时出错"
 
 msgid "Error!"
-msgstr ""
+msgstr "错误！"
 
 msgid "Error:"
-msgstr ""
+msgstr "错误："
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "错误：MAC 地址无效"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "错误：门户 URL 无效"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "错误：需要 Portal 和 MAC"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "到期日："
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "无法加载帐户信息"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "获取token失败！"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "无法读取门户或 MAC 配置:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "检索频道列表失败"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "字段已清除"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "分组：{}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "帮助:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "握手失败：HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "握手失败：未收到令牌"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "硬盘"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "隐藏代码"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "在播放列表中包含 VOD"
 
 msgid "Information"
-msgstr ""
+msgstr "信息"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "初始化错误"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "频道列表的 JSON 响应无效"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "无效的 MAC：{mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "无效网址：{portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "已加载播放列表：%s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "已从 {} 加载 {} 个有效条目"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "正在后台加载帐户信息..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "使用 {} 个频道创建的 M3U"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC地址："
 
 msgid "Max:"
-msgstr ""
+msgstr "最大限度："
 
 msgid "Network"
-msgstr ""
+msgstr "网络"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "新的访问代码："
 
 msgid "New Code"
-msgstr ""
+msgstr "新代码"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "新的访问代码已生成！"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "回复中找不到频道"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "未在以下位置找到文件："
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "在以下位置找不到文件或目录："
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "文件中未找到有效条目"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "{} 上空间不足！"
 
 msgid "Output File:"
-msgstr ""
+msgstr "输出文件："
 
 msgid "Password:"
-msgstr ""
+msgstr "密码："
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "播放列表文件："
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "门户网址："
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "正在准备 {} 个频道..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "按 0：显示访问代码 |按 1：新代码"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "就绪 - 选择文件或输入 URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "正在扫描文件...{}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "选择花束位置"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "选择挂载根目录"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "选择播放列表"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "选择播放列表文件"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "选择转换类型"
 
 msgid "Select directory"
-msgstr ""
+msgstr "选择目录"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "选择要删除的文件：{}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "选择播放列表文件"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "选择这个目录"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "选定的目录："
 
 msgid "Selected:"
-msgstr ""
+msgstr "已选择："
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "设置花束位置"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "设置类型转换"
 
 msgid "Show Code"
-msgstr ""
+msgstr "显示代码"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker Portal 到 M3U 转换器 v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "开始转换过程..."
 
 msgid "Status:"
-msgstr ""
+msgstr "地位："
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "步骤 1/3：连接到门户..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "步骤 1/3：握手..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "步骤 2/3：身份验证..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "步骤 2/3：创建播放列表文件..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "步骤 3/3：创建花束文件..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "步骤 3/3：创建 M3U 文件..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "步骤 3/3：获取频道..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "步骤 4/4：获取 VOD 内容..."
 
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "正在停止转换..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "正在停止当前进程以切换门户..."
 
 msgid "Success!"
-msgstr ""
+msgstr "成功！"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "临时储存"
 
 msgid "Top"
-msgstr ""
+msgstr "顶部"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB 驱动器"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "更新中止！"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "升级潜行者转换器"
 
 msgid "User:"
-msgstr ""
+msgstr "用户："
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD 包含：{}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "所选文件中的有效门户："
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "门户网站服务器关闭"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "门户网站服务器开启"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "网络服务器错误："
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "网络服务器已停止"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "网络服务器：http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "您已经在运行最新版本：%s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "您已经在运行最新版本：{}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "您需要先启动 Web 服务器！"

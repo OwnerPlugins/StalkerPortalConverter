@@ -20,7 +20,7 @@ msgid "- Choose the desired output format: M3U or TV bouquet\n"
 msgstr "- Vyberte požadovaný výstupní formát: M3U nebo TV bouquet\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Otevřete soubor s adresami URL serveru nebo stisknutím MODRÉHO tlačítka upravte hostitele a adresu MAC\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Stisknutím tlačítka CONVERT vygenerujete seznam skladeb"
@@ -32,7 +32,7 @@ msgid "<< Cancel"
 msgstr "<< Zrušit"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "přístupový kód:"
 
 msgid "Account info loaded"
 msgstr "Informace o účtu byly načteny"
@@ -41,10 +41,10 @@ msgid "Active:"
 msgstr "Aktivní:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Přidáno {} položek VOD"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Ověření se nezdařilo:"
 
 msgid "Bottom"
 msgstr "Dole"
@@ -63,10 +63,10 @@ msgid "Change Output Directory"
 msgstr "Změnit výstupní adresář"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Chyba seznamu kanálů:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Seznam kanálů selhal: HTTP {}"
 
 msgid "Clear"
 msgstr "Vymazat"
@@ -133,10 +133,10 @@ msgid "Deleted:"
 msgstr "Smazáno: "
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Do adresáře nelze zapisovat:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Zakázáno"
 
 msgid "Disk"
 msgstr ""
@@ -151,13 +151,13 @@ msgid "Edit Portal URL"
 msgstr "Upravit URL portálu"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Povoleno"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
 msgstr "Zadejte MAC adresu (např. 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Zadejte adresu URL portálu (např. http://example.com/c/ nebo http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
 msgstr "Chyba při přístupu k konfiguračním hodnotám"
@@ -230,13 +230,13 @@ msgid "Handshake failed: No token received"
 msgstr "Handshake selhal: Nebyl přijat žádný token"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Pevný disk"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Skrýt kód"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Zahrnout VOD do seznamu skladeb"
 
 msgid "Information"
 msgstr "Informace"
@@ -249,7 +249,7 @@ msgid "Invalid JSON response for channel list"
 msgstr "Nepodařilo se načíst seznam kanálů"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Neplatná MAC: {mac}"
 
 #, fuzzy
 msgid "Invalid URL: {portal}"
@@ -276,16 +276,16 @@ msgid "Max:"
 msgstr "Max: "
 
 msgid "Network"
-msgstr ""
+msgstr "Síť"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Nový přístupový kód:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Nový kodex"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Byl vygenerován nový přístupový kód!"
 
 msgid "No channels found in response"
 msgstr "V odpovědi nebyly nalezeny žádné kanály"
@@ -323,7 +323,7 @@ msgid "Preparing {} channels..."
 msgstr "Příprava %d kanálů..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Stiskněte 0: Zobrazit přístupový kód | Stiskněte 1: Nový kód"
 
 msgid "Ready - Select a file or enter URL/MAC"
 msgstr "Připraveno - Vyberte soubor nebo zadejte URL/MAC"
@@ -374,7 +374,7 @@ msgid "Set Type Conversion"
 msgstr "Převod typu sady"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Zobrazit kód"
 
 msgid "Stalker Portal to M3U Converter v.%s"
 msgstr "Převodník Stalker Portal do M3U verze %s"
@@ -424,13 +424,13 @@ msgid "Success!"
 msgstr "Úspěch! "
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Dočasné úložiště"
 
 msgid "Top"
 msgstr "Nahoře"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB disk"
 
 msgid "Update Aborted!"
 msgstr "Aktualizace zrušena!"
@@ -442,25 +442,25 @@ msgid "User:"
 msgstr "Uživatele:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Zahrnutí VOD: {}"
 
 msgid "Valid Portals from Selected File:"
 msgstr "Platné portály z vybraného souboru:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Server webového portálu je vypnutý"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Server webového portálu zapnutý"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Chyba webového serveru:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Webový server zastaven"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Webový server: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
 msgstr "Již používáte nejnovější verzi: %s"
@@ -469,7 +469,7 @@ msgid "You are already running the latest version: {}"
 msgstr "Již používáte nejnovější verzi: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Nejprve musíte spustit webový server!"
 
 #~ msgid "Get ALL portal/MAC from file"
 #~ msgstr "Získejte VŠECHNY portály/MAC adresy ze souboru"

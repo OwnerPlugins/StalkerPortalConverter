@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- لازىملىق چىقىرىش فورماتىنى تاللاڭ: M3U ياكى تېلېۋىزور گۈللۈكى \ n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- مۇلازىمېتىر URL لىرى بار ھۆججەتنى ئېچىڭ ياكى BLUE كۇنۇپكىسىنى بېسىپ باش ئاپپارات ۋە MAC ئادرېسىنى تەھرىرلەڭ \ n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- CONVERT كۇنۇپكىسىنى بېسىپ قويۇش تىزىملىكى ھاسىل قىلىڭ"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< ئاساسىي تىزىملىككە قايتىڭ"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< بىكار قىلىش"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "زىيارەت كودى:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "ھېسابات ئۇچۇرى يۈكلەندى"
 
 msgid "Active:"
-msgstr ""
+msgstr "ئاكتىپ:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "{OD VOD تۈرلىرى قوشۇلدى"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "دەلىللەش مەغلۇپ بولدى:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "ئاستى"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "گۈللۈك ئورنى: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "گۈللەر قۇرۇلدى: {} قاناللىرى بار {} گۇرۇپپىلار"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "مۇندەرىجە قۇرالمايدۇ:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "چىقىرىش مۇندەرىجىسىنى ئۆزگەرتىش"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "قانال تىزىملىكىدىكى خاتالىق:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "قانال تىزىملىكى مەغلۇپ بولدى: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "ئېنىق"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "ئۇلىنىش خاتالىقى:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "ئۆزگەرتىش باشلىنىشتىن بۇرۇن ئەمەلدىن قالدۇرۇلدى"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "ئايلاندۇرۇش خاتالىقى:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "گۈل تەقدىم قىلىشتىن بۇرۇن ئۆزگەرتىش توختىدى"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "ئىشلەتكۈچى تەرىپىدىن ئۆزگەرتىش توختىتىلدى"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "M3U قۇرۇش جەريانىدا ئۆزگەرتىش توختىدى"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "گۈل تەقدىم قىلىش جەريانىدا ئۆزگەرتىش توختىدى"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "قانال ئىزدەش جەريانىدا ئۆزگەرتىش توختىدى"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "گۇرۇپپىلاش جەريانىدا ئۆزگەرتىش توختىدى"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "پىششىقلاپ ئىشلەش جەريانىدا ئۆزگەرتىش توختىدى"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "ئۆزگەرتىش ۋاقتى ئېشىپ كەتتى"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Stalker Portal نى ئەمەلىي قاناللار بىلەن M3U قويۇش تىزىملىكىگە ئايلاندۇرۇڭ"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "M3U غا ئايلاندۇرۇڭ"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "تېلېۋىزورغا ئايلاندۇرۇش"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "ھالقىلىق قانال بىر تەرەپ قىلىش خاتالىقى"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "قويۇش تىزىملىكى ھۆججىتىنى ئۆچۈرۈڭ"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "ئۆچۈرۈش مەغلۇپ بولدى:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "ئۆچۈرۈلدى:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "مۇندەرىجە يازغىلى بولمايدۇ:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "چەكلەنگەن"
 
 msgid "Disk"
-msgstr ""
+msgstr "دىسكا"
 
 msgid "Edit"
-msgstr ""
+msgstr "تەھرىر"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "MAC ئادرېسىنى تەھرىرلەڭ"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "تور ئادرېسىنى تەھرىرلەڭ"
 
 msgid "Enabled"
-msgstr ""
+msgstr "قوزغىتىلدى"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "MAC ئادرېسىنى كىرگۈزۈڭ (مەسىلەن ، 00: 1A: 79: XX: XX: XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "تور ئادرېسىنى كىرگۈزۈڭ (مەسىلەن http://example.com/c/ ياكى http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "سەپلىمە قىممىتىگە ئېرىشىشتە خاتالىق"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "سەپلىمە قىممىتىگە ئېرىشىشتە خاتالىق:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "مۇندەرىجىگە كىرىشتە خاتالىق:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "قويۇش تىزىملىكى قۇرۇشتا خاتالىق:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "خاتالىق ئۇچۇرى: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "ھېسابات ئۇچۇرلىرىنى چىقىرىشتا خاتالىق"
 
 msgid "Error!"
-msgstr ""
+msgstr "خاتالىق!"
 
 msgid "Error:"
-msgstr ""
+msgstr "خاتالىق:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "خاتالىق: MAC ئادرېسى ئىناۋەتسىز"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "خاتالىق: تور ئادرېسى ئىناۋەتسىز"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "خاتالىق: پورت ۋە MAC تەلەپ قىلىنىدۇ"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "ۋاقتى:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "ھېسابات ئۇچۇرلىرىنى يۈكلىيەلمىدى"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "بەلگە ئالالمىدى!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "ئېغىز ياكى MAC سەپلىمىسىنى ئوقۇيالمىدى: \ n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "قانال تىزىملىكىنى ئەسلىگە كەلتۈرەلمىدى"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "مەيدانلار تازىلاندى"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "گۇرۇپپىلاش: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "ياردەم: \ n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "قول ئېلىشىش مەغلۇب بولدى: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "قول ئېلىشىش مەغلۇب بولدى: ھېچقانداق بەلگە تاپشۇرۇۋالمىدى"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "قاتتىق دىسكا"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "كودنى يوشۇرۇش"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "VOD نى قويۇش تىزىملىكىگە كىرگۈزۈڭ"
 
 msgid "Information"
-msgstr ""
+msgstr "ئۇچۇر"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "باشلاش خاتالىقى"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "قانال تىزىملىكى ئۈچۈن JSON ئىناۋەتسىز"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "ئىناۋەتسىز MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "ئىناۋەتسىز URL: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "يۈكلەنگەن ئويۇن تىزىملىكى:% s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "{} دىن}} ئىناۋەتلىك تۈرلەر يۈكلەندى"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "ئارقا سۇپىدا ھېسابات ئۇچۇرىنى يۈكلەۋاتىدۇ ..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U {} قاناللىرى بىلەن قۇرۇلدى"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC ئادرېسى:"
 
 msgid "Max:"
 msgstr ""
 
 msgid "Network"
-msgstr ""
+msgstr "تور"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "يېڭى زىيارەت كودى:"
 
 msgid "New Code"
-msgstr ""
+msgstr "يېڭى كود"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "يېڭى زىيارەت كودى ھاسىل قىلىندى!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "جاۋابتا ھېچقانداق قانال تېپىلمىدى"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "ھۆججەت تېپىلمىدى:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "ھۆججەت ۋە مۇندەرىجە تېپىلمىدى:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "ھۆججەتتە ئىناۋەتلىك مەزمۇن تېپىلمىدى"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "{} دا يېتەرلىك بوشلۇق يوق!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "چىقىرىش ھۆججىتى:"
 
 msgid "Password:"
-msgstr ""
+msgstr "پارول:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "قويۇش تىزىملىكى ھۆججىتى:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "تور ئادرېسى:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "{} قاناللىرىنى تەييارلاش ..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "0 نى بېسىڭ: زىيارەت كودىنى كۆرسەت | 1-نەشرى: يېڭى كود"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "تەييار - ھۆججەت تاللاڭ ياكى URL / MAC نى كىرگۈزۈڭ"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "سايىلەش ھۆججىتى ... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "گۈللۈك ئورنىنى تاللاڭ"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Root Mount نى تاللاڭ"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "قويۇش تىزىملىكى نى تاللاڭ"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "قويۇش تىزىملىكى ھۆججىتىنى تاللاڭ"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "ئايلاندۇرۇش تۈرىنى تاللاڭ"
 
 msgid "Select directory"
-msgstr ""
+msgstr "مۇندەرىجىنى تاللاڭ"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "ئۆچۈرمەكچى بولغان ھۆججەتنى تاللاڭ: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "قويۇش تىزىملىكى ھۆججىتىنى تاللاڭ"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "بۇ مۇندەرىجىنى تاللاڭ"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "تاللانغان مۇندەرىجە:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "تاللانغان:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "گۈللۈك ئورۇن بەلگىلەڭ"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "تىپ ئۆزگەرتىش"
 
 msgid "Show Code"
-msgstr ""
+msgstr "كودنى كۆرسىتىش"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker ئېغىزىدىن M3U ئايلاندۇرغۇچقا% s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "ئۆزگەرتىش جەريانىنى باشلاش ..."
 
 msgid "Status:"
-msgstr ""
+msgstr "ھالىتى:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "قەدەم 1/3: پورتقا ئۇلىنىش ..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "قەدەم 1/3: قول ئېلىشىش ..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "2/3 قەدەم: دەلىللەش ..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "2/3 قەدەم: قويۇش تىزىملىكى ھۆججىتى قۇرۇش ..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "3/3 قەدەم: گۈل ھۆججىتى قۇرۇش ..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "3/3 قەدەم: M3U ھۆججىتى قۇرۇش ..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "3/3 قەدەم: قانالغا ئېرىشىش ..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "4/4 قەدەم: VOD مەزمۇنىغا ئېرىشىش ..."
 
 msgid "Stop"
-msgstr ""
+msgstr "توختاڭ"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "ئۆزگەرتىشنى توختىتىش ..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "پورتنى ئالماشتۇرۇش ئۈچۈن نۆۋەتتىكى جەرياننى توختىتىش ..."
 
 msgid "Success!"
-msgstr ""
+msgstr "مۇۋەپپەقىيەت!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "ۋاقىتلىق ساقلاش"
 
 msgid "Top"
-msgstr ""
+msgstr "ئۈستى"
 
 msgid "USB Drive"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "يېڭىلانغان ئەمەلدىن قالدۇرۇلدى!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Stalker Converter نى يېڭىلاڭ"
 
 msgid "User:"
-msgstr ""
+msgstr "ئىشلەتكۈچى:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD نى ئۆز ئىچىگە ئالىدۇ: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "تاللانغان ھۆججەتتىن ئىناۋەتلىك پورتلار:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "تور بەت مۇلازىمېتىرى ئېتىۋېتىلدى"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "تور بەت مۇلازىمېتىرى ئېچىلدى"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "تور مۇلازىمېتىر خاتالىقى:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "تور مۇلازىمېتىرى توختىدى"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "تور مۇلازىمېتىرى: http: //% s:% d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "سىز ئەڭ يېڭى نەشرىنى ئىجرا قىلىۋاتىسىز:% s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "سىز ئەڭ يېڭى نەشرىنى ئىجرا قىلىۋاتىسىز: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "ئالدى بىلەن تور مۇلازىمېتىرنى قوزغىتىشىڭىز كېرەك!"

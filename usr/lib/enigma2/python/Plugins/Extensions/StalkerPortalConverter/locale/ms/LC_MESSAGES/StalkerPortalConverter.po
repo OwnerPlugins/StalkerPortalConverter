@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Pilih format output yang diingini: M3U atau TV bouquet\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Buka fail dengan URL pelayan atau tekan butang BIRU untuk mengedit hos dan alamat MAC\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Tekan CONVERT untuk menjana senarai main"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Kembali ke menu utama"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Batal"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Kod Akses:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Maklumat akaun dimuatkan"
 
 msgid "Active:"
-msgstr ""
+msgstr "aktif:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Menambahkan {} item VOD"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Pengesahan gagal:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Bawah"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Kedudukan sejambak ditetapkan kepada: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Sejambak dibuat: kumpulan {} dengan saluran {}."
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Tidak boleh membuat direktori:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Tukar Direktori Output"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Ralat senarai saluran:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Senarai saluran gagal: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Jelas"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Ralat sambungan:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Penukaran dibatalkan sebelum bermula"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Ralat penukaran:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Penukaran dihentikan sebelum penciptaan sejambak"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Penukaran dihentikan oleh pengguna"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Penukaran dihentikan semasa penciptaan M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Penukaran dihentikan semasa penciptaan sejambak"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Penukaran dihentikan semasa mendapatkan semula saluran"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Penukaran dihentikan semasa pengumpulan"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Penukaran dihentikan semasa pemprosesan"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Tamat masa penukaran melebihi"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Tukar Portal Stalker kepada senarai main M3U dengan saluran sebenar"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Tukar kepada M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Tukar kepada TV"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Ralat pemprosesan saluran kritikal"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Padam Fail Senarai Main"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Pemadaman gagal:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Dipadamkan:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Direktori tidak boleh ditulis:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Dilumpuhkan"
 
 msgid "Disk"
-msgstr ""
+msgstr "Cakera"
 
 msgid "Edit"
-msgstr ""
+msgstr "Sunting"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Edit Alamat MAC"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Edit URL Portal"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Didayakan"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Masukkan Alamat MAC (cth., 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Masukkan URL Portal (cth. http://example.com/c/ atau http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Ralat mengakses nilai konfigurasi"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Ralat mengakses nilai konfigurasi:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Ralat mengakses direktori:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Ralat membuat senarai main:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Butiran ralat: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Ralat semasa mengekstrak maklumat akaun"
 
 msgid "Error!"
-msgstr ""
+msgstr "Ralat!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Ralat:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Ralat: Alamat MAC tidak sah"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Ralat: URL portal tidak sah"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Ralat: Portal dan MAC diperlukan"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "tamat tempoh:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Gagal memuatkan maklumat akaun"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Gagal mendapatkan token!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Gagal membaca konfigurasi portal atau MAC:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Gagal mendapatkan semula senarai saluran"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Medan dibersihkan"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Pengumpulan: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "BANTUAN:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Jabat tangan gagal: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Jabat tangan gagal: Tiada token diterima"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Cakera Keras"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Sembunyikan Kod"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Sertakan VOD dalam Senarai Main"
 
 msgid "Information"
-msgstr ""
+msgstr "Maklumat"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Ralat permulaan"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Respons JSON tidak sah untuk senarai saluran"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC tidak sah: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "URL tidak sah: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Senarai main dimuatkan: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Memuatkan {} entri sah daripada {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Memuatkan maklumat akaun di latar belakang..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U dibuat dengan saluran {}."
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "Alamat MAC:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Maks:"
 
 msgid "Network"
-msgstr ""
+msgstr "Rangkaian"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Kod Akses Baharu:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Kod Baharu"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Kod akses baharu dihasilkan!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Tiada saluran ditemui sebagai balasan"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Tiada fail ditemui dalam:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Tiada fail atau direktori ditemui dalam:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Tiada entri yang sah ditemui dalam fail"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Tidak cukup ruang pada {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Fail Output:"
 
 msgid "Password:"
-msgstr ""
+msgstr "kata laluan:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Fail Senarai Main:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URL Portal:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Menyediakan {} saluran..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Tekan 0: Tunjukkan Kod Akses | Tekan 1: Kod Baharu"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Sedia - Pilih fail atau masukkan URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Mengimbas fail... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Pilih Kedudukan Bouquet"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Pilih Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Pilih Senarai Main"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Pilih Fail Senarai Main"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Pilih Jenis Penukaran"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Pilih direktori"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Pilih fail untuk dipadamkan dalam: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Pilih fail senarai main"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Pilih direktori ini"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Direktori yang dipilih:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Dipilih:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Tetapkan Kedudukan Bouquet"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Tetapkan Penukaran Jenis"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Tunjukkan Kod"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Portal Stalker ke M3U Converter v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Memulakan proses penukaran..."
 
 msgid "Status:"
 msgstr ""
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Langkah 1/3: Menyambung ke portal..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Langkah 1/3: Berjabat Tangan..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Langkah 2/3: Pengesahan..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Langkah 2/3: Mencipta fail senarai main..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Langkah 3/3: Buat fail Bouquet..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Langkah 3/3: Cipta fail M3U..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Langkah 3/3: Mendapatkan saluran..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Langkah 4/4: Mendapatkan kandungan VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Berhenti"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Menghentikan penukaran..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Menghentikan proses semasa untuk menukar portal..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Berjaya!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Storan Sementara"
 
 msgid "Top"
-msgstr ""
+msgstr "Atas"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Pemacu USB"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Kemas Kini Dibatalkan!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Tingkatkan Penukar Stalker"
 
 msgid "User:"
-msgstr ""
+msgstr "pengguna:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Kemasukan VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Portal Sah daripada Fail yang Dipilih:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Pelayan Portal Web Dimatikan"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Pelayan Portal Web Dihidupkan"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Ralat pelayan web:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Pelayan web berhenti"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Pelayan web: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Anda sudah pun menjalankan versi terkini: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Anda sudah pun menjalankan versi terkini: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Anda perlu memulakan Pelayan Web dahulu!"

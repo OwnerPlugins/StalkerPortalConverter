@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Виберіть потрібний вихідний формат: M3U або TV bouquet\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Відкрийте файл із URL-адресами сервера або натисніть СИНЮ кнопку, щоб змінити хост і MAC-адресу\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Натисніть CONVERT, щоб створити список відтворення"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Назад до головного меню"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Скасувати"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Код доступу:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Інформацію про обліковий запис завантажено"
 
 msgid "Active:"
-msgstr ""
+msgstr "Активний:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Додано {} елементів VOD"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Помилка автентифікації:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Дно"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Установлено положення букета: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Створено букетів: {} груп із {} каналами"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Неможливо створити каталог:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Змінити вихідний каталог"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Помилка списку каналів:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Помилка списку каналів: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "ясно"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Помилка підключення:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Перетворення скасовано перед початком"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Помилка перетворення:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Перетворення зупинено перед створенням букету"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Перетворення зупинено користувачем"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Перетворення зупинено під час створення M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Перетворення зупинено під час створення букета"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Перетворення зупинено під час пошуку каналу"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Перетворення зупинено під час групування"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Перетворення зупинено під час обробки"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Час очікування перетворення перевищено"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Перетворіть Stalker Portal на список відтворення M3U із фактичними каналами"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Перетворити в M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Перетворити на телебачення"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Критична помилка обробки каналу"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Видалити файл списку відтворення"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Не вдалося видалити:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Видалено:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Каталог не доступний для запису:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Вимкнено"
 
 msgid "Disk"
-msgstr ""
+msgstr "диск"
 
 msgid "Edit"
-msgstr ""
+msgstr "Редагувати"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Редагувати MAC-адресу"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Редагувати URL-адресу порталу"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Увімкнено"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Введіть MAC-адресу (наприклад, 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Введіть URL-адресу порталу (наприклад, http://example.com/c/ або http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Помилка доступу до значень конфігурації"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Помилка доступу до значень конфігурації:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Помилка доступу до каталогу:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Помилка створення списку відтворення:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Деталі помилки: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Помилка отримання даних облікового запису"
 
 msgid "Error!"
-msgstr ""
+msgstr "Помилка!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Помилка:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Помилка: недійсна MAC-адреса"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Помилка: недійсна URL-адреса порталу"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Помилка: потрібні портал і MAC"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Термін дії:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Не вдалося завантажити інформацію про обліковий запис"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Не вдалося отримати маркер!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Не вдалося прочитати конфігурацію порталу або MAC:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Не вдалося отримати список каналів"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Поля очищені"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Групування: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "ДОПОМОГА:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Помилка рукостискання: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Помилка рукостискання: маркер не отримано"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Жорсткий диск"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Приховати код"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Включити VOD у список відтворення"
 
 msgid "Information"
-msgstr ""
+msgstr "Інформація"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Помилка ініціалізації"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Недійсна відповідь JSON для списку каналів"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Недійсний MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Недійсна URL-адреса: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Завантажено список відтворення: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Завантажено {} дійсних записів із {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Завантаження даних облікового запису у фоновому режимі..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U створено з {} каналами"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC-адреса:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Макс."
 
 msgid "Network"
-msgstr ""
+msgstr "Мережа"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Новий код доступу:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Новий кодекс"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Згенеровано новий код доступу!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "У відповіді не знайдено каналів"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Файли не знайдено в:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Не знайдено файлів або каталогів у:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "У файлі не знайдено дійсних записів"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Недостатньо місця на {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Вихідний файл:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Пароль:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Файл списку відтворення:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URL порталу:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Підготовка {} каналів..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Натисніть 0: Показати код доступу | Натисніть 1: Новий код"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Готово – виберіть файл або введіть URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Сканування файлу... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Виберіть позицію букета"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Виберіть Змонтувати корінь"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Виберіть Список відтворення"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Виберіть Файл списку відтворення"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Виберіть тип перетворення"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Виберіть каталог"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Виберіть файл для видалення: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Виберіть файл списку відтворення"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Виберіть цей каталог"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Вибраний каталог:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Вибрано:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Встановити позицію букета"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Установити перетворення типу"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Показати код"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Конвертер Stalker Portal у M3U v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Початок процесу перетворення..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Статус:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Крок 1/3: підключення до порталу..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Крок 1/3: рукостискання..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Крок 2/3: Автентифікація..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Крок 2/3: Створення файлу списку відтворення..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Крок 3/3: Створення файлу букета..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Крок 3/3: Створіть файл M3U..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Крок 3/3: Отримання каналів..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Крок 4/4: Отримання вмісту VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "СТІЙ"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Зупинка перетворення..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Зупинка поточного процесу для перемикання порталу..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Успіх!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Тимчасове зберігання"
 
 msgid "Top"
-msgstr ""
+msgstr "Топ"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB накопичувач"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Оновлення скасовано!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Оновіть Stalker Converter"
 
 msgid "User:"
-msgstr ""
+msgstr "Користувач:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Включення VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Дійсні портали з вибраного файлу:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Сервер веб-порталу вимкнено"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Сервер веб-порталу увімкнено"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Помилка веб-сервера:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Веб-сервер зупинено"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Веб-сервер: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Ви вже використовуєте останню версію: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Ви вже використовуєте останню версію: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Вам потрібно спочатку запустити веб-сервер!"

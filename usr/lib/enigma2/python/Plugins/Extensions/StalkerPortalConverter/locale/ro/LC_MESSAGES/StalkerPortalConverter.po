@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Alegeți formatul de ieșire dorit: M3U sau buchet TV\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Deschideți un fișier cu adrese URL de server sau apăsați butonul ALBASTRU pentru a edita gazda și adresa MAC\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Apăsați CONVERT pentru a genera lista de redare"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Înapoi la meniul principal"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Anulează"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Cod de acces:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "S-au încărcat informațiile despre cont"
 
 msgid "Active:"
-msgstr ""
+msgstr "Activ:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "S-au adăugat {} articole VOD"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Autentificarea eșuată:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Fund"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Poziția buchetului setată la: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Buchete create: {} grupuri cu {} canale"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Nu se poate crea directorul:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Schimbați directorul de ieșire"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Eroare lista de canale:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Lista de canale a eșuat: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Clar"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Eroare de conectare:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Conversia a fost anulată înainte de începere"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Eroare de conversie:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Conversia s-a oprit înainte de crearea buchetului"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Conversia oprită de utilizator"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Conversia s-a oprit în timpul creării M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Conversia sa oprit în timpul creării buchetului"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Conversia a fost oprită în timpul preluării canalului"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Conversia a fost oprită în timpul grupării"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Conversia a fost oprită în timpul procesării"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Timpul de expirare a conversiei a fost depășit"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Convertiți Stalker Portal în playlist M3U cu canale reale"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Convertiți în M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Convertiți în TV"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Eroare critică de procesare a canalului"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Ștergeți fișierul playlist"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Ștergerea nu a reușit:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Șters:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Director nu poate fi scris:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Dezactivat"
 
 msgid "Disk"
-msgstr ""
+msgstr "Disc"
 
 msgid "Edit"
-msgstr ""
+msgstr "Edita"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Editați adresa MAC"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Editați adresa URL a portalului"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Activat"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Introduceți adresa MAC (de ex., 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Introduceți adresa URL a portalului (de exemplu, http://example.com/c/ sau http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Eroare la accesarea valorilor de configurare"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Eroare la accesarea valorilor de configurare:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Eroare la accesarea directorului:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Eroare la crearea listei de redare:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Detalii despre eroare: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Eroare la extragerea informațiilor despre cont"
 
 msgid "Error!"
-msgstr ""
+msgstr "Eroare!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Eroare:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Eroare: Adresă MAC nevalidă"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Eroare: Adresa URL a portalului nevalidă"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Eroare: Portalul și MAC sunt necesare"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Expirare:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Nu s-au încărcat informațiile despre cont"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Nu s-a putut obține simbolul!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Nu s-a putut citi configurația portalului sau MAC:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Nu s-a putut prelua lista de canale"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Câmpurile eliberate"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Grupare: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "AJUTOR:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Strângere de mână a eșuat: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Strângere de mână a eșuat: nu s-a primit niciun simbol"
 
 msgid "Hard Disk"
 msgstr ""
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Ascunde codul"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Includeți VOD în lista de redare"
 
 msgid "Information"
-msgstr ""
+msgstr "Informaţii"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Eroare de inițializare"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Răspuns JSON nevalid pentru lista de canale"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC nevalid: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Adresă URL nevalidă: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Lista de redare încărcată: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Au fost încărcate {} intrări valide de la {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Se încarcă informațiile despre cont în fundal..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U creat cu {} canale"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "Adresa MAC:"
 
 msgid "Max:"
 msgstr ""
 
 msgid "Network"
-msgstr ""
+msgstr "Reţea"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Cod de acces nou:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Cod nou"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Cod de acces nou generat!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Nu s-au găsit canale ca răspuns"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Nu s-au găsit fișiere în:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Nu s-au găsit fișiere sau directoare în:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Nu s-au găsit intrări valide în fișier"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Nu este suficient spațiu pe {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Fișier de ieșire:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Parolă:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Fișierul listei de redare:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "Adresa URL a portalului:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Se pregătesc {} canale..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Apăsați 0: Afișați codul de acces | Apăsați 1: Cod nou"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Gata - Selectați un fișier sau introduceți URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Se scanează fișierul... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Selectați Poziția buchetului"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Selectați Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Selectați Lista de redare"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Selectați fișierul playlist"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Selectați Tipul de conversie"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Selectați directorul"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Selectați fișierul de șters în: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Selectați fișierul playlist"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Selectați acest director"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Directorul selectat:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Selectat:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Setați poziția buchetului"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Setați conversia tipului"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Arată codul"
 
 msgid "Stalker Portal to M3U Converter v.%s"
 msgstr ""
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Se începe procesul de conversie..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Stare:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Pasul 1/3: Conectarea la portal..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Pasul 1/3: Strângere de mână..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Pasul 2/3: Autentificare..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Pasul 2/3: se creează fișierul playlist..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Pasul 3/3: Creați fișierul Bouquet..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Pasul 3/3: Creați fișierul M3U..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Pasul 3/3: Obținerea canalelor..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Pasul 4/4: Obținerea conținutului VOD..."
 
 msgid "Stop"
 msgstr ""
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Oprirea conversiei..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Se oprește procesul curent de schimbare a portalului..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Succes!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Depozitare temporară"
 
 msgid "Top"
 msgstr ""
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Unitate USB"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Actualizare a fost anulată!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Actualizați Stalker Converter"
 
 msgid "User:"
-msgstr ""
+msgstr "Utilizator:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Includere VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Portaluri valide din fișierul selectat:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Web Portal Server dezactivat"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Web Portal Server Pornit"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Eroare de server web:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Serverul web sa oprit"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Server web: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Rulați deja cea mai recentă versiune: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Rulați deja cea mai recentă versiune: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Mai întâi trebuie să porniți serverul web!"

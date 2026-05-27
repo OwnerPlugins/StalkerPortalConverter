@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Ընտրեք ցանկալի ելքային ձևաչափը՝ M3U կամ հեռուստացույցի ծաղկեփունջ\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Բացեք ֆայլ սերվերի URL-ներով կամ սեղմեք ԿԱՊՈՒՅՏ կոճակը՝ հոսթն ու MAC հասցեն խմբագրելու համար\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Սեղմեք CONVERT՝ երգացանկը ստեղծելու համար"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Վերադառնալ հիմնական մենյու"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Չեղարկել"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Մուտքի կոդ."
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Հաշվի տվյալները բեռնված են"
 
 msgid "Active:"
-msgstr ""
+msgstr "Ակտիվ:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Ավելացվեց {} VOD տարր"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Նույնականացումը ձախողվեց."
 
 msgid "Bottom"
-msgstr ""
+msgstr "Ներքևում"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Ծաղկեփնջի դիրքը սահմանված է՝ {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Ստեղծված ծաղկեփնջեր՝ {} խմբեր {} ալիքներով"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Հնարավոր չէ ստեղծել գրացուցակ."
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Փոխել Արդյունքների գրացուցակը"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Ալիքների ցանկի սխալ."
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Ալիքների ցանկը ձախողվեց՝ HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Պարզ"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Միացման սխալ."
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Փոխակերպումը չեղարկվել է մեկնարկից առաջ"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Փոխակերպման սխալ."
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Փոխակերպումը դադարեց նախքան ծաղկեփնջի ստեղծումը"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Փոխակերպումը դադարեցվել է օգտագործողի կողմից"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Փոխակերպումը դադարեցվել է M3U-ի ստեղծման ժամանակ"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Փոխակերպումը դադարեց ծաղկեփունջի ստեղծման ժամանակ"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Փոխակերպումը դադարեցվել է ալիքի որոնման ընթացքում"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Փոխակերպումը դադարեցվել է խմբավորման ժամանակ"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Փոխակերպումը դադարեցվել է մշակման ընթացքում"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Փոխակերպման ժամկետը գերազանցվել է"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Փոխարկեք Stalker Portal-ը M3U երգացանկի՝ իրական ալիքներով"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Փոխարկել M3U-ի"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Փոխակերպել հեռուստացույցի"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Ալիքի մշակման կարևոր սխալ"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Ջնջել երգացանկի ֆայլը"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Չհաջողվեց ջնջել."
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Ջնջված է:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Գրացուցակը գրառելի չէ."
 
 msgid "Disabled"
-msgstr ""
+msgstr "Հաշմանդամ"
 
 msgid "Disk"
-msgstr ""
+msgstr "Սկավառակ"
 
 msgid "Edit"
-msgstr ""
+msgstr "Խմբագրել"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Խմբագրել MAC հասցեն"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Խմբագրել պորտալի URL-ը"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Միացված է"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Մուտքագրեք MAC հասցեն (օրինակ՝ 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Մուտքագրեք պորտալի URL-ը (օրինակ՝ http://example.com/c/ կամ http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Չհաջողվեց մուտք գործել կազմաձևման արժեքներ"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Չհաջողվեց մուտք գործել կազմաձևման արժեքներ."
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Սխալ՝ գրացուցակ մուտք գործելիս."
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Չհաջողվեց ստեղծել երգացանկ."
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Սխալի մանրամասները՝ {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Չհաջողվեց հանել հաշվի տվյալները"
 
 msgid "Error!"
-msgstr ""
+msgstr "Սխալ."
 
 msgid "Error:"
-msgstr ""
+msgstr "Սխալ."
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Սխալ. անվավեր MAC հասցե"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Սխալ. պորտալի անվավեր URL"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Սխալ. Պորտալը և MAC-ը պարտադիր են"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Ժամկետը:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Չհաջողվեց բեռնել հաշվի տվյալները"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Չհաջողվեց ստանալ նշան:"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Չհաջողվեց կարդալ պորտալի կամ MAC կազմաձևումը.\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Չհաջողվեց առբերել ալիքների ցանկը"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Դաշտերը մաքրված են"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Խմբավորում՝ {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "ՕԳՆՈՒԹՅՈՒՆ:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Ձեռքսեղմումը ձախողվեց՝ HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Ձեռքսեղմումը ձախողվեց. նշան չի ստացվել"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Կոշտ սկավառակ"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Թաքցնել կոդը"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Ներառեք VOD երգացանկում"
 
 msgid "Information"
-msgstr ""
+msgstr "Տեղեկություն"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Նախնականացման սխալ"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Անվավեր JSON պատասխան ալիքների ցանկի համար"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Անվավեր MAC՝ {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Անվավեր URL՝ {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Բեռնված երգացանկ՝ %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Բեռնվել է {} վավեր գրառում {}-ից"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Հաշվի տվյալները բեռնվում են հետին պլանում..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U ստեղծվել է {} ալիքներով"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC հասցե:"
 
 msgid "Max:"
 msgstr ""
 
 msgid "Network"
-msgstr ""
+msgstr "Ցանց"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Մուտքի նոր կոդ."
 
 msgid "New Code"
-msgstr ""
+msgstr "Նոր օրենսգիրք"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Ստեղծվել է մուտքի նոր կոդ:"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Ի պատասխան ալիքներ չեն գտնվել"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Ոչ մի ֆայլ չի գտնվել հետևյալում."
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Ոչ մի ֆայլ կամ գրացուցակ չի գտնվել հետևյալում."
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Ֆայլում վավեր գրառումներ չեն գտնվել"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Բավարար տարածք չկա {}-ում:"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Ելքային ֆայլ."
 
 msgid "Password:"
-msgstr ""
+msgstr "Գաղտնաբառ:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Երգացանկի ֆայլ՝"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "Պորտալի URL:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Պատրաստվում է {} ալիք..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Սեղմեք 0. Ցույց տալ մուտքի կոդը | Սեղմեք 1. Նոր կոդ"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Պատրաստ - Ընտրեք ֆայլ կամ մուտքագրեք URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Ֆայլի սկանավորում... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Ընտրեք ծաղկեփնջի դիրքը"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Ընտրեք Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Ընտրեք երգացանկ"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Ընտրեք երգացանկի ֆայլ"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Ընտրեք փոխակերպման տեսակը"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Ընտրեք գրացուցակը"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Ընտրեք ֆայլը ջնջելու համար՝ {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Ընտրեք երգացանկի ֆայլը"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Ընտրեք այս գրացուցակը"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Ընտրված գրացուցակ."
 
 msgid "Selected:"
-msgstr ""
+msgstr "Ընտրված՝"
 
 msgid "Set Bouquet Position"
 msgstr ""
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Սահմանել տեսակի փոխակերպում"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Ցույց տալ կոդը"
 
 msgid "Stalker Portal to M3U Converter v.%s"
 msgstr ""
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Փոխակերպման գործընթացի մեկնարկ..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Կարգավիճակը:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Քայլ 1/3. Միացում պորտալին..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Քայլ 1/3՝ ձեռքսեղմում..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Քայլ 2/3. Նույնականացում..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Քայլ 2/3. Երգացանկի ֆայլի ստեղծում..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Քայլ 3/3. Ստեղծեք Bouquet ֆայլ..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Քայլ 3/3. Ստեղծեք M3U ֆայլ..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Քայլ 3/3. Ստանալ ալիքներ..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Քայլ 4/4. VOD բովանդակություն ստանալը..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Դադարեցրեք"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Փոխակերպումը դադարեցվում է..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Պորտալը փոխելու ընթացիկ գործընթացը դադարեցվում է..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Հաջողություն:"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Ժամանակավոր պահեստավորում"
 
 msgid "Top"
-msgstr ""
+msgstr "Վերև"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB կրիչ"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Թարմացումը ընդհատվեց:"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Թարմացրեք Stalker Converter-ը"
 
 msgid "User:"
-msgstr ""
+msgstr "Օգտագործող:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD ներառում՝ {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Վավեր պորտալներ ընտրված ֆայլից."
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Վեբ պորտալի սերվերն անջատված է"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Վեբ պորտալի սերվերը միացված է"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Վեբ սերվերի սխալ."
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Վեբ սերվերը դադարեցրեց"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Վեբ սերվեր՝ http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Դուք արդեն գործարկում եք վերջին տարբերակը՝ %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Դուք արդեն աշխատում եք վերջին տարբերակը՝ {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Նախ պետք է գործարկել վեբ սերվերը:"

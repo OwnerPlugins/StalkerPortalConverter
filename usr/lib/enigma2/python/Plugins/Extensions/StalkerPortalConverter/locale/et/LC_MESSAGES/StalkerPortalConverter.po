@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Valige soovitud väljundvorming: M3U või TV kimp\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Avage fail serveri URL-idega või vajutage SINIST nuppu, et muuta hosti ja MAC-aadressi\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Esitusloendi loomiseks vajutage CONVERT"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Tagasi peamenüüsse"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Tühista"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Juurdepääsukood:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Konto teave on laaditud"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktiivne:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Lisati {} VOD üksust"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Autentimine ebaõnnestus:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Altpoolt"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Kimbu asukoht on määratud: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Loodud lillekimbud: {} gruppi {} kanaliga"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Kataloogi ei saa luua:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Muutke väljundkataloogi"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Kanalite loendi viga:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Kanalite loend ebaõnnestus: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Selge"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Ühenduse viga:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Konversioon tühistati enne algust"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Konversiooniviga:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Konversioon peatati enne kimbu loomist"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Kasutaja peatas teisenduse"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Konversioon peatati M3U loomise ajal"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Konversioon peatati kimbu loomise ajal"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Kanali toomise ajal teisendamine peatati"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Teisendamine peatus rühmitamise ajal"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Teisendamine peatati töötlemise ajal"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Konversiooni ajalõpp on ületatud"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Teisendage Stalkeri portaal tegelike kanalitega M3U esitusloendiks"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Teisendage M3U-ks"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Teisendage telerisse"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Kriitiline kanali töötlemise viga"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Kustuta esitusloendi fail"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Kustutamine ebaõnnestus:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Kustutatud:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Kataloog ei ole kirjutatav:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Keelatud"
 
 msgid "Disk"
-msgstr ""
+msgstr "Ketas"
 
 msgid "Edit"
-msgstr ""
+msgstr "Muuda"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Redigeeri MAC-aadressi"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Redigeeri portaali URL-i"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Lubatud"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Sisestage MAC-aadress (nt 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Sisestage portaali URL (nt http://example.com/c/ või http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Viga konfiguratsiooniväärtustele juurdepääsul"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Viga konfiguratsiooniväärtustele juurdepääsul:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Viga kataloogi pääsemisel:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Viga esitusloendi loomisel:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Vea üksikasjad: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Viga konto teabe ekstraktimisel"
 
 msgid "Error!"
-msgstr ""
+msgstr "Viga!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Viga:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Viga: vigane MAC-aadress"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Viga: vigane portaali URL"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Viga: portaal ja MAC on vajalikud"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Aegumine:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Konto teabe laadimine ebaõnnestus"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Žetooni hankimine ebaõnnestus!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Portaali või MAC-i konfiguratsiooni lugemine ebaõnnestus:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Kanalite loendi toomine ebaõnnestus"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Väljad puhastatud"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Rühmitamine: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "ABI:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Käepigistus ebaõnnestus: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Käepigistus ebaõnnestus: märki ei saadud"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Kõvaketas"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Peida kood"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Kaasake VOD esitusloendisse"
 
 msgid "Information"
-msgstr ""
+msgstr "Teave"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Initsialiseerimise viga"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Kanalite loendi jaoks on vale JSON-vastus"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Kehtetu MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Kehtetu URL: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Laaditud esitusloend: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Laaditi {} kehtivat kirjet {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Konto teabe laadimine taustal..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U loodud {} kanaliga"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC-aadress:"
 
 msgid "Max:"
 msgstr ""
 
 msgid "Network"
-msgstr ""
+msgstr "Võrk"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Uus juurdepääsukood:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Uus kood"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Uus juurdepääsukood on loodud!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Vastuseks ei leitud ühtegi kanalit"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Faile ei leitud:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Ühtegi faili ega kataloogi ei leitud:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Failist ei leitud ühtegi kehtivat kirjet"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Rakenduses {} pole piisavalt ruumi!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Väljundfail:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Parool:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Esitusloendi fail:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "Portaali URL:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "{} kanali ettevalmistamine..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Vajutage 0: Näita pääsukoodi | Vajutage 1: Uus kood"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Valmis – valige fail või sisestage URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Faili skannimine... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Valige kimbu asukoht"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Valige Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Valige Esitusloend"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Valige esitusloendi fail"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Valige konversiooni tüüp"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Valige kataloog"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Valige kustutatav fail: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Valige esitusloendi fail"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Valige see kataloog"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Valitud kataloog:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Valitud:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Määrake kimbu asukoht"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Määrake tüübi teisendus"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Näita koodi"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalkeri portaal M3U Converterile v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Konversiooniprotsessi alustamine..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Olek:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Samm 1/3: Portaaliga ühenduse loomine..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Samm 1/3: käepigistus..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Samm 2/3: autentimine..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Samm 2/3: esitusloendi faili loomine..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Samm 3/3: looge kimbu fail..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Samm 3/3: looge M3U-fail..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Samm 3/3: kanalite hankimine..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Samm 4/4: VOD-sisu hankimine..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Peatus"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Konversiooni peatamine..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Praeguse protsessi peatamine portaali vahetamiseks..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Edu!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Ajutine ladustamine"
 
 msgid "Top"
-msgstr ""
+msgstr "Üles"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB-draiv"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Värskendus katkestatud!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Uuendage Stalker Converter"
 
 msgid "User:"
-msgstr ""
+msgstr "Kasutaja:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD kaasamine: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Kehtivad portaalid valitud failist:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Veebiportaali server väljas"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Veebiportaali server sees"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Veebiserveri viga:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Veebiserver peatus"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Veebiserver: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Kasutate juba uusimat versiooni: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Kasutate juba uusimat versiooni: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Kõigepealt peate käivitama veebiserveri!"

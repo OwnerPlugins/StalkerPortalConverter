@@ -10,157 +10,157 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Piliin ang gustong format ng output: M3U o TV bouquet\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Magbukas ng file na may mga URL ng server o pindutin ang BLUE na button upang i-edit ang host at MAC address\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Pindutin ang CONVERT upang bumuo ng playlist"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Bumalik sa pangunahing menu"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Kanselahin"
 
 msgid "Access Code:"
 msgstr ""
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Na-load ang impormasyon ng account"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktibo:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Nagdagdag ng {} VOD item"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Nabigo ang pagpapatotoo:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Ibaba"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Nakatakda ang posisyon ng bouquet sa: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Mga bouquet na ginawa: {} mga pangkat na may {} mga channel"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Hindi makalikha ng direktoryo:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Baguhin ang Output Directory"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Error sa listahan ng channel:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Nabigo ang listahan ng channel: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Maaliwalas"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Error sa koneksyon:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Kinansela ang conversion bago magsimula"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Error sa conversion:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Huminto ang conversion bago gumawa ng bouquet"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Pinahinto ng user ang conversion"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Huminto ang conversion sa panahon ng paggawa ng M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Huminto ang conversion sa paggawa ng bouquet"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Huminto ang conversion sa panahon ng pagkuha ng channel"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Huminto ang conversion sa panahon ng pagpapangkat"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Huminto ang conversion sa panahon ng pagproseso"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Lumampas sa timeout ng conversion"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "I-convert ang Stalker Portal sa M3U playlist na may mga aktwal na channel"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "I-convert sa M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "I-convert sa TV"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Error sa pagpoproseso ng kritikal na channel"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Tanggalin ang Playlist File"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Nabigo ang pagtanggal:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Tinanggal:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Hindi maisusulat ang direktoryo:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Hindi pinagana"
 
 msgid "Disk"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "I-edit"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "I-edit ang MAC Address"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "I-edit ang URL ng Portal"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Pinagana"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Ilagay ang MAC Address (hal., 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Ilagay ang URL ng Portal (hal. http://example.com/c/ o http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Error sa pag-access sa mga value ng configuration"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Error sa pag-access sa mga value ng configuration:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Error sa pag-access sa direktoryo:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Error sa paggawa ng playlist:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Mga detalye ng error: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Error sa pagkuha ng impormasyon ng account"
 
 msgid "Error!"
 msgstr ""
@@ -169,79 +169,79 @@ msgid "Error:"
 msgstr ""
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Error: Di-wastong MAC address"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Error: Di-wastong URL ng portal"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Error: Portal at MAC ay kinakailangan"
 
 msgid "Expiry:"
 msgstr ""
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Nabigong i-load ang impormasyon ng account"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Nabigong makuha ang token!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Nabigong basahin ang configuration ng portal o MAC:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Nabigong makuha ang listahan ng channel"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Na-clear ang mga field"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Pagpapangkat: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "TULONG:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Nabigo ang pakikipagkamay: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Nabigo ang pakikipagkamay: Walang natanggap na token"
 
 msgid "Hard Disk"
 msgstr ""
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Itago ang Code"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Isama ang VOD sa Playlist"
 
 msgid "Information"
-msgstr ""
+msgstr "Impormasyon"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Error sa pagsisimula"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Di-wastong tugon ng JSON para sa listahan ng channel"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Di-wastong MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Di-wastong URL: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Na-load ang playlist: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Nag-load ng {} wastong mga entry mula sa {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Nilo-load ang impormasyon ng account sa background..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "Ginawa ang M3U gamit ang mga {} channel"
 
 msgid "MAC Address:"
 msgstr ""
@@ -253,28 +253,28 @@ msgid "Network"
 msgstr ""
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Bagong Access Code:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Bagong Code"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Bagong access code na nabuo!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Walang nakitang mga channel bilang tugon"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Walang nakitang file sa:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Walang nakitang mga file o direktoryo sa:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Walang nakitang wastong mga entry sa file"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Walang sapat na espasyo sa {}!"
 
 msgid "Output File:"
 msgstr ""
@@ -283,154 +283,154 @@ msgid "Password:"
 msgstr ""
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "File ng Playlist:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URL ng portal:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Inihahanda ang {} na mga channel..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Pindutin ang 0: Ipakita ang Access Code | Pindutin ang 1: Bagong Code"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Handa - Pumili ng file o ilagay ang URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Ini-scan ang file... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Piliin ang Posisyon ng Bouquet"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Piliin ang Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Piliin ang Playlist"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Piliin ang Playlist File"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Piliin ang Uri ng Conversion"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Pumili ng direktoryo"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Pumili ng file na tatanggalin sa: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Pumili ng playlist file"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Piliin ang direktoryo na ito"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Napiling direktoryo:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Napili:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Itakda ang Posisyon ng Bouquet"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Itakda ang Uri ng Conversion"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Ipakita ang Code"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker Portal sa M3U Converter v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Sinisimulan ang proseso ng conversion..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Katayuan:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Hakbang 1/3: Kumokonekta sa portal..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Hakbang 1/3: Pakikipagkamay..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Hakbang 2/3: Pagpapatunay..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Hakbang 2/3: Paggawa ng playlist file..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Hakbang 3/3: Gumawa ng Bouquet file..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Hakbang 3/3: Lumikha ng M3U file..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Hakbang 3/3: Pagkuha ng mga channel..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Hakbang 4/4: Pagkuha ng nilalamang VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Tumigil ka"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Paghinto ng conversion..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Pinahinto ang kasalukuyang proseso para lumipat ng portal..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Tagumpay!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Pansamantalang Imbakan"
 
 msgid "Top"
-msgstr ""
+msgstr "tuktok"
 
 msgid "USB Drive"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Na-abort ang Update!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "I-upgrade ang Stalker Converter"
 
 msgid "User:"
 msgstr ""
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Pagsasama ng VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Mga Wastong Portal mula sa Napiling File:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Naka-off ang Web Portal Server"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Naka-on ang Web Portal Server"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Error sa web server:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Huminto ang web server"
 
 msgid "Web server: http://%s:%d"
 msgstr ""
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Pinapatakbo mo na ang pinakabagong bersyon: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Pinapatakbo mo na ang pinakabagong bersyon: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Kailangan mo munang simulan ang Web Server!"

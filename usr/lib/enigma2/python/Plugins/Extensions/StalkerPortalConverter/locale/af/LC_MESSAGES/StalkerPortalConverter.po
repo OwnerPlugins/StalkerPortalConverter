@@ -10,385 +10,385 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Kies die verlangde uitvoerformaat: M3U of TV-boeket\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Maak 'n lêer oop met bediener-URL's of druk die BLOU knoppie om die gasheer en MAC-adres te wysig\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Druk CONVERT om die snitlys te genereer"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Terug na hoofkieslys"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Kanselleer"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Toegangskode:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Rekeninginligting gelaai"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktief:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Het {} VOD-items bygevoeg"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Stawing het misluk:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Onderkant"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Boeketposisie gestel op: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Boekette geskep: {} groepe met {} kanale"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Kan nie gids skep nie:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Verander uitsetgids"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Kanaallysfout:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Kanaallys het misluk: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Duidelik"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Verbindingsfout:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Omskakeling gekanselleer voor begin"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Omskakelingsfout:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Omskakeling het gestop voor boeketskepping"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Omskakeling gestop deur gebruiker"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Omskakeling het tydens M3U-skepping gestop"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Omskakeling het gestop tydens die skep van ruikers"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Omskakeling het tydens kanaalherwinning gestop"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Omskakeling het tydens groepering gestop"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Omskakeling het tydens verwerking gestop"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Omskakeling-uitteltyd oorskry"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Skakel Stalker Portal na M3U-snitlys met werklike kanale"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Skakel oor na M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Skakel oor na TV"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Kritieke kanaalverwerkingsfout"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Vee snitlyslêer uit"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Kon nie uitvee nie:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Geskrap:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Gids nie skryfbaar nie:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Gestrem"
 
 msgid "Disk"
-msgstr ""
+msgstr "Skyf"
 
 msgid "Edit"
-msgstr ""
+msgstr "Wysig"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Wysig MAC-adres"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Wysig portaal-URL"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Geaktiveer"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Voer MAC-adres in (bv. 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Voer portaal-URL in (bv. http://example.com/c/ of http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Kon nie toegang tot konfigurasiewaardes kry nie"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Fout met toegang tot konfigurasiewaardes:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Fout met toegang tot gids:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Kon nie snitlys skep nie:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Foutbesonderhede: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Kon nie rekeninginligting onttrek nie"
 
 msgid "Error!"
-msgstr ""
+msgstr "Fout!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Fout:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Fout: Ongeldige MAC-adres"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Fout: Ongeldige portaal-URL"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Fout: Portaal en MAC word vereis"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Vervaldatum:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Kon nie rekeninginligting laai nie"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Kon nie teken kry nie!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Kon nie portaal- of MAC-opstelling lees nie:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Kon nie kanaallys ophaal nie"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Velde skoongemaak"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Groepering: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "HULP:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Handdruk het misluk: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Handdruk het misluk: Geen teken ontvang nie"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Hardeskyf"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Versteek kode"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Sluit VOD in snitlys in"
 
 msgid "Information"
-msgstr ""
+msgstr "Inligting"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Inisialiseringsfout"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Ongeldige JSON-reaksie vir kanaallys"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Ongeldige MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Ongeldige URL: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Gelaaide snitlys: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Het {} geldige inskrywings van {} gelaai"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Laai tans rekeninginligting in agtergrond..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U geskep met {} kanale"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC-adres:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Maksimum:"
 
 msgid "Network"
-msgstr ""
+msgstr "Netwerk"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Nuwe toegangskode:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Nuwe kode"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Nuwe toegangskode gegenereer!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Geen kanale in reaksie gevind nie"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Geen lêers gevind in:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Geen lêers of gidse gevind in:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Geen geldige inskrywings in lêer gevind nie"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Nie genoeg spasie op {} nie!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Uitvoerlêer:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Wagwoord:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Snitlys lêer:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "Portaal-URL:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Berei tans {} kanale voor..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Druk 0: Wys toegangskode | Druk 1: Nuwe kode"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Gereed - Kies 'n lêer of voer URL/MAC in"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Skandeer tans lêer … {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Kies Boeketposisie"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Kies Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Kies Playlist"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Kies Playlist File"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Kies Tipe Omskakeling"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Kies gids"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Kies lêer om uit te vee in: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Kies snitlyslêer"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Kies hierdie gids"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Geselekteerde gids:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Gekies:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Stel boeketposisie in"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Stel Tipe Omskakeling"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Wys kode"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker-portaal na M3U-omskakelaar v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Begin tans omskakelingsproses …"
 
 msgid "Status:"
 msgstr ""
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Stap 1/3: Koppel tans aan portaal..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Stap 1/3: Handdruk..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Stap 2/3: Stawing..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Stap 2/3: Skep tans snitlyslêer..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Stap 3/3: Skep boeketlêer..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Stap 3/3: Skep M3U-lêer..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Stap 3/3: Kry kanale …"
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Stap 4/4: Kry VOD-inhoud …"
 
 msgid "Stop"
 msgstr ""
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Stop tans omskakeling …"
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Stop tans huidige proses om portaal te verander..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Sukses!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Tydelike berging"
 
 msgid "Top"
 msgstr ""
@@ -397,40 +397,40 @@ msgid "USB Drive"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Opdatering afgelas!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Gradeer Stalker Converter op"
 
 msgid "User:"
-msgstr ""
+msgstr "Gebruiker:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD-insluiting: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Geldige portale vanaf geselekteerde lêer:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Webportaalbediener af"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Webportaalbediener aan"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Webbedienerfout:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Webbediener het gestop"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Webbediener: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Jy gebruik reeds die nuutste weergawe: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Jy gebruik reeds die nuutste weergawe: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Jy moet eers die webbediener begin!"

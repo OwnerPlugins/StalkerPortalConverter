@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Pasirinkite norimą išvesties formatą: M3U arba TV puokštė\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Atidarykite failą su serverio URL arba paspauskite MĖLYNĄ mygtuką, kad redaguotų prieglobą ir MAC adresą\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Paspauskite CONVERT, kad sukurtumėte grojaraštį"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Grįžti į pagrindinį meniu"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Atšaukti"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Prieigos kodas:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Paskyros informacija įkelta"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktyvus:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Pridėta {} VOD elementų"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Autentifikavimas nepavyko:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Apačia"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Puokštės padėtis nustatyta į: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Sukurtos puokštės: {} grupės su {} kanalais"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Neįmanoma sukurti katalogo:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Pakeiskite išvesties katalogą"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Kanalų sąrašo klaida:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Nepavyko kanalų sąrašo: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Aišku"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Ryšio klaida:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Konversija atšaukta prieš pradedant"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Konversijos klaida:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Konvertavimas sustabdytas prieš kuriant puokštę"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Naudotojas sustabdė konversiją"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Kuriant M3U konvertavimas sustabdytas"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Kuriant puokštę konversija sustabdyta"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Konversija sustabdyta kanalo gavimo metu"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Grupavimo metu konversija sustabdyta"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Apdorojimo metu konversija sustabdyta"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Viršytas konversijos skirtasis laikas"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Konvertuokite „Stalker Portal“ į M3U grojaraštį su tikrais kanalais"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Konvertuoti į M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Konvertuoti į televizorių"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Kritinė kanalo apdorojimo klaida"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Ištrinti grojaraščio failą"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Nepavyko ištrinti:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Ištrinta:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Katalogas neįrašomas:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Išjungta"
 
 msgid "Disk"
-msgstr ""
+msgstr "Diskas"
 
 msgid "Edit"
-msgstr ""
+msgstr "Redaguoti"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Redaguoti MAC adresą"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Redaguoti portalo URL"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Įjungta"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Įveskite MAC adresą (pvz., 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Įveskite portalo URL (pvz., http://example.com/c/ arba http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Klaida pasiekiant konfigūracijos vertes"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Klaida pasiekiant konfigūracijos vertes:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Klaida pasiekiant katalogą:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Klaida kuriant grojaraštį:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Išsami informacija apie klaidą: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Klaida ištraukiant paskyros informaciją"
 
 msgid "Error!"
-msgstr ""
+msgstr "Klaida!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Klaida:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Klaida: neteisingas MAC adresas"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Klaida: neteisingas portalo URL"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Klaida: reikalingas portalas ir MAC"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Galiojimo laikas:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Nepavyko įkelti paskyros informacijos"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Nepavyko gauti prieigos rakto!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Nepavyko nuskaityti portalo arba MAC konfigūracijos:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Nepavyko nuskaityti kanalų sąrašo"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Laukai išvalyti"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Grupavimas: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "PAGALBA:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Rankos paspaudimas nepavyko: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Rankos paspaudimas nepavyko: žetonas negautas"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Kietasis diskas"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Slėpti kodą"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Į grojaraštį įtraukite VOD"
 
 msgid "Information"
-msgstr ""
+msgstr "Informacija"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Inicijavimo klaida"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Netinkamas kanalų sąrašo JSON atsakymas"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Neteisingas MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Neteisingas URL: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Įkeltas grojaraštis: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Įkelti {} tinkami įrašai iš {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Įkeliama paskyros informacija fone..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U sukurta su {} kanalais"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC adresas:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Maks.:"
 
 msgid "Network"
-msgstr ""
+msgstr "Tinklas"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Naujas prieigos kodas:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Naujas kodas"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Sugeneruotas naujas prieigos kodas!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Atsakant nerasta jokių kanalų"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Failų nerasta:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Failų ar katalogų nerasta:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Faile nerasta galiojančių įrašų"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Nepakanka vietos {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Išvesties failas:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Slaptažodis:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Grojaraščio failas:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "Portalo URL:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Ruošiama {} kanalų..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Paspauskite 0: Rodyti prieigos kodą | Paspauskite 1: Naujas kodas"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Paruošta – pasirinkite failą arba įveskite URL / MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Nuskaitomas failas... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Pasirinkite puokštės padėtį"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Pasirinkite Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Pasirinkite Grojaraštis"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Pasirinkite grojaraščio failą"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Pasirinkite Konversijos tipą"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Pasirinkite katalogą"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Pasirinkite failą, kurį norite ištrinti: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Pasirinkite grojaraščio failą"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Pasirinkite šį katalogą"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Pasirinktas katalogas:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Pasirinkta:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Nustatykite puokštės padėtį"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Nustatykite tipo konvertavimą"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Rodyti kodą"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker portalas į M3U Converter v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Pradedamas konvertavimo procesas..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Būsena:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "1/3 veiksmas: prisijungimas prie portalo..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "1/3 veiksmas: rankos paspaudimas..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "2/3 veiksmas: autentifikavimas..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "2/3 veiksmas: grojaraščio failo kūrimas..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "3 veiksmas/3: sukurkite puokštės failą..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "3/3 veiksmas: sukurkite M3U failą..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "3/3 veiksmas: gaukite kanalus..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "4/4 veiksmas: gaukite VOD turinį..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Sustok"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Sustabdoma konversija..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Sustabdomas dabartinis portalo perjungimo procesas..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Sėkmės!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Laikinas saugojimas"
 
 msgid "Top"
-msgstr ""
+msgstr "Į viršų"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB diskas"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Atnaujinimas nutrauktas!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Atnaujinkite Stalker konverterį"
 
 msgid "User:"
-msgstr ""
+msgstr "Vartotojas:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD įtraukimas: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Galiojantys portalai iš pasirinkto failo:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Interneto portalo serveris išjungtas"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Interneto portalo serveris įjungtas"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Žiniatinklio serverio klaida:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Interneto serveris sustabdytas"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Žiniatinklio serveris: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Jau naudojate naujausią versiją: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Jau naudojate naujausią versiją: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Pirmiausia turite paleisti žiniatinklio serverį!"

@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Dewiswch y fformat allbwn a ddymunir: M3U neu dusw teledu\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Agorwch ffeil gyda URLs gweinydd neu pwyswch y botwm BLUE i olygu'r gwesteiwr a'r cyfeiriad MAC\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Pwyswch CONVERT i gynhyrchu'r rhestr chwarae"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Yn ôl i'r brif ddewislen"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Canslo"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Cod Mynediad:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Gwybodaeth cyfrif wedi'i llwytho"
 
 msgid "Active:"
-msgstr ""
+msgstr "Actif:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Ychwanegwyd {} eitem VOD"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Methodd y dilysu:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Gwaelod"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Safle tusw wedi'i osod i: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Tuswau wedi'u creu: {} grwpiau â {} sianeli"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Methu creu cyfeiriadur:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Newid Cyfeiriadur Allbwn"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Gwall rhestr sianel:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Methodd y rhestr sianeli: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Clir"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Gwall cysylltu:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Cafodd y trosiad ei ganslo cyn dechrau"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Gwall trosi:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Daeth y trosiad i ben cyn creu tusw"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Cafodd y trosiad ei stopio gan y defnyddiwr"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Daeth y trosi i ben yn ystod creu M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Daeth y trosiad i ben wrth greu tuswau"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Cafodd y trosiad ei stopio yn ystod adalw sianel"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Daeth y trosi i ben yn ystod y grwpio"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Daeth y trosi i ben yn ystod y prosesu"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Wedi mynd y tu hwnt i'r terfyn amser trosi"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Trosi Porth Stalker i restr chwarae M3U gyda sianeli gwirioneddol"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Trosi i M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Trosi i deledu"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Gwall prosesu sianel critigol"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Dileu Ffeil Rhestr Chwarae"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Wedi methu dileu:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Wedi'i ddileu:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Cyfeiriadur ddim yn ysgrifenadwy:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Anabl"
 
 msgid "Disk"
-msgstr ""
+msgstr "Disg"
 
 msgid "Edit"
-msgstr ""
+msgstr "Golygu"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Golygu Cyfeiriad MAC"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Golygu URL Porth"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Galluogwyd"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Rhowch Cyfeiriad MAC (e.e., 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Rhowch URL y Porth (e.e. http://example.com/c/ neu http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Gwall wrth gyrchu gwerthoedd cyfluniad"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Gwall wrth gyrchu gwerthoedd cyfluniad:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Gwall wrth gyrchu'r cyfeiriadur:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Gwall wrth greu rhestr chwarae:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Manylion gwall: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Gwall wrth echdynnu gwybodaeth cyfrif"
 
 msgid "Error!"
-msgstr ""
+msgstr "Gwall!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Gwall:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Gwall: Cyfeiriad MAC annilys"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Gwall: URL porth annilys"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Gwall: Mae angen Porth a MAC"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Dod i ben:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Wedi methu llwytho gwybodaeth cyfrif"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Wedi methu cael tocyn!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Wedi methu darllen ffurfweddiad porth neu MAC:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Wedi methu ag adalw rhestr sianeli"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Caeau wedi'u clirio"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Grwpio: {}"
 
 msgid "HELP:\n"
 msgstr ""
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Methodd ysgwyd llaw: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Methodd ysgwyd llaw: Ni dderbyniwyd tocyn"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Disg Galed"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Cuddio Cod"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Cynnwys VOD yn y Rhestr Chwarae"
 
 msgid "Information"
-msgstr ""
+msgstr "Gwybodaeth"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Gwall cychwyn"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Ymateb JSON annilys ar gyfer rhestr sianeli"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC annilys: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "URL annilys: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Rhestr chwarae wedi'i llwytho: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Wedi llwytho {} cofnod dilys o {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Wrthi'n llwytho gwybodaeth cyfrif yn y cefndir..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U wedi'i greu gyda {} sianeli"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "Cyfeiriad MAC:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Uchafswm:"
 
 msgid "Network"
-msgstr ""
+msgstr "Rhwydwaith"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Cod Mynediad Newydd:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Cod Newydd"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Cod mynediad newydd wedi'i gynhyrchu!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Ni chanfuwyd unrhyw sianeli mewn ymateb"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Ni chanfuwyd unrhyw ffeiliau yn:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Ni chanfuwyd unrhyw ffeiliau na chyfeiriaduron yn:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Ni chanfuwyd cofnodion dilys yn y ffeil"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Dim digon o le ar {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Ffeil Allbwn:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Cyfrinair:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Ffeil Rhestr Chwarae:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URL porth:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Wrthi'n paratoi {} sianel..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Pwyswch 0: Dangos Cod Mynediad | Pwyswch 1: Cod Newydd"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Barod - Dewiswch ffeil neu rhowch URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Wrthi'n sganio ffeil... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Dewiswch Swydd Bouquet"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Dewiswch Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Dewiswch Rhestr Chwarae"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Dewiswch Ffeil Rhestr Chwarae"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Dewiswch Math o Drosi"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Dewiswch gyfeiriadur"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Dewiswch ffeil i'w dileu yn: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Dewiswch ffeil rhestr chwarae"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Dewiswch y cyfeiriadur hwn"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Cyfeiriadur dethol:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Wedi'i ddewis:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Gosod Safle Bouquet"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Gosod Trosi Math"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Dangos Cod"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Porth Stalker i Trawsnewidydd M3U v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Dechrau'r broses drosi..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Statws:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Cam 1/3: Cysylltu â'r porth..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Cam 1/3: Ysgwyd dwylo..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Cam 2/3: Dilysu..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Cam 2/3: Creu ffeil rhestr chwarae..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Cam 3/3: Creu ffeil Bouquet..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Cam 3/3: Creu ffeil M3U..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Cam 3/3: Cael sianeli..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Cam 4/4: Cael cynnwys VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Stopio"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Rhoi'r gorau i drosi..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Atal y broses bresennol i newid porth..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Llwyddiant!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Storio Dros Dro"
 
 msgid "Top"
-msgstr ""
+msgstr "Brig"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Gyriant USB"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Diweddariad wedi'i Erthylu!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Uwchraddio trawsnewidydd Stalker"
 
 msgid "User:"
-msgstr ""
+msgstr "Defnyddiwr:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Cynhwysiant VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Pyrth Dilys o'r Ffeil Ddewisol:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Gweinydd Porth Gwe i ffwrdd"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Gweinydd Porth Gwe Ymlaen"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Gwall gweinydd gwe:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Wedi stopio gweinydd gwe"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Gweinydd gwe: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Rydych chi eisoes yn rhedeg y fersiwn diweddaraf: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Rydych chi eisoes yn rhedeg y fersiwn diweddaraf: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Mae angen i chi gychwyn y Gweinydd Gwe yn gyntaf!"

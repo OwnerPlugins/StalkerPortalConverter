@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Agħżel il-format tal-output mixtieq: M3U jew bukkett tat-TV\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Iftaħ fajl bl-URLs tas-server jew agħfas il-buttuna BLU biex teditja l-host u l-indirizz MAC\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Agħfas Ikkonverti biex tiġġenera l-playlist"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Lura għall-menu prinċipali"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Ikkanċella"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Kodiċi ta' Aċċess:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Informazzjoni tal-kont mgħobbija"
 
 msgid "Active:"
-msgstr ""
+msgstr "Attiv:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Miżjud {} oġġetti VOD"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "L-awtentikazzjoni falliet:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Qiegħed"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Pożizzjoni tal-bukkett issettjata għal: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Bukketti maħluqa: {} gruppi bi {} kanali"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Ma tistax toħloq direttorju:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Ibdel id-Direttorju tal-Output"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Żball fil-lista tal-kanali:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Il-lista tal-kanali falliet: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Ċara"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Żball fil-konnessjoni:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Konverżjoni kkanċellata qabel il-bidu"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Żball ta' konverżjoni:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Il-konverżjoni waqfet qabel il-ħolqien tal-bukkett"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Konverżjoni waqfet mill-utent"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Il-konverżjoni waqfet waqt il-ħolqien tal-M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Il-konverżjoni waqfet waqt il-ħolqien tal-bukkett"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Il-konverżjoni waqfet waqt l-irkupru tal-kanal"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Il-konverżjoni waqfet waqt il-grupp"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Il-konverżjoni waqfet waqt l-ipproċessar"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Inqabeż iż-żmien tal-konverżjoni"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Ikkonverti Stalker Portal għal playlist M3U b'kanali attwali"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Ikkonverti għal M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Ikkonverti għal TV"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Żball kritiku fl-ipproċessar tal-kanal"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Ħassar Playlist File"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Ħassar falla:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Imħassar:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Direttorju mhux miktub:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "B'diżabilità"
 
 msgid "Disk"
-msgstr ""
+msgstr "Diska"
 
 msgid "Edit"
-msgstr ""
+msgstr "Editja"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Editja l-indirizz MAC"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Editja l-URL tal-Portal"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Ippermettiet"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Daħħal l-indirizz MAC (eż., 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Daħħal l-URL tal-Portal (eż. http://example.com/c/ jew http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Żball fl-aċċess għall-valuri tal-konfigurazzjoni"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Żball fl-aċċess tal-valuri tal-konfigurazzjoni:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Żball fl-aċċess tad-direttorju:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Żball fil-ħolqien tal-playlist:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Dettalji tal-iżball: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Żball fl-estrazzjoni tal-informazzjoni tal-kont"
 
 msgid "Error!"
-msgstr ""
+msgstr "Żball!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Żball:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Żball: Indirizz MAC invalidu"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Żball: URL tal-portal invalidu"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Żball: Portal u MAC huma meħtieġa"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Skadenza:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Naqas milli tgħabbi l-informazzjoni tal-kont"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Naqas milli jikseb token!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Naqset milli taqra l-konfigurazzjoni tal-portal jew tal-MAC:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Naqas milli tiġi rkuprata l-lista tal-kanali"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Oqsma mneħħija"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Raggruppament: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "GĦAJNUNA:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Handshake falliet: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Handshake falliet: L-ebda token ma rċeviet"
 
 msgid "Hard Disk"
 msgstr ""
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Aħbi l-Kodiċi"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Inkludi VOD fil-Playlist"
 
 msgid "Information"
-msgstr ""
+msgstr "Informazzjoni"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Żball fl-inizjalizzazzjoni"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Risposta JSON mhux valida għal-lista tal-kanali"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC invalidu: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "URL invalidu: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Playlist mgħobbija: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "{} daħliet validi mgħobbija minn {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Tagħbija l-informazzjoni tal-kont fl-isfond..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U maħluqa bi {} kanali"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "Indirizz MAC:"
 
 msgid "Max:"
 msgstr ""
 
 msgid "Network"
-msgstr ""
+msgstr "Netwerk"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Kodiċi ta' Aċċess Ġdid:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Kodiċi Ġdid"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Ġenerat kodiċi ta' aċċess ġdid!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "L-ebda kanal ma nstab bi tweġiba"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "L-ebda fajl ma nstab fi:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "L-ebda fajl jew direttorju ma nstab fi:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "L-ebda daħliet validi misjuba fil-fajl"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Mhux biżżejjed spazju fuq {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Fajl tal-Output:"
 
 msgid "Password:"
 msgstr ""
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Fajl tal-Playlist:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URL tal-portal:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Nipprepara {} kanali..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Agħfas 0: Uri Kodiċi ta' Aċċess | Agħfas 1: Kodiċi Ġdid"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Lest - Agħżel fajl jew daħħal URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Skennjar tal-fajl... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Agħżel il-Pożizzjoni tal-Bukkett"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Agħżel Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Agħżel Playlist"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Agħżel Playlist File"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Agħżel Tip ta' Konverżjoni"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Agħżel direttorju"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Agħżel il-fajl biex tħassar fi: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Agħżel il-fajl tal-playlist"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Agħżel dan id-direttorju"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Direttorju magħżul:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Magħżula:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Issettja l-Pożizzjoni tal-Bukkett"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Issettja l-Konverżjoni tat-Tip"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Uri Kodiċi"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker Portal għal M3U Converter v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Nibda proċess ta' konverżjoni..."
 
 msgid "Status:"
 msgstr ""
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Pass 1/3: Konnessjoni mal-portal..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Pass 1/3: Handshake..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Pass 2/3: Awtentikazzjoni..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Pass 2/3: Ħolqien tal-fajl tal-playlist..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Pass 3/3: Oħloq fajl Bouquet..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Pass 3/3: Oħloq fajl M3U..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Pass 3/3: Ikseb kanali..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Pass 4/4: Ikseb kontenut VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Waqqaf"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Twaqqaf il-konverżjoni..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Twaqqaf il-proċess attwali biex taqleb il-portal..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Suċċess!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Ħażna Temporanja"
 
 msgid "Top"
-msgstr ""
+msgstr "Fuq"
 
 msgid "USB Drive"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Aġġornament Abortat!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Aġġorna Stalker Konvertitur"
 
 msgid "User:"
-msgstr ""
+msgstr "Utent:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Inklużjoni VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Portali Validi minn Fajl Magħżul:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Web Portal Server Mitfi"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Web Portal Server Fuq"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Żball tas-server tal-web:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Web server waqaf"
 
 msgid "Web server: http://%s:%d"
 msgstr ""
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Diġà qed tħaddem l-aħħar verżjoni: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Diġà qed tħaddem l-aħħar verżjoni: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "L-ewwel trid tibda l-Web Server!"

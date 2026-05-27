@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Chọn định dạng đầu ra mong muốn: M3U hoặc bó TV\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Mở tệp có URL máy chủ hoặc nhấn nút BLUE để chỉnh sửa máy chủ và địa chỉ MAC\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Nhấn CONVERT để tạo danh sách phát"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Quay lại menu chính"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Hủy"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Mã truy cập:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Đã tải thông tin tài khoản"
 
 msgid "Active:"
-msgstr ""
+msgstr "Tích cực:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Đã thêm {} mục VOD"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Xác thực không thành công:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Đáy"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Vị trí bó hoa được đặt thành: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Bó hoa đã tạo: {} nhóm với {} kênh"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Không thể tạo thư mục:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Thay đổi thư mục đầu ra"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Lỗi danh sách kênh:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Danh sách kênh không thành công: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Thông thoáng"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Lỗi kết nối:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Đã hủy chuyển đổi trước khi bắt đầu"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Lỗi chuyển đổi:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Đã dừng chuyển đổi trước khi tạo bó hoa"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Chuyển đổi bị dừng bởi người dùng"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Chuyển đổi đã dừng trong quá trình tạo M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Chuyển đổi đã dừng trong quá trình tạo bó hoa"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Chuyển đổi đã dừng trong quá trình truy xuất kênh"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Đã dừng chuyển đổi trong khi nhóm"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Đã dừng chuyển đổi trong khi xử lý"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Đã vượt quá thời gian chờ chuyển đổi"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Chuyển đổi Stalker Portal thành danh sách phát M3U với các kênh thực tế"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Chuyển đổi sang M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Chuyển đổi sang TV"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Lỗi xử lý kênh quan trọng"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Xóa tệp danh sách phát"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Xóa không thành công:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Đã xóa:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Thư mục không thể ghi:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Tàn tật"
 
 msgid "Disk"
-msgstr ""
+msgstr "đĩa"
 
 msgid "Edit"
-msgstr ""
+msgstr "Biên tập"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Chỉnh sửa địa chỉ MAC"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Chỉnh sửa URL cổng thông tin"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Đã bật"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Nhập địa chỉ MAC (ví dụ: 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Nhập URL cổng thông tin (ví dụ: http://example.com/c/ hoặc http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Lỗi truy cập giá trị cấu hình"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Lỗi truy cập giá trị cấu hình:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Lỗi truy cập thư mục:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Lỗi tạo danh sách phát:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Chi tiết lỗi: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Lỗi trích xuất thông tin tài khoản"
 
 msgid "Error!"
-msgstr ""
+msgstr "Lỗi!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Lỗi:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Lỗi: Địa chỉ MAC không hợp lệ"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Lỗi: URL cổng thông tin không hợp lệ"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Lỗi: Cần có Cổng thông tin và MAC"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Hết hạn:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Không tải được thông tin tài khoản"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Không nhận được mã thông báo!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Không đọc được cấu hình cổng hoặc MAC:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Không truy xuất được danh sách kênh"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Các trường đã bị xóa"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Nhóm: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "GIÚP ĐỠ:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Bắt tay không thành công: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Bắt tay không thành công: Không nhận được mã thông báo"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Đĩa cứng"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Ẩn mã"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Đưa VOD vào Danh sách phát"
 
 msgid "Information"
-msgstr ""
+msgstr "Thông tin"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Lỗi khởi tạo"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Phản hồi JSON không hợp lệ cho danh sách kênh"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC không hợp lệ: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "URL không hợp lệ: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Danh sách phát đã tải: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Đã tải {} mục nhập hợp lệ từ {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Đang tải thông tin tài khoản ở chế độ nền..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U được tạo bằng {} kênh"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "Địa chỉ MAC:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Tối đa:"
 
 msgid "Network"
-msgstr ""
+msgstr "Mạng"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Mã truy cập mới:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Mã mới"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Mã truy cập mới được tạo!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Không tìm thấy kênh nào phản hồi"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Không tìm thấy tập tin nào trong:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Không tìm thấy tập tin hoặc thư mục trong:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Không tìm thấy mục nhập hợp lệ trong tập tin"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Không đủ dung lượng trên {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Tệp đầu ra:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Mật khẩu:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Tệp danh sách phát:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URL cổng thông tin:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Đang chuẩn bị {} kênh..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Nhấn phím 0: Hiển thị mã truy cập | Nhấn phím 1: Mã mới"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Sẵn sàng - Chọn tệp hoặc nhập URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Đang quét tệp... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Chọn vị trí bó hoa"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Chọn núi gốc"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Chọn danh sách phát"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Chọn tệp danh sách phát"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Chọn loại chuyển đổi"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Chọn thư mục"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Chọn tệp cần xóa trong: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Chọn tệp danh sách phát"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Chọn thư mục này"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Thư mục đã chọn:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Đã chọn:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Đặt vị trí bó hoa"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Đặt chuyển đổi loại"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Hiển thị mã"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Bộ chuyển đổi Stalker Portal sang M3U v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Đang bắt đầu quá trình chuyển đổi..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Trạng thái:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Bước 1/3: Kết nối với cổng..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Bước 1/3: Bắt tay..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Bước 2/3: Xác thực..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Bước 2/3: Tạo file danh sách phát..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Bước 3/3: Tạo file Bó hoa..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Bước 3/3: Tạo file M3U..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Bước 3/3: Lấy kênh..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Bước 4/4: Lấy nội dung VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Dừng lại"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Đang dừng chuyển đổi..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Đang dừng quá trình hiện tại để chuyển đổi cổng thông tin..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Thành công!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Lưu trữ tạm thời"
 
 msgid "Top"
-msgstr ""
+msgstr "Đứng đầu"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Ổ USB"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Cập nhật bị hủy bỏ!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Nâng cấp bộ chuyển đổi Stalker"
 
 msgid "User:"
-msgstr ""
+msgstr "Người dùng:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Bao gồm VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Cổng hợp lệ từ tệp đã chọn:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Máy chủ Cổng Web Tắt"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Máy chủ cổng thông tin web đang bật"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Lỗi máy chủ web:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Máy chủ web đã dừng"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Máy chủ web: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Bạn đang chạy phiên bản mới nhất: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Bạn đang chạy phiên bản mới nhất: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Bạn cần khởi động Web Server trước!"

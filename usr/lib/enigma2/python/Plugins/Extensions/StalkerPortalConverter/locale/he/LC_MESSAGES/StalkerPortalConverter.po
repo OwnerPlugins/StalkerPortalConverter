@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- בחר את פורמט הפלט הרצוי: M3U או זר טלוויזיה\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- פתח קובץ עם כתובות אתרים של שרת או לחץ על הלחצן הכחול כדי לערוך את המארח ואת כתובת ה-MAC\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- לחץ על המר כדי ליצור את רשימת ההשמעה"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< חזרה לתפריט הראשי"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< בטל"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "קוד גישה:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "פרטי החשבון נטען"
 
 msgid "Active:"
-msgstr ""
+msgstr "פָּעִיל:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "נוספו {} פריטי VOD"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "האימות נכשל:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "תַחתִית"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "מיקום הזר מוגדר ל: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "זרי פרחים נוצרו: {} קבוצות עם {} ערוצים"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "לא ניתן ליצור ספרייה:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "שנה את ספריית הפלט"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "שגיאה ברשימת הערוצים:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "רשימת הערוצים נכשלה: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "בָּרוּר"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "שגיאת חיבור:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "ההמרה בוטלה לפני ההתחלה"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "שגיאת המרה:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "ההמרה הופסקה לפני יצירת זר פרחים"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "המרה הופסקה על ידי המשתמש"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "ההמרה הופסקה במהלך יצירת M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "ההמרה הופסקה במהלך יצירת הזר"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "ההמרה הופסקה במהלך אחזור הערוץ"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "ההמרה הופסקה במהלך הקיבוץ"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "ההמרה הופסקה במהלך העיבוד"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "חרג את הזמן הקצוב להמרה"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "המר את Portal Stalker לפלייליסט M3U עם ערוצים בפועל"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "המר ל-M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "המר לטלוויזיה"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "שגיאת עיבוד ערוץ קריטית"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "מחק קובץ רשימת השמעה"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "המחיקה נכשלה:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "נמחק:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "ספרייה לא ניתנת לכתיבה:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "נָכֶה"
 
 msgid "Disk"
-msgstr ""
+msgstr "דִיסק"
 
 msgid "Edit"
-msgstr ""
+msgstr "לַעֲרוֹך"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "ערוך כתובת MAC"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "ערוך את כתובת האתר של הפורטל"
 
 msgid "Enabled"
-msgstr ""
+msgstr "מופעל"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "הזן כתובת MAC (לדוגמה, 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "הזן כתובת אתר של פורטל (למשל http://example.com/c/ או http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "שגיאה בגישה לערכי תצורה"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "שגיאה בגישה לערכי תצורה:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "שגיאה בגישה לספרייה:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "שגיאה ביצירת רשימת השמעה:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "פרטי שגיאה: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "שגיאה בחילוץ פרטי החשבון"
 
 msgid "Error!"
-msgstr ""
+msgstr "שְׁגִיאָה!"
 
 msgid "Error:"
-msgstr ""
+msgstr "שְׁגִיאָה:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "שגיאה: כתובת MAC לא חוקית"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "שגיאה: כתובת אתר לא חוקית של הפורטל"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "שגיאה: נדרשים פורטל ו-MAC"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "תְפוּגָה:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "טעינת פרטי החשבון נכשלה"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "השגת אסימון נכשלה!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "קריאת תצורת הפורטל או ה-MAC נכשלה:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "אחזור רשימת הערוצים נכשל"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "שדות נוקו"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "קיבוץ: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "עזרה:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "לחיצת היד נכשלה: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "לחיצת היד נכשלה: לא התקבל אסימון"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "דיסק קשיח"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "הסתר קוד"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "כלול VOD ברשימת ההשמעה"
 
 msgid "Information"
-msgstr ""
+msgstr "מֵידָע"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "שגיאת אתחול"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "תגובת JSON לא חוקית עבור רשימת הערוצים"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC לא חוקי: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "כתובת אתר לא חוקית: {פורטל}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "רשימת השמעה נטענה: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "טענו {} ערכים חוקיים מ-{}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "טוען פרטי חשבון ברקע..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U נוצר עם {} ערוצים"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "כתובת MAC:"
 
 msgid "Max:"
-msgstr ""
+msgstr "מקסימום:"
 
 msgid "Network"
-msgstr ""
+msgstr "רֶשֶׁת"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "קוד גישה חדש:"
 
 msgid "New Code"
-msgstr ""
+msgstr "קוד חדש"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "נוצר קוד גישה חדש!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "לא נמצאו ערוצים בתגובה"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "לא נמצאו קבצים ב:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "לא נמצאו קבצים או ספריות ב:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "לא נמצאו ערכים חוקיים בקובץ"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "אין מספיק מקום ב-{}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "קובץ פלט:"
 
 msgid "Password:"
-msgstr ""
+msgstr "סִיסמָה:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "קובץ רשימת השמעה:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "כתובת אתר של פורטל:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "מכין {} ערוצים..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "הקש 0: הצג קוד גישה | הקש 1: קוד חדש"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "מוכן - בחר קובץ או הזן כתובת URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "סורק קובץ... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "בחר מיקום זר"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "בחר הר שורש"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "בחר רשימת השמעה"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "בחר קובץ רשימת השמעה"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "בחר סוג המרה"
 
 msgid "Select directory"
-msgstr ""
+msgstr "בחר ספרייה"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "בחר קובץ למחיקה ב: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "בחר קובץ רשימת השמעה"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "בחר את הספרייה הזו"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "ספרייה שנבחרה:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "נִבחָר:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "הגדר את מיקום הזר"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "הגדר המרת סוג"
 
 msgid "Show Code"
-msgstr ""
+msgstr "הצג קוד"
 
 msgid "Stalker Portal to M3U Converter v.%s"
 msgstr ""
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "מתחיל תהליך המרה..."
 
 msgid "Status:"
-msgstr ""
+msgstr "סטָטוּס:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "שלב 1/3: מתחבר לפורטל..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "שלב 1/3: לחיצת יד..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "שלב 2/3: אימות..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "שלב 2/3: יצירת קובץ רשימת השמעה..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "שלב 3/3: צור קובץ זר..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "שלב 3/3: צור קובץ M3U..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "שלב 3/3: קבלת ערוצים..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "שלב 4/4: קבלת תוכן VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "לְהַפְסִיק"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "עוצר המרה..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "עוצר את התהליך הנוכחי למעבר פורטל..."
 
 msgid "Success!"
-msgstr ""
+msgstr "הַצלָחָה!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "אחסון זמני"
 
 msgid "Top"
-msgstr ""
+msgstr "רֹאשׁ"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "כונן USB"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "העדכון בוטל!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "שדרוג ממיר סטאלקר"
 
 msgid "User:"
-msgstr ""
+msgstr "מִשׁתַמֵשׁ:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "הכללת VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "פורטלים תקפים מהקובץ שנבחר:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "שרת פורטל האינטרנט כבוי"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "שרת פורטל האינטרנט פועל"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "שגיאת שרת אינטרנט:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "שרת האינטרנט נעצר"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "שרת אינטרנט: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "אתה כבר מפעיל את הגרסה האחרונה: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "אתה כבר מפעיל את הגרסה העדכנית ביותר: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "תחילה עליך להפעיל את שרת האינטרנט!"

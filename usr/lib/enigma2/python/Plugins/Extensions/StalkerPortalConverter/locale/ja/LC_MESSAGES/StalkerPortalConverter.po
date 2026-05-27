@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- 希望の出力形式を選択します: M3U または TV ブーケ\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- サーバー URL を含むファイルを開くか、青いボタンを押してホストと MAC アドレスを編集します\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- CONVERT を押してプレイリストを生成します"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< メインメニューに戻る"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< キャンセル"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "アクセスコード:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "アカウント情報が読み込まれました"
 
 msgid "Active:"
-msgstr ""
+msgstr "アクティブ："
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "{} 個の VOD アイテムを追加しました"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "認証に失敗しました:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "底"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "花束の位置を次のように設定しました: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "作成されたブーケ: {} 個のチャネルを持つ {} 個のグループ"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "ディレクトリを作成できません:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "出力ディレクトリの変更"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "チャンネルリストエラー:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "チャンネルリストが失敗しました: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "クリア"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "接続エラー:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "変換が開始前にキャンセルされました"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "変換エラー:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "ブーケ作成前に変換が停止しました"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "ユーザーによって変換が停止されました"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "M3U作成中に変換が停止しました"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "ブーケの作成中に変換が停止しました"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "チャンネル取得中に変換が停止しました"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "グループ化中に変換が停止しました"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "処理中に変換が停止しました"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "変換タイムアウトを超えました"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Stalker Portal を実際のチャンネルを含む M3U プレイリストに変換する"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "M3Uに変換する"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "テレビに変換する"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "クリティカルなチャネル処理エラー"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "プレイリストファイルの削除"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "削除に失敗しました:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "削除されました:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "ディレクトリは書き込み可能ではありません:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "無効"
 
 msgid "Disk"
-msgstr ""
+msgstr "ディスク"
 
 msgid "Edit"
-msgstr ""
+msgstr "編集"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "MACアドレスの編集"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "ポータル URL の編集"
 
 msgid "Enabled"
-msgstr ""
+msgstr "有効"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "MAC アドレスを入力します (例: 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "ポータル URL を入力します (例: http://example.com/c/ または http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "構成値へのアクセスでエラーが発生しました"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "構成値へのアクセス中にエラーが発生しました:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "ディレクトリへのアクセス中にエラーが発生しました:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "プレイリスト作成エラー:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "エラーの詳細: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "アカウント情報の抽出中にエラーが発生しました"
 
 msgid "Error!"
-msgstr ""
+msgstr "エラー！"
 
 msgid "Error:"
-msgstr ""
+msgstr "エラー："
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "エラー: 無効な MAC アドレス"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "エラー: ポータル URL が無効です"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "エラー: ポータルと MAC が必要です"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "有効期限:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "アカウント情報の読み込みに失敗しました"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "トークンの取得に失敗しました!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "ポータルまたは MAC 構成の読み取りに失敗しました:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "チャンネルリストの取得に失敗しました"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "フィールドがクリアされました"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "グループ化: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "ヘルプ:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "ハンドシェイクが失敗しました: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "ハンドシェイクが失敗しました: トークンを受信しませんでした"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "ハードディスク"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "コードを隠す"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "プレイリストに VOD を含める"
 
 msgid "Information"
-msgstr ""
+msgstr "情報"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "初期化エラー"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "チャンネルリストに対する無効な JSON 応答"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "無効な MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "無効な URL: {ポータル}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "ロードされたプレイリスト: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "{} から {} 個の有効なエントリをロードしました"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "アカウント情報をバックグラウンドで読み込んでいます..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "{} チャネルで作成された M3U"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MACアドレス:"
 
 msgid "Max:"
-msgstr ""
+msgstr "最大:"
 
 msgid "Network"
-msgstr ""
+msgstr "ネットワーク"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "新しいアクセスコード:"
 
 msgid "New Code"
-msgstr ""
+msgstr "新しいコード"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "新しいアクセスコードが生成されました!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "応答でチャンネルが見つかりませんでした"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "次の場所にファイルが見つかりません:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "次の場所にファイルまたはディレクトリが見つかりません:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "ファイル内に有効なエントリが見つかりません"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "{} に十分なスペースがありません。"
 
 msgid "Output File:"
-msgstr ""
+msgstr "出力ファイル:"
 
 msgid "Password:"
-msgstr ""
+msgstr "パスワード："
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "プレイリストファイル:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "ポータルURL:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "{} チャネルを準備しています..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "0 を押します: アクセス コードを表示 | 1 を押します: 新しいコード"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "準備完了 - ファイルを選択するか、URL/MAC を入力してください"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "ファイルをスキャン中... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "花束の位置を選択してください"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "マウントルートを選択"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "プレイリストを選択"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "プレイリストファイルの選択"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "変換の種類を選択してください"
 
 msgid "Select directory"
-msgstr ""
+msgstr "ディレクトリの選択"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "削除するファイルを選択してください: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "プレイリストファイルを選択"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "このディレクトリを選択してください"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "選択したディレクトリ:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "選択済み:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "花束の位置を設定する"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "型変換の設定"
 
 msgid "Show Code"
-msgstr ""
+msgstr "コードを表示"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "ストーカー ポータルから M3U へのコンバータ v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "変換プロセスを開始しています..."
 
 msgid "Status:"
-msgstr ""
+msgstr "状態："
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "ステップ 1/3: ポータルに接続しています..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "ステップ 1/3: 握手..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "ステップ 2/3: 認証..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "ステップ 2/3: プレイリスト ファイルを作成しています..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "ステップ 3/3: 花束ファイルを作成..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "ステップ 3/3: M3U ファイルを作成します..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "ステップ 3/3: チャンネルを取得しています..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "ステップ 4/4: VOD コンテンツを取得しています..."
 
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "変換を停止しています..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "ポータルを切り替えるために現在のプロセスを停止しています..."
 
 msgid "Success!"
-msgstr ""
+msgstr "成功！"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "一時保管"
 
 msgid "Top"
-msgstr ""
+msgstr "トップ"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USBドライブ"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "アップデートが中止されました!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "ストーカーコンバーターのアップグレード"
 
 msgid "User:"
-msgstr ""
+msgstr "ユーザー："
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD の包含: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "選択したファイルからの有効なポータル:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Web ポータル サーバーがオフになっている"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Webポータルサーバーがオン"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Webサーバーエラー:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Webサーバーが停止しました"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Web サーバー: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "すでに最新バージョンを実行しています: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "すでに最新バージョンを実行しています: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "まず Web サーバーを起動する必要があります。"

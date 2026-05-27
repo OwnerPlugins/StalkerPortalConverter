@@ -10,157 +10,157 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Trieu el format de sortida desitjat: M3U o TV bouquet\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Obriu un fitxer amb URL del servidor o premeu el botó BLAU per editar l'amfitrió i l'adreça MAC\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Premeu CONVERT per generar la llista de reproducció"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Tornar al menú principal"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Cancel·la"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Codi d'accés:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "S'ha carregat la informació del compte"
 
 msgid "Active:"
-msgstr ""
+msgstr "Actiu:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "S'han afegit {} elements VOD"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "L'autenticació ha fallat:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "A baix"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Posició del ram establerta a: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Rams creats: {} grups amb {} canals"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "No es pot crear el directori:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Canvia el directori de sortida"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Error de llista de canals:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "La llista de canals ha fallat: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Clar"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Error de connexió:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "La conversió s'ha cancel·lat abans de començar"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Error de conversió:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "La conversió es va aturar abans de la creació del ram"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "L'usuari ha aturat la conversió"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "La conversió es va aturar durant la creació de M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "La conversió s'ha aturat durant la creació del ram"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "La conversió s'ha aturat durant la recuperació del canal"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "La conversió s'ha aturat durant l'agrupació"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "La conversió s'ha aturat durant el processament"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "S'ha superat el temps d'espera de la conversió"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Converteix Stalker Portal a llista de reproducció M3U amb canals reals"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Converteix a M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Convertir a TV"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Error crític de processament del canal"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Suprimeix el fitxer de la llista de reproducció"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "No s'ha pogut suprimir:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Suprimit:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Directori no escrit:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Inhabilitat"
 
 msgid "Disk"
-msgstr ""
+msgstr "Disc"
 
 msgid "Edit"
-msgstr ""
+msgstr "Edita"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Edita l'adreça MAC"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Edita l'URL del portal"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Habilitat"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Introduïu l'adreça MAC (p. ex., 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Introduïu l'URL del portal (p. ex., http://example.com/c/ o http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Error en accedir als valors de configuració"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Error en accedir als valors de configuració:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Error en accedir al directori:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "S'ha produït un error en crear la llista de reproducció:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Detalls de l'error: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "S'ha produït un error en extreure la informació del compte"
 
 msgid "Error!"
 msgstr ""
@@ -169,268 +169,268 @@ msgid "Error:"
 msgstr ""
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Error: adreça MAC no vàlida"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Error: URL del portal no vàlid"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Error: el portal i el MAC són necessaris"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Caducitat:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "No s'ha pogut carregar la informació del compte"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "No s'ha pogut obtenir el testimoni!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "No s'ha pogut llegir la configuració del portal o MAC:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "No s'ha pogut recuperar la llista de canals"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Camps esborrats"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Agrupació: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "AJUDA:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "No s'ha pogut encaixar: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "No s'ha pogut encaixar: no s'ha rebut cap testimoni"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Disc dur"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Oculta el codi"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Inclou VOD a la llista de reproducció"
 
 msgid "Information"
-msgstr ""
+msgstr "Informació"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Error d'inicialització"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Resposta JSON no vàlida per a la llista de canals"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC no vàlid: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "URL no vàlid: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Llista de reproducció carregada: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "S'han carregat {} entrades vàlides de {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "S'està carregant la informació del compte en segon pla..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U creat amb {} canals"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "Adreça MAC:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Màxim:"
 
 msgid "Network"
-msgstr ""
+msgstr "Xarxa"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Nou codi d'accés:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Nou Codi"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Nou codi d'accés generat!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "No s'han trobat canals com a resposta"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "No s'han trobat fitxers a:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "No s'han trobat fitxers ni directoris a:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "No s'han trobat entrades vàlides al fitxer"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "No hi ha prou espai a {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Fitxer de sortida:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Contrasenya:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Fitxer de la llista de reproducció:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URL del portal:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "S'estan preparant {} canals..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Premeu 0: Mostra el codi d'accés | Premeu 1: Codi nou"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Preparat: seleccioneu un fitxer o introduïu l'URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "S'està escanejant el fitxer... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Seleccioneu la posició del ram"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Seleccioneu Munta l'arrel"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Seleccioneu Llista de reproducció"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Seleccioneu Fitxer de llista de reproducció"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Seleccioneu el tipus de conversió"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Seleccioneu el directori"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Seleccioneu el fitxer que voleu suprimir a: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Seleccioneu el fitxer de la llista de reproducció"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Seleccioneu aquest directori"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Directori seleccionat:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Seleccionat:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Estableix la posició del ram"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Estableix la conversió de tipus"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Mostra el codi"
 
 msgid "Stalker Portal to M3U Converter v.%s"
 msgstr ""
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "S'està iniciant el procés de conversió..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Estat:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Pas 1/3: connectant-se al portal..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Pas 1/3: encaixada de mans..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Pas 2/3: autenticació..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Pas 2/3: S'està creant un fitxer de llista de reproducció..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Pas 3/3: crea un fitxer Bouquet..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Pas 3/3: creeu un fitxer M3U..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Pas 3/3: obtenint canals..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Pas 4/4: obtenint contingut VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Atureu-vos"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Aturant la conversió..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "S'està aturant el procés actual per canviar de portal..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Èxit!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Emmagatzematge temporal"
 
 msgid "Top"
-msgstr ""
+msgstr "A dalt"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Unitat USB"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Actualització avortada!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Actualitza Stalker Converter"
 
 msgid "User:"
-msgstr ""
+msgstr "Usuari:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Inclusió de VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Portals vàlids del fitxer seleccionat:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Servidor del portal web desactivat"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Servidor del portal web activat"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Error del servidor web:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "El servidor web s'ha aturat"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Servidor web: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Ja esteu executant la darrera versió: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Ja esteu executant la darrera versió: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Primer heu d'iniciar el servidor web!"

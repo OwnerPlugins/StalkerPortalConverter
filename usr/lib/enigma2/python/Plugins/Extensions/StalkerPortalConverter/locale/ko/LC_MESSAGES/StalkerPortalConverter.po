@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- M3U 또는 TV 부케 중에서 원하는 출력 형식을 선택하십시오.\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- 서버 URL이 포함된 파일을 열거나 파란색 버튼을 눌러 호스트 및 MAC 주소를 편집합니다.\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- 재생 목록을 생성하려면 변환을 누르세요."
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< 메인메뉴로 돌아가기"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< 취소"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "액세스 코드:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "계정 정보가 로드되었습니다."
 
 msgid "Active:"
-msgstr ""
+msgstr "활동적인:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "{} VOD 항목을 추가했습니다."
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "인증 실패:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "맨 아래"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "꽃다발 위치가 다음으로 설정됨: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "생성된 꽃다발: {} 채널이 있는 {} 그룹"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "디렉터리를 생성할 수 없습니다:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "출력 디렉터리 변경"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "채널 목록 오류:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "채널 목록 실패: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "분명한"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "연결 오류:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "시작 전에 변환이 취소되었습니다."
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "변환 오류:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "부케 생성 전에 전환이 중지되었습니다."
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "사용자가 전환을 중지했습니다."
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "M3U 생성 중에 변환이 중지되었습니다."
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "부케 생성 중에 전환이 중지되었습니다."
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "채널 검색 중 변환이 중지되었습니다."
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "그룹화 중에 변환이 중지되었습니다."
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "처리 중에 변환이 중지되었습니다."
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "전환 시간 초과됨"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "실제 채널이 포함된 Stalker Portal을 M3U 재생 목록으로 변환"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "M3U로 변환"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "TV로 변환"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "심각한 채널 처리 오류"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "재생목록 파일 삭제"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "삭제 실패:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "삭제됨:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "쓸 수 없는 디렉토리:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "장애가 있는"
 
 msgid "Disk"
-msgstr ""
+msgstr "디스크"
 
 msgid "Edit"
-msgstr ""
+msgstr "편집하다"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "MAC 주소 편집"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "포털 URL 편집"
 
 msgid "Enabled"
-msgstr ""
+msgstr "활성화됨"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "MAC 주소 입력(예: 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "포털 URL을 입력하세요(예: http://example.com/c/ 또는 http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "구성 값에 액세스하는 중 오류가 발생했습니다."
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "구성 값에 액세스하는 중 오류 발생:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "디렉터리 액세스 오류:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "재생목록 생성 중 오류 발생:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "오류 세부정보: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "계정 정보를 추출하는 중 오류가 발생했습니다."
 
 msgid "Error!"
-msgstr ""
+msgstr "오류!"
 
 msgid "Error:"
-msgstr ""
+msgstr "오류:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "오류: 잘못된 MAC 주소"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "오류: 잘못된 포털 URL"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "오류: 포털 및 MAC가 필요합니다."
 
 msgid "Expiry:"
-msgstr ""
+msgstr "만료:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "계정 정보를 로드하지 못했습니다."
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "토큰 획득에 실패했습니다!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "포털 또는 MAC 구성을 읽지 못했습니다.\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "채널 목록을 검색하지 못했습니다."
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "필드가 지워졌습니다."
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "그룹화: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "도움말:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "핸드셰이크 실패: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "핸드셰이크 실패: 토큰이 수신되지 않았습니다."
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "하드디스크"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "코드 숨기기"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "재생목록에 VOD 포함"
 
 msgid "Information"
-msgstr ""
+msgstr "정보"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "초기화 오류"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "채널 목록에 대한 JSON 응답이 잘못되었습니다."
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "잘못된 MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "잘못된 URL: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "로드된 재생목록: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "{}에서 {}개의 유효한 항목을 로드했습니다."
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "백그라운드에서 계정 정보 로드 중..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "{} 채널로 생성된 M3U"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC 주소:"
 
 msgid "Max:"
-msgstr ""
+msgstr "최대:"
 
 msgid "Network"
-msgstr ""
+msgstr "회로망"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "새 액세스 코드:"
 
 msgid "New Code"
-msgstr ""
+msgstr "새로운 코드"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "새로운 액세스 코드가 생성되었습니다!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "응답하는 채널을 찾을 수 없습니다."
 
 msgid "No files found in:"
-msgstr ""
+msgstr "다음에서 파일을 찾을 수 없습니다:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "다음에서 파일이나 디렉터리를 찾을 수 없습니다."
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "파일에서 유효한 항목을 찾을 수 없습니다."
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "{}에 공간이 부족합니다!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "출력 파일:"
 
 msgid "Password:"
-msgstr ""
+msgstr "비밀번호:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "재생목록 파일:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "포털 URL:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "{}개의 채널을 준비 중..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "0번을 누르세요: 액세스 코드 표시 | 1번을 누르세요: 새 코드"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "준비 - 파일을 선택하거나 URL/MAC를 입력하세요."
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "파일 검색 중... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "부케 위치 선택"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "마운트 루트 선택"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "재생목록 선택"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "재생 목록 파일 선택"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "전환 유형 선택"
 
 msgid "Select directory"
-msgstr ""
+msgstr "디렉토리 선택"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "삭제할 파일 선택: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "재생목록 파일 선택"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "이 디렉토리를 선택하세요"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "선택한 디렉토리:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "선택된:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "꽃다발 위치 설정"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "세트 유형 변환"
 
 msgid "Show Code"
-msgstr ""
+msgstr "코드 표시"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "M3U 변환기 v.%s에 대한 스토커 포털"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "변환 프로세스 시작 중..."
 
 msgid "Status:"
-msgstr ""
+msgstr "상태:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "1/3단계: 포털에 연결하는 중..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "1/3단계: 악수..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "2/3단계: 인증..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "2/3단계: 재생 목록 파일 생성 중..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "3/3단계: 부케 파일 생성..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "3/3단계: M3U 파일 생성..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "3/3단계: 채널 가져오기..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "4/4단계: VOD 콘텐츠 가져오기..."
 
 msgid "Stop"
-msgstr ""
+msgstr "멈추다"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "변환을 중지하는 중..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "포털 전환을 위해 현재 프로세스를 중지하는 중..."
 
 msgid "Success!"
-msgstr ""
+msgstr "성공!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "임시저장"
 
 msgid "Top"
-msgstr ""
+msgstr "맨 위"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB 드라이브"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "업데이트가 중단되었습니다!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "스토커 변환기 업그레이드"
 
 msgid "User:"
-msgstr ""
+msgstr "사용자:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD 포함: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "선택한 파일의 유효한 포털:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "웹 포털 서버 끄기"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "웹 포털 서버 켜기"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "웹 서버 오류:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "웹 서버가 중지되었습니다."
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "웹 서버: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "이미 최신 버전을 실행하고 있습니다: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "이미 최신 버전을 실행하고 있습니다: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "먼저 웹 서버를 시작해야 합니다!"

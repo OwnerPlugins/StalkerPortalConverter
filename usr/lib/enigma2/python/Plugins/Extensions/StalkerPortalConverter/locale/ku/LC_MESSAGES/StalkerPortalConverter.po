@@ -10,241 +10,241 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Forma derketinê ya xwestî hilbijêrin: M3U an bûkek TV\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Pelek bi URL-yên serverê vekin an jî bişkoja ŞÎN bikirtînin da ku mêvandar û navnîşana MAC-ê biguherînin\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- CONVERT bikirtînin da ku navnîşa lîstikê çêbikin"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Vegere menuya sereke"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Betal bike"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Koda gihîştinê:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Agahiyên hesabê barkirin"
 
 msgid "Active:"
-msgstr ""
+msgstr "Jîr:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "{} tiştên VOD lê zêde kirin"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Nasname bi ser neket:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Erd"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Helwesta bûkê li ser: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Bûkên hatin afirandin: {} komên bi {} kanalan"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Nekare pelrêçek biafirîne:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Guhertina Derhênerê Hilberê"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Çewtiya lîsteya kanalê:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Lîsteya kanalan têk çû: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Zelal"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Çewtiya girêdanê:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Veguhertin berî destpêkirinê hat betal kirin"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Çewtiya veguherînê:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Veguhertin berî çêkirina bûkê rawestiya"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Veguherandin ji hêla bikarhêner ve hate rawestandin"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Veguheztin di dema çêkirina M3U de rawestiya"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Veguhertin di dema çêkirina bûkê de rawestiya"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Veguhertin di dema wergirtina kanalê de rawestiya"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Veguhertin di dema komkirinê de rawestiya"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Di dema pêvajoyê de veguherîn rawestandin"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Dema veguhertinê derbas bû"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Bi kanalên rastîn re Stalker Portal veguherînin navnîşa lîstika M3U"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Biguherînin M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Veguherin TV"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Çewtiya pêvajoya kanala krîtîk"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Pelê lîsteya lîstikê jêbirin"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Jêbirin bi ser neket:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "jêbirin:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Derhêner nayê nivîsandin:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Bêmecel"
 
 msgid "Disk"
-msgstr ""
+msgstr "Lewha"
 
 msgid "Edit"
-msgstr ""
+msgstr "Weşandin"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Navnîşana MAC-ê biguherîne"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "URL-ya Portalê biguherîne"
 
 msgid "Enabled"
 msgstr ""
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Navnîşana MAC-ê binivîse (mînak, 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "URL-ya Portalê têkeve (mînak: http://example.com/c/ an http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Di gihîştina nirxên veavakirinê de çewtî"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Çewtiya gihîştina nirxên mîhengê:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Çewtiya gihîştina pelrêça:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Di afirandina lîsteya lîstikê de çewtî:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Agahiyên çewtiyê: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Di derxistina agahdariya hesabê de çewtî"
 
 msgid "Error!"
-msgstr ""
+msgstr "Şaşî!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Şaşî:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Çewtî: Navnîşana MAC nederbasdar"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Çewtî: URLa portalê nederbasdar e"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Çewtî: Portal û MAC hewce ne"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Bidawîbûn:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Barkirina agahdariya hesabê têk çû"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Bidestxistina token bi ser neket!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Xwendina veavakirina portal an MAC têk çû:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Vegerandina lîsteya kanalê bi ser neket"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Zeviyên paqij kirin"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Komkirin: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "ALÎKARÎ:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Desthejandin têk çû: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Hand shake olmak: Nîşanek nehat"
 
 msgid "Hard Disk"
 msgstr ""
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Kodê veşêre"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "VOD-ê di lîsteya lîstikê de bicîh bikin"
 
 msgid "Information"
-msgstr ""
+msgstr "Agahî"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Çewtiya destpêkê"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Bersiva JSON nederbasdar ji bo navnîşa kanalê"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC nederbasdar: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "URL nederbasdar: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Lîsteya lîstikê ya barkirî: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Ji {} navnîşên derbasdar hatin barkirin"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Agahdariya hesabê li paşperdeyê tê barkirin..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U bi {} kanalan hat afirandin"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "Navnîşana MAC:"
 
 msgid "Max:"
 msgstr ""
@@ -253,184 +253,184 @@ msgid "Network"
 msgstr ""
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Koda gihîştina nû:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Koda Nû"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Koda gihîştina nû hate afirandin!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Di bersivê de tu kanal nehat dîtin"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Ti pel nehat dîtin li:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Di:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Di pelê de têketinên derbasdar nehatin dîtin"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Cihê têrê nake li ser {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Pelê derketinê:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Şîfre:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Pelê lîsteya lîstikê:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URLa portalê:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Amadekirina {} kanalan..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Çapemenî 0: Koda gihîştinê nîşan bide | Çapemenî 1: Koda Nû"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Amade - Pelek hilbijêrin an URL / MAC têkevin"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Pelê dikole... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Helbijartina Bouquet Position"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Hilbijêre Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Lîsteya lîstikê hilbijêre"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Pelê lîsteya lîstikê hilbijêre"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Cureya Veguherînê hilbijêre"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Peldanka hilbijêre"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Pelê jêbirin hilbijêre: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Pelê lîsteya lîstikê hilbijêre"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Vê pelrêça hilbijêre"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Peldanka hilbijartî:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Hilbijartin:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Set Position Bouquet"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Veguherîna Tîpa Set"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Kodê nîşan bide"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker Portal bo M3U Converter v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Pêvajoya veguherînê dest pê dike..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Cî:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Gav 1/3: Girêdana bi portalê..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Gav 1/3: Dest hejandin..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Gav 2/3: Nasname…"
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Gav 2/3: Afirandina pelê lîsteya lîstikê..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Gav 3/3: Pelê Bouquet biafirînin..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Gav 3/3: Pelê M3U biafirîne..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Gav 3/3: Danîna kanalan..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Gav 4/4: Girtina naveroka VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Rawestan"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Rawestandina veguhertinê..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Rawestandina pêvajoya heyî ji bo veguhertina portalê..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Serketinî!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Demî Storage"
 
 msgid "Top"
-msgstr ""
+msgstr "Kop"
 
 msgid "USB Drive"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Nûvekirin hate betal kirin!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Nûvekirina Stalker Converter"
 
 msgid "User:"
-msgstr ""
+msgstr "Bikaranîvan:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "tevlêbûna VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Portalên Derbasdar ji Pelê Hilbijartî:"
 
 msgid "Web Portal Server Off"
 msgstr ""
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Servera Web Portal Li ser"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Çewtiya servera malperê:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Pêşkêşkara malperê rawestiya"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Pêşkêşkara malperê: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Jixwe tu guhertoya herî dawî dixebitî: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Jixwe tu guhertoya herî dawî dixebitî: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Pêdivî ye ku hûn pêşî Servera Webê bidin destpêkirin!"

@@ -20,7 +20,7 @@ msgid "- Choose the desired output format: M3U or TV bouquet\n"
 msgstr "- Scegli il formato di output desiderato: M3U o TV bouquet\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Apri un file con gli URL del server o premi il pulsante BLU per modificare l'host e l'indirizzo MAC\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Premere CONVERTI per generare la playlist"
@@ -158,7 +158,7 @@ msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
 msgstr "Inserisci l'indirizzo MAC (ad esempio, 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Inserisci l'URL del portale (ad esempio http://example.com/c/ o http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
 msgstr "Errore durante l'accesso ai valori di configurazione"
@@ -270,7 +270,7 @@ msgid "MAC Address:"
 msgstr "Indirizzo MAC:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Massimo:"
 
 msgid "Network"
 msgstr "Network"
@@ -371,7 +371,7 @@ msgid "Show Code"
 msgstr "Mostra Codice"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Convertitore da Stalker Portal a M3U v.%s"
 
 msgid "Starting conversion process..."
 msgstr "Avvio del processo di conversione..."
@@ -404,7 +404,7 @@ msgid "Step 4/4: Getting VOD content..."
 msgstr "Fase 4/4: Ottenere contenuti VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Fermare"
 
 msgid "Stopping conversion..."
 msgstr "Interruzione della conversione..."

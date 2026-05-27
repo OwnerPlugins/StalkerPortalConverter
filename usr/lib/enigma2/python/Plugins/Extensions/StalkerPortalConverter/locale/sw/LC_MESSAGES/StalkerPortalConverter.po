@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Chagua umbizo la towe unalotaka: M3U au shada la TV\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Fungua faili iliyo na URL za seva au ubonyeze kitufe cha BLUE ili kuhariri seva pangishi na anwani ya MAC\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Bonyeza CONVERT kutengeneza orodha ya kucheza"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Rudi kwenye menyu kuu"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Ghairi"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Msimbo wa Ufikiaji:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Maelezo ya akaunti yamepakiwa"
 
 msgid "Active:"
-msgstr ""
+msgstr "Inayotumika:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Vipengee {} vya VOD vimeongezwa"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Uthibitishaji umeshindwa:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Chini"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Nafasi ya shada imewekwa kuwa: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Mashada yaliyoundwa: {} vikundi vilivyo na vituo {}"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Haiwezi kuunda saraka:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Badilisha Orodha ya Pato"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Hitilafu ya orodha ya kituo:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Orodha ya vituo imeshindwa: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Wazi"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Hitilafu ya muunganisho:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Ubadilishaji umeghairiwa kabla ya kuanza"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Hitilafu ya ubadilishaji:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Ugeuzaji ulisimamishwa kabla ya kuunda shada"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Ugeuzaji umesimamishwa na mtumiaji"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Ugeuzaji ulisimamishwa wakati wa kuunda M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Ugeuzaji ulisimamishwa wakati wa kuunda shada"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Ugeuzaji ulisimamishwa wakati wa kurejesha kituo"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Ugeuzaji ulisimamishwa wakati wa kupanga"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Ugeuzaji ulisimamishwa wakati wa kuchakata"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Muda wa ubadilishaji umepitwa"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Badilisha Stalker Portal kuwa orodha ya kucheza ya M3U na chaneli halisi"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Badilisha kuwa M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Badilisha kuwa TV"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Hitilafu kubwa ya kuchakata chaneli"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Futa Faili ya Orodha ya kucheza"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Imeshindwa kufuta:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Imefutwa:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Saraka haiwezi kuandikwa:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Imezimwa"
 
 msgid "Disk"
-msgstr ""
+msgstr "Diski"
 
 msgid "Edit"
-msgstr ""
+msgstr "Hariri"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Hariri Anwani ya MAC"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Badilisha URL ya Tovuti"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Imewashwa"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Weka Anwani ya MAC (k.m., 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Weka URL ya Tovuti (k.m. http://example.com/c/ au http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Hitilafu katika kufikia thamani za usanidi"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Hitilafu katika kufikia thamani za usanidi:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Hitilafu katika kufikia saraka:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Hitilafu katika kuunda orodha ya kucheza:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Maelezo ya hitilafu: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Hitilafu katika kutoa maelezo ya akaunti"
 
 msgid "Error!"
-msgstr ""
+msgstr "Hitilafu!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Hitilafu:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Hitilafu: Anwani ya MAC si sahihi"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Hitilafu: URL ya lango si sahihi"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Hitilafu: Tovuti na MAC zinahitajika"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Muda wake utaisha:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Imeshindwa kupakia maelezo ya akaunti"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Imeshindwa kupata tokeni!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Imeshindwa kusoma lango au usanidi wa MAC:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Imeshindwa kupata orodha ya vituo"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Sehemu zimefutwa"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Kuweka katika vikundi: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "MSAADA:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Kupeana mkono kumeshindwa: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Kupeana mkono kumeshindwa: Hakuna tokeni iliyopokelewa"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Diski Ngumu"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Ficha Msimbo"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Jumuisha VOD katika Orodha ya kucheza"
 
 msgid "Information"
-msgstr ""
+msgstr "Habari"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Hitilafu ya uanzishaji"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Jibu batili la JSON kwa orodha ya vituo"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC batili: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "URL batili: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Orodha ya kucheza iliyopakiwa: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Imepakia {} maingizo halali kutoka {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Inapakia maelezo ya akaunti chinichini..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U imeundwa kwa njia {}"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "Anwani ya MAC:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Upeo:"
 
 msgid "Network"
-msgstr ""
+msgstr "Mtandao"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Msimbo Mpya wa Ufikiaji:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Kanuni Mpya"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Msimbo mpya wa ufikiaji umetolewa!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Hakuna vituo vilivyopatikana katika kujibu"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Hakuna faili zilizopatikana katika:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Hakuna faili au saraka zilizopatikana katika:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Hakuna maingizo halali yaliyopatikana katika faili"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Hakuna nafasi ya kutosha kwenye {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Faili ya Pato:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Nenosiri:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Faili ya Orodha ya kucheza:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URL ya tovuti:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Inatayarisha vituo {}..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Bonyeza 0: Onyesha Msimbo wa Kufikia | Bonyeza 1: Msimbo Mpya"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Tayari - Chagua faili au ingiza URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Inachanganua faili... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Chagua Nafasi ya Bouquet"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Chagua Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Chagua Orodha ya kucheza"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Chagua Faili ya Orodha ya kucheza"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Chagua Aina ya Ubadilishaji"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Chagua saraka"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Chagua faili ya kufuta katika: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Chagua faili ya orodha ya nyimbo"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Chagua saraka hii"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Saraka iliyochaguliwa:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Imechaguliwa:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Weka Nafasi ya Bouquet"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Weka Ubadilishaji wa Aina"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Onyesha Msimbo"
 
 msgid "Stalker Portal to M3U Converter v.%s"
 msgstr ""
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Inaanza mchakato wa ubadilishaji..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Hali:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Hatua ya 1/3: Inaunganisha kwenye lango..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Hatua ya 1/3: Kupeana mkono..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Hatua ya 2/3: Uthibitishaji..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Hatua ya 2/3: Inaunda faili ya orodha ya kucheza..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Hatua ya 3/3: Unda faili ya Bouquet..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Hatua ya 3/3: Unda faili ya M3U..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Hatua ya 3/3: Inapata chaneli..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Hatua ya 4/4: Kupata maudhui ya VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Acha"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Inasimamisha ubadilishaji..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Inasimamisha mchakato wa sasa wa kubadilisha lango..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Mafanikio!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Hifadhi ya Muda"
 
 msgid "Top"
-msgstr ""
+msgstr "Juu"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Hifadhi ya USB"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Usasishaji Umeghairiwa!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Kuboresha Stalker Converter"
 
 msgid "User:"
-msgstr ""
+msgstr "Mtumiaji:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Ujumuishaji wa VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Tovuti Sahihi kutoka kwa Faili Iliyochaguliwa:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Seva ya Tovuti Imezimwa"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Seva ya Tovuti imewashwa"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Hitilafu ya seva ya wavuti:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Seva ya wavuti imesimamishwa"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Seva ya wavuti: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Tayari unatumia toleo jipya zaidi: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Tayari unatumia toleo jipya zaidi: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Unahitaji kuanzisha Seva ya Wavuti kwanza!"

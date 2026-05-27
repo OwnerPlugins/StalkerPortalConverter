@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- აირჩიეთ სასურველი გამომავალი ფორმატი: M3U ან ტელევიზორის ბუკეტი\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- გახსენით ფაილი სერვერის URL-ებით ან დააჭირეთ ლურჯ ღილაკს ჰოსტის და MAC მისამართის რედაქტირებისთვის\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- დააჭირეთ CONVERT-ს დასაკრავი სიის შესაქმნელად"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< დაბრუნება მთავარ მენიუში"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< გაუქმება"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "წვდომის კოდი:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "ანგარიშის ინფორმაცია ჩაიტვირთა"
 
 msgid "Active:"
-msgstr ""
+msgstr "აქტიური:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "დამატებულია {} VOD ელემენტი"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "ავტორიზაცია ვერ მოხერხდა:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "ქვედა"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "თაიგულის პოზიცია დაყენებულია: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "შექმნილია თაიგულები: {} ჯგუფები {} არხებით"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "დირექტორიას შექმნა ვერ ხერხდება:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "შეცვალეთ გამომავალი დირექტორია"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "არხების სიის შეცდომა:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "არხების სია ვერ მოხერხდა: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "წმინდა"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "კავშირის შეცდომა:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "კონვერტაცია გაუქმდა დაწყებამდე"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "კონვერტაციის შეცდომა:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "კონვერტაცია შეწყდა ბუკეტის შექმნამდე"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "კონვერტაცია შეჩერდა მომხმარებლის მიერ"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "კონვერტაცია შეწყდა M3U შექმნისას"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "კონვერტაცია შეწყდა ბუკეტის შექმნისას"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "კონვერტაცია შეჩერდა არხის მოძიებისას"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "კონვერტაცია შეჩერდა დაჯგუფების დროს"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "კონვერტაცია შეჩერდა დამუშავების დროს"
 
 msgid "Conversion timeout exceeded"
 msgstr ""
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "გადააკეთეთ Stalker Portal M3U დასაკრავ სიაში რეალური არხებით"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "გადაიყვანეთ M3U-ზე"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "გადაიყვანეთ ტელევიზორში"
 
 msgid "Critical channel processing error"
 msgstr ""
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "წაშალეთ დასაკრავი სიის ფაილი"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "წაშლა ვერ მოხერხდა:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "წაშლილია:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "დირექტორია დაუწერელია:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "გამორთულია"
 
 msgid "Disk"
-msgstr ""
+msgstr "დისკი"
 
 msgid "Edit"
-msgstr ""
+msgstr "რედაქტირება"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "შეცვალეთ MAC მისამართი"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "პორტალის URL-ის რედაქტირება"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ჩართულია"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "შეიყვანეთ MAC მისამართი (მაგ., 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "შეიყვანეთ პორტალის URL (მაგ. http://example.com/c/ ან http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "შეცდომა კონფიგურაციის მნიშვნელობებზე წვდომისას"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "შეცდომა კონფიგურაციის მნიშვნელობებზე წვდომისას:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "შეცდომა დირექტორიაში წვდომისას:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "შეცდომა დასაკრავი სიის შექმნისას:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "შეცდომის დეტალები: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "შეცდომა ანგარიშის ინფორმაციის ამოღებისას"
 
 msgid "Error!"
-msgstr ""
+msgstr "შეცდომა!"
 
 msgid "Error:"
-msgstr ""
+msgstr "შეცდომა:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "შეცდომა: არასწორი MAC მისამართი"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "შეცდომა: არასწორი პორტალის URL"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "შეცდომა: საჭიროა პორტალი და MAC"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "ვადა:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "ანგარიშის ინფორმაციის ჩატვირთვა ვერ მოხერხდა"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "ჟეტონის მიღება ვერ მოხერხდა!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "პორტალის ან MAC კონფიგურაციის წაკითხვა ვერ მოხერხდა:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "არხების სიის მოძიება ვერ მოხერხდა"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "ველები გასუფთავებულია"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "დაჯგუფება: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "დახმარება:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "ხელის ჩამორთმევა ვერ მოხერხდა: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "ხელის ჩამორთმევა ვერ მოხერხდა: ჟეტონი არ მიიღეს"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "მყარი დისკი"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "კოდის დამალვა"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "ჩართეთ VOD დასაკრავ სიაში"
 
 msgid "Information"
-msgstr ""
+msgstr "ინფორმაცია"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "ინიციალიზაციის შეცდომა"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "არასწორი JSON პასუხი არხების სიისთვის"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "არასწორი MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "არასწორი URL: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "ჩატვირთული დასაკრავი სია: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "ჩაიტვირთა {} სწორი ჩანაწერი {}-დან"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "იტვირთება ანგარიშის ინფორმაცია ფონზე..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U შექმნილია {} არხით"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC მისამართი:"
 
 msgid "Max:"
-msgstr ""
+msgstr "მაქს:"
 
 msgid "Network"
-msgstr ""
+msgstr "ქსელი"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "ახალი წვდომის კოდი:"
 
 msgid "New Code"
-msgstr ""
+msgstr "ახალი კოდი"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "ახალი წვდომის კოდი გენერირებულია!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "პასუხად არხები ვერ მოიძებნა"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "ფაილები არ მოიძებნა:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "ფაილები ან დირექტორიები არ მოიძებნა:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "ფაილში სწორი ჩანაწერები ვერ მოიძებნა"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "არ არის საკმარისი ადგილი {}-ზე!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "გამომავალი ფაილი:"
 
 msgid "Password:"
-msgstr ""
+msgstr "პაროლი:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "დასაკრავი სიის ფაილი:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "პორტალის URL:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "მიმდინარეობს {} არხის მომზადება..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "დააჭირეთ 0: წვდომის კოდის ჩვენება | დააჭირეთ 1: ახალი კოდი"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "მზად არის - აირჩიეთ ფაილი ან შეიყვანეთ URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "მიმდინარეობს ფაილის სკანირება... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "აირჩიეთ ბუკეტის პოზიცია"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "აირჩიეთ Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "აირჩიეთ დასაკრავი სია"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "აირჩიეთ დასაკრავი სიის ფაილი"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "აირჩიეთ კონვერტაციის ტიპი"
 
 msgid "Select directory"
-msgstr ""
+msgstr "აირჩიეთ დირექტორია"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "აირჩიეთ ფაილი წასაშლელად: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "აირჩიეთ დასაკრავი სიის ფაილი"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "აირჩიეთ ეს დირექტორია"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "არჩეული დირექტორია:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "არჩეული:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "დააყენეთ თაიგულის პოზიცია"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "დააყენეთ ტიპის კონვერტაცია"
 
 msgid "Show Code"
-msgstr ""
+msgstr "კოდის ჩვენება"
 
 msgid "Stalker Portal to M3U Converter v.%s"
 msgstr ""
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "კონვერტაციის პროცესის დაწყება..."
 
 msgid "Status:"
-msgstr ""
+msgstr "სტატუსი:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "ნაბიჯი 1/3: პორტალთან დაკავშირება..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "ნაბიჯი 1/3: ხელის ჩამორთმევა..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "ნაბიჯი 2/3: ავთენტიფიკაცია..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "ნაბიჯი 2/3: დასაკრავი სიის ფაილის შექმნა..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "ნაბიჯი 3/3: შექმენით Bouquet ფაილი..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "ნაბიჯი 3/3: შექმენით M3U ფაილი..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "ნაბიჯი 3/3: არხების მიღება..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "ნაბიჯი 4/4: VOD კონტენტის მიღება..."
 
 msgid "Stop"
-msgstr ""
+msgstr "გაჩერდი"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "კონვერტაციის შეჩერება..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "პორტალზე გადართვის მიმდინარე პროცესის შეჩერება..."
 
 msgid "Success!"
-msgstr ""
+msgstr "წარმატებები!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "დროებითი შენახვა"
 
 msgid "Top"
-msgstr ""
+msgstr "ზედა"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB დისკი"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "განახლება შეწყდა!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "განაახლეთ სტალკერის კონვერტერი"
 
 msgid "User:"
-msgstr ""
+msgstr "მომხმარებელი:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD ჩართვა: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "სწორი პორტალები არჩეული ფაილიდან:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "ვებ პორტალის სერვერი გამორთულია"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "ვებ პორტალის სერვერი ჩართულია"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "ვებ სერვერის შეცდომა:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "ვებ სერვერი გაჩერდა"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "ვებ სერვერი: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "თქვენ უკვე იყენებთ უახლეს ვერსიას: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "თქვენ უკვე იყენებთ უახლეს ვერსიას: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "თქვენ ჯერ უნდა გაუშვათ ვებ სერვერი!"

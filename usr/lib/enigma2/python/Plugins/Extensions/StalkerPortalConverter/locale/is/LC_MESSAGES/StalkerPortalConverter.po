@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Veldu úttakssniðið sem þú vilt: M3U eða sjónvarpsvönd\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Opnaðu skrá með vefslóðum netþjóns eða ýttu á BLÁA hnappinn til að breyta hýsingaraðilanum og MAC vistfanginu\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Ýttu á CONVERT til að búa til lagalistann"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Til baka í aðalvalmynd"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Hætta við"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Aðgangskóði:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Reikningsupplýsingar hlaðnar"
 
 msgid "Active:"
-msgstr ""
+msgstr "Virkur:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Bætti við {} VOD hlutum"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Auðkenning mistókst:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Neðst"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Vöndsstaða stillt á: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Vöndar búnir til: {} hópar með {} rásum"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Get ekki búið til möppu:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Breyta Output Directory"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Villa á rásarlista:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Rásalisti mistókst: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Hreinsa"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Tengingarvilla:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Hætt við umbreytingu fyrir upphaf"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Viðskiptavilla:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Umbreytingu stöðvuð áður en blómvöndur var búinn til"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Umskipti stöðvuð af notanda"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Viðskipti stöðvuðust við stofnun M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Umbreytingu stöðvaðist við sköpun vönds"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Umskipti stöðvuðust meðan rásar var sótt"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Umskipti stöðvuðust meðan á flokkun stóð"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Viðskipti stöðvuðust meðan á vinnslu stóð"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Umbreytingartíma náð"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Umbreyttu Stalker Portal í M3U lagalista með raunverulegum rásum"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Breyta í M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Umbreyta í sjónvarp"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Mikilvæg vinnsluvilla í rás"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Eyða lagalistaskrá"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Eyða mistókst:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Eytt:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Skráin ekki skrifanleg:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Öryrkjar"
 
 msgid "Disk"
-msgstr ""
+msgstr "Diskur"
 
 msgid "Edit"
-msgstr ""
+msgstr "Breyta"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Breyta MAC heimilisfangi"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Breyta vefslóð gáttar"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Virkt"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Sláðu inn MAC vistfang (t.d. 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Sláðu inn vefslóð gáttar (t.d. http://example.com/c/ eða http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Villa við að opna stillingargildi"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Villa við að fá aðgang að stillingargildum:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Villa við að opna möppu:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Villa við að búa til lagalista:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Upplýsingar um villu: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Villa við að draga út reikningsupplýsingar"
 
 msgid "Error!"
-msgstr ""
+msgstr "Villa!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Villa:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Villa: Ógilt MAC vistfang"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Villa: Ógild vefslóð vefgáttar"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Villa: Gátt og MAC eru nauðsynleg"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Rennur út:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Mistókst að hlaða reikningsupplýsingum"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Mistókst að fá tákn!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Mistókst að lesa gáttina eða MAC stillingar:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Ekki tókst að sækja rásarlista"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Reitir hreinsaðir"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Flokkun: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "HJÁLP:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Handaband mistókst: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Handaband mistókst: Enginn merki móttekinn"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Harður diskur"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Fela kóða"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Láttu VOD fylgja með í lagalista"
 
 msgid "Information"
-msgstr ""
+msgstr "Upplýsingar"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Frumstillingarvilla"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Ógilt JSON-svar fyrir rásarlista"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Ógildur MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Ógild vefslóð: {gátt}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Hlaðinn spilunarlisti: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Hlaðið {} gildar færslur frá {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Hleður reikningsupplýsingum í bakgrunni..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U búin til með {} rásum"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC heimilisfang:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Hámark:"
 
 msgid "Network"
-msgstr ""
+msgstr "Net"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Nýr aðgangskóði:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Nýr kóða"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Nýr aðgangskóði búinn til!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Engar rásir fundust sem svar"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Engar skrár fundust í:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Engar skrár eða möppur fundust í:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Engar gildar færslur fundust í skránni"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Ekki nóg pláss á {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Úttaksskrá:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Lykilorð:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Lagalisti skrá:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "Vefslóð gáttar:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Undirbýr {} rásir..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Ýttu á 0: Sýna aðgangskóða | Ýttu á 1: Nýr kóði"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Tilbúið - Veldu skrá eða sláðu inn URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Skannar skrá... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Veldu Vöndastöðu"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Veldu Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Veldu Lagalisti"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Veldu lagalistaskrá"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Veldu Tegund viðskipta"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Veldu möppu"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Veldu skrá til að eyða í: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Veldu lagalistaskrá"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Veldu þessa möppu"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Valin skrá:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Valið:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Stilltu vöndstöðu"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Stilltu tegundarviðskipti"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Sýna kóða"
 
 msgid "Stalker Portal to M3U Converter v.%s"
 msgstr ""
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Byrjar umbreytingarferli..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Staða:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Skref 1/3: Tengist gáttinni..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Skref 1/3: Handabandi..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Skref 2/3: Auðkenning..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Skref 2/3: Býr til lagalistaskrá..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Skref 3/3: Búðu til vöndskrá..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Skref 3/3: Búðu til M3U skrá..."
 
 msgid "Step 3/3: Getting channels..."
 msgstr ""
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Skref 4/4: Að sækja VOD efni..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Hættu"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Stöðvar umbreytingu..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Stöðvar núverandi ferli til að skipta um gátt..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Árangur!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Tímabundin geymsla"
 
 msgid "Top"
-msgstr ""
+msgstr "Efst"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB drif"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Uppfærsla hætt!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Uppfærðu Stalker breytir"
 
 msgid "User:"
-msgstr ""
+msgstr "Notandi:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD innifalið: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Gildar gáttir úr valinni skrá:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Slökkt á vefgáttarþjóni"
 
 msgid "Web Portal Server On"
 msgstr ""
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Villa á vefþjóni:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Vefþjónn stöðvaður"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Vefþjónn: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Þú ert nú þegar að keyra nýjustu útgáfuna: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Þú ert nú þegar að keyra nýjustu útgáfuna: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Þú þarft að ræsa vefþjóninn fyrst!"

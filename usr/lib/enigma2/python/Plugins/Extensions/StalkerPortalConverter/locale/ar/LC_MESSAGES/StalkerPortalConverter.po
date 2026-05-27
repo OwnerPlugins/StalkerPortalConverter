@@ -20,7 +20,7 @@ msgid "- Choose the desired output format: M3U or TV bouquet\n"
 msgstr "- اختر الصيغة المرغوبة للإخراج: M3U أو قائمة TV\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- افتح ملفًا يحتوي على عناوين URL للخادم أو اضغط على الزر الأزرق لتحرير المضيف وعنوان MAC\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- اضغط على زر التحويل لإنشاء قائمة التشغيل"
@@ -45,7 +45,7 @@ msgid "Added {} VOD items"
 msgstr "تمت إضافة {} عنصر فيديو عند الطلب"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "فشلت المصادقة:"
 
 msgid "Bottom"
 msgstr "أسفل"
@@ -64,10 +64,10 @@ msgid "Change Output Directory"
 msgstr "تغيير مجلد الإخراج"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "خطأ في قائمة القنوات:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "فشلت قائمة القنوات: HTTP {}"
 
 msgid "Clear"
 msgstr "مسح"
@@ -134,13 +134,13 @@ msgid "Deleted:"
 msgstr "تم الحذف: "
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "الدليل غير قابل للكتابة:"
 
 msgid "Disabled"
 msgstr "معطل"
 
 msgid "Disk"
-msgstr ""
+msgstr "القرص"
 
 msgid "Edit"
 msgstr "تعديل"
@@ -158,7 +158,7 @@ msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
 msgstr "أدخل عنوان MAC (مثال: 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "أدخل عنوان URL للبوابة الإلكترونية (على سبيل المثال، http://example.com/c/ أو http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
 msgstr "خطأ في الوصول إلى قيم الإعدادات"
@@ -231,7 +231,7 @@ msgid "Handshake failed: No token received"
 msgstr "فشل الاتصال: لم يتم استلام الرمز (Token)"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "القرص الصلب"
 
 msgid "Hide Code"
 msgstr "إخفاء الكود"
@@ -250,7 +250,7 @@ msgid "Invalid JSON response for channel list"
 msgstr "فشل في استرجاع قائمة القنوات"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC غير صالح: {mac}"
 
 #, fuzzy
 msgid "Invalid URL: {portal}"
@@ -276,7 +276,7 @@ msgid "Max:"
 msgstr "الحد الأقصى: "
 
 msgid "Network"
-msgstr ""
+msgstr "شبكة"
 
 #, fuzzy
 msgid "New Access Code:"
@@ -426,13 +426,13 @@ msgid "Success!"
 msgstr "نجاح! "
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "التخزين المؤقت"
 
 msgid "Top"
 msgstr "أعلى"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "محرك USB"
 
 msgid "Update Aborted!"
 msgstr "تم إلغاء التحديث!"

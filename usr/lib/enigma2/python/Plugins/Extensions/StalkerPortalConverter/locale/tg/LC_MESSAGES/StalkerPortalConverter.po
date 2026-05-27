@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Формати баромади дилхоҳро интихоб кунед: M3U ё гулдастаи ТВ\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Барои таҳрир кардани мизбон ва суроғаи MAC файлро бо URL-ҳои сервер кушоед ё тугмаи КАБУД-ро пахш кунед\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Барои тавлиди рӯйхати навозиш CONVERT -ро пахш кунед"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Бозгашт ба менюи асосӣ"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Бекор кардан"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Рамзи дастрасӣ:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Маълумоти ҳисоб бор карда шуд"
 
 msgid "Active:"
-msgstr ""
+msgstr "Фаъол:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "{} адад VOD илова карда шуд"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Аутентификатсия ноком шуд:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Поён"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Ҷойгиршавии гулдаст ба: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Гулдастаҳои эҷодшуда: {} гурӯҳ бо {} канал"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Директория эҷод карда намешавад:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Тағир додани директорияи баромад"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Хатогии рӯйхати каналҳо:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Рӯйхати каналҳо ноком шуд: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Тоза"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Хатогии пайвастшавӣ:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Табдил пеш аз оғоз бекор карда шуд"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Хатогии табдил:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Табдилдиҳӣ пеш аз сохтани гулдастаҳо қатъ карда шуд"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Табдилдиҳӣ аз ҷониби корбар қатъ карда шуд"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Ҳангоми эҷоди M3U табдилдиҳӣ қатъ карда шуд"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Ҳангоми сохтани гулдаста табдилдиҳӣ қатъ шуд"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Ҳангоми ҷустуҷӯи канал табдилдиҳӣ қатъ шуд"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Ҳангоми гурӯҳбандӣ табдилдиҳӣ қатъ шуд"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Ҳангоми коркард табдилдиҳӣ қатъ карда шуд"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Вақти фарогирии табдил гузашт"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Табдил додани Stalker Portal ба рӯйхати навозиш M3U бо каналҳои воқеӣ"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Табдил додан ба M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Ба ТВ табдил диҳед"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Хатогии муҳими коркарди канал"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Файли рӯйхати навозишро нест кунед"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Нест кардан натавонист:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Ҳазфшуда:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Феҳристи навиштан ғайриимкон аст:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Маъюб"
 
 msgid "Disk"
-msgstr ""
+msgstr "Диск"
 
 msgid "Edit"
-msgstr ""
+msgstr "Таҳрир"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Таҳрири суроғаи MAC"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "URL-и порталро таҳрир кунед"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Фаъол"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Суроғаи MAC-ро ворид кунед (масалан, 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "URL-и порталро ворид кунед (масалан, http://example.com/c/ ё http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Хатогӣ ҳангоми дастрасӣ ба арзишҳои конфигуратсия"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Хатогӣ ҳангоми дастрасӣ ба арзишҳои конфигуратсия:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Хатогӣ дар дастрасӣ ба феҳрист:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Хатогии эҷоди рӯйхати навозиш:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Тафсилоти хато: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Хатогӣ ҳангоми истихроҷи маълумоти ҳисоб"
 
 msgid "Error!"
-msgstr ""
+msgstr "Хатогӣ!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Хатогӣ:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Хатогӣ: Суроғаи MAC нодуруст"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Хатогӣ: URL-и портал нодуруст"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Хатогӣ: Портал ва MAC лозим аст"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Мӯҳлат:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Маълумоти ҳисобро бор карда натавонист"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Токен ба даст оварда нашуд!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Портал ё конфигуратсияи MAC-ро хонда натавонист:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Ҷустуҷӯи рӯйхати каналҳо муваффақ нашуд"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Майдонҳо тоза карда шуданд"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Гурӯҳбандӣ: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "Кӯмак:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Мубодилаи дастфишорӣ ноком шуд: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Дастфишорӣ ноком шуд: Ягон нишона қабул нашуд"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Диски сахт"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Пинҳон кардани код"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "VOD-ро ба рӯйхати навозиш дохил кунед"
 
 msgid "Information"
-msgstr ""
+msgstr "Маълумот"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Хатогии ибтидоӣ"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Ҷавоби JSON нодуруст барои рӯйхати каналҳо"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC нодуруст: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "URL нодуруст: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Рӯйхати пурборшуда: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "{} вурудоти дурустро аз {} бор кард"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Маълумоти ҳисоб дар замина бор карда мешавад..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U бо {} канал сохта шудааст"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "Суроғаи MAC:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Макс:"
 
 msgid "Network"
-msgstr ""
+msgstr "Шабака"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Рамзи нави дастрасӣ:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Кодекси нав"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Рамзи нави дастрасӣ тавлид шуд!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Дар посух ягон канал ёфт нашуд"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Ягон файл дар:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Ягон файл ё директория дар:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Дар файл ягон вурудоти дуруст ёфт нашуд"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Дар {} ҷой кофӣ нест!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Файли баромад:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Рамз:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Файли рӯйхати навозиш:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URL-и портал:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "{} канал омода карда мешавад..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "0-ро пахш кунед: Нишон додани рамзи дастрасӣ | 1-ро пахш кунед: Кодекси нав"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Омода - Файлро интихоб кунед ё URL/MAC-ро ворид кунед"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Скан кардани файл... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Мавқеи гулдастаро интихоб кунед"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Mount Root -ро интихоб кунед"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Рӯйхати навозишро интихоб кунед"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Файли рӯйхати навозишро интихоб кунед"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Навъи табдилро интихоб кунед"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Директорияро интихоб кунед"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Барои нест кардани файл дар: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Файли рӯйхати навозишро интихоб кунед"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Ин директорияро интихоб кунед"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Феҳристи интихобшуда:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Интихобшуда:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Ҷойгиркунии гулдастаро"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Танзими табдили навъи"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Нишон додани код"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Портали Stalker ба M3U Табдилдиҳанда v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Оғози раванди табдилдиҳӣ..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Статус:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Қадами 1/3: Пайвастшавӣ ба портал..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Қадами 1/3: Дастфишорӣ..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Қадами 2/3: Тасдиқи..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Қадами 2/3: Эҷоди файли рӯйхати навозиш..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Қадами 3/3: Эҷоди файли гулдастаҳо..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Қадами 3/3: Эҷоди файли M3U..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Қадами 3/3: Гирифтани каналҳо..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Қадами 4/4: Гирифтани мундариҷаи VOD..."
 
 msgid "Stop"
-msgstr ""
+msgstr "Ист"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Қатъи табдил..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Қатъи раванди ҷорӣ барои иваз кардани портал..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Муваффақият!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Нигоҳдории муваққатӣ"
 
 msgid "Top"
-msgstr ""
+msgstr "боло"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "Диски USB"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Навсозӣ қатъ карда шуд!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Табдилдиҳандаи Stalker-ро такмил диҳед"
 
 msgid "User:"
-msgstr ""
+msgstr "Истифодабаранда:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Дохил кардани VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Порталҳои эътиборнок аз файли интихобшуда:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Сервери веб-портал хомӯш"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Сервери веб-портал фаъол"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Хатогии сервери веб:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Веб-сервер қатъ шуд"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Веб-сервер: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Шумо аллакай версияи охиринро иҷро карда истодаед: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Шумо аллакай версияи охиринро иҷро карда истодаед: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Шумо бояд аввал веб-серверро оғоз кунед!"

@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Izberite želeni izhodni format: M3U ali TV bouquet\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Odprite datoteko z URL-ji strežnika ali pritisnite MODRI gumb za urejanje gostitelja in naslova MAC\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Pritisnite CONVERT, da ustvarite seznam predvajanja"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Nazaj v glavni meni"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Prekliči"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Koda za dostop:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Podatki o računu so naloženi"
 
 msgid "Active:"
-msgstr ""
+msgstr "aktivno:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Dodanih {} predmetov VOD"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Preverjanje ni uspelo:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Spodaj"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Položaj šopka je nastavljen na: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Ustvarjeni šopki: {} skupin s {} kanali"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Ni mogoče ustvariti imenika:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Spremeni izhodni imenik"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Napaka seznama kanalov:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Seznam kanalov ni uspel: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "jasno"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Napaka povezave:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Pretvorba preklicana pred začetkom"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Napaka pretvorbe:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Pretvorba je bila ustavljena pred ustvarjanjem šopka"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Pretvorbo je ustavil uporabnik"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Pretvorba je bila ustavljena med ustvarjanjem M3U"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Pretvorba je bila ustavljena med ustvarjanjem šopka"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Med iskanjem kanala je pretvorba ustavljena"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Med združevanjem je pretvorba ustavljena"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Med obdelavo je pretvorba ustavljena"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Časovna omejitev pretvorbe je presežena"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Pretvorite Stalker Portal v seznam predvajanja M3U z dejanskimi kanali"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Pretvori v M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Pretvori v TV"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Kritična napaka pri obdelavi kanala"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Izbriši datoteko seznama predvajanja"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Brisanje ni uspelo:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Izbrisano:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Imenik ni zapisljiv:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Onemogočen"
 
 msgid "Disk"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "Uredi"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Uredite naslov MAC"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Uredi URL portala"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Omogočeno"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Vnesite naslov MAC (npr. 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Vnesite URL portala (npr. http://example.com/c/ ali http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Napaka pri dostopu do konfiguracijskih vrednosti"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Napaka pri dostopu do konfiguracijskih vrednosti:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Napaka pri dostopu do imenika:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Napaka pri ustvarjanju seznama predvajanja:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Podrobnosti o napaki: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Napaka pri pridobivanju podatkov o računu"
 
 msgid "Error!"
-msgstr ""
+msgstr "Napaka!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Napaka:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Napaka: Neveljaven naslov MAC"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Napaka: Neveljaven URL portala"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Napaka: potrebna sta portal in MAC"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "potek:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Podatkov o računu ni bilo mogoče naložiti"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Pridobivanje žetona ni uspelo!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Branje konfiguracije portala ali MAC ni uspelo:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Seznama kanalov ni bilo mogoče pridobiti"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Polja očiščena"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Združevanje: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "POMOČ:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Rokovanje ni uspelo: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Rokovanje ni uspelo: žeton ni bil prejet"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Trdi disk"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Skrij kodo"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Vključi VOD na seznam predvajanja"
 
 msgid "Information"
-msgstr ""
+msgstr "Informacije"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Napaka pri inicializaciji"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Neveljaven odgovor JSON za seznam kanalov"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Neveljaven MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Neveljaven URL: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Naložen seznam predvajanja: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Naloženih {} veljavnih vnosov od {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Nalaganje podatkov o računu v ozadju ..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U ustvarjen s {} kanali"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC naslov:"
 
 msgid "Max:"
 msgstr ""
 
 msgid "Network"
-msgstr ""
+msgstr "Omrežje"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Nova dostopna koda:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Nova koda"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Ustvarjena nova dostopna koda!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "V odgovoru ni bilo mogoče najti nobenega kanala"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Ni datotek v:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Ni datotek ali imenikov v:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "V datoteki ni veljavnih vnosov"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Ni dovolj prostora na {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Izhodna datoteka:"
 
 msgid "Password:"
-msgstr ""
+msgstr "geslo:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Datoteka seznama predvajanja:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "URL portala:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Priprava {} kanalov ..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Pritisnite 0: Prikaži kodo za dostop | Pritisnite 1: Nova koda"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Pripravljeno - izberite datoteko ali vnesite URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Pregledovanje datoteke ... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Izberite položaj šopka"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Izberite Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Izberite Seznam predvajanja"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Izberite datoteko seznama predvajanja"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Izberite vrsto pretvorbe"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Izberite imenik"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Izberite datoteko za brisanje v: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Izberite datoteko seznama predvajanja"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Izberite ta imenik"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Izbrani imenik:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Izbrano:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Nastavite položaj šopka"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Nastavite pretvorbo vrste"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Prikaži kodo"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Pretvornik portala Stalker v M3U v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Začetek postopka pretvorbe ..."
 
 msgid "Status:"
-msgstr ""
+msgstr "status:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Korak 1/3: Povezovanje s portalom ..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Korak 1/3: Rokovanje ..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Korak 2/3: Preverjanje pristnosti ..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Korak 2/3: Ustvarjanje datoteke seznama predvajanja ..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Korak 3/3: Ustvarite datoteko Bouquet ..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Korak 3/3: Ustvarite datoteko M3U ..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Korak 3/3: Pridobivanje kanalov ..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Korak 4/4: Pridobivanje vsebine VOD ..."
 
 msgid "Stop"
 msgstr ""
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Ustavitev pretvorbe ..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Zaustavitev trenutnega postopka za zamenjavo portala ..."
 
 msgid "Success!"
-msgstr ""
+msgstr "uspeh!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Začasna hramba"
 
 msgid "Top"
-msgstr ""
+msgstr "Vrh"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "pogon USB"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Posodobitev prekinjena!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Nadgradi Stalker Converter"
 
 msgid "User:"
-msgstr ""
+msgstr "uporabnik:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "Vključitev VOD: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Veljavni portali iz izbrane datoteke:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Strežnik spletnega portala je izklopljen"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Strežnik spletnega portala je vklopljen"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Napaka spletnega strežnika:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Spletni strežnik je ustavljen"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Spletni strežnik: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Že uporabljate najnovejšo različico: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Že uporabljate najnovejšo različico: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Najprej morate zagnati spletni strežnik!"

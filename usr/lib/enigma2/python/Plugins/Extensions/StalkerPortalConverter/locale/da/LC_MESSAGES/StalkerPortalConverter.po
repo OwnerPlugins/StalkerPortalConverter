@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Vælg det ønskede outputformat: M3U eller TV buket\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Åbn en fil med server-URL'er, eller tryk på den BLÅ knap for at redigere værten og MAC-adressen\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Tryk på CONVERT for at generere afspilningslisten"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Tilbage til hovedmenuen"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Annuller"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Adgangskode:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Kontooplysninger indlæst"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktiv:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Tilføjet {} VOD-elementer"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Godkendelse mislykkedes:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Bund"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Buketposition indstillet til: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Buketter oprettet: {} grupper med {} kanaler"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Kan ikke oprette mappe:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Skift Output Directory"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Kanallistefejl:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Kanalliste mislykkedes: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Klar"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Forbindelsesfejl:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Konvertering annulleret før start"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Konverteringsfejl:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Konverteringen stoppede før buketoprettelse"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Konvertering stoppet af bruger"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Konverteringen stoppede under M3U-oprettelse"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Konverteringen stoppede under buketoprettelse"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Konverteringen stoppede under kanalhentning"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Konvertering stoppede under gruppering"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Konverteringen stoppede under behandlingen"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Konverteringstimeout overskredet"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Konverter Stalker Portal til M3U-playliste med faktiske kanaler"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Konverter til M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Konverter til TV"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Kritisk kanalbehandlingsfejl"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Slet afspilningslistefil"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Sletning mislykkedes:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Slettet:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Katalog ikke skrivbar:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Handicappet"
 
 msgid "Disk"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "Redigere"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Rediger MAC-adresse"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Rediger portal-URL"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Aktiveret"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Indtast MAC-adresse (f.eks. 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Indtast portalwebadresse (f.eks. http://example.com/c/ eller http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Fejl ved adgang til konfigurationsværdier"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Fejl ved adgang til konfigurationsværdier:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Fejl ved adgang til mappe:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Fejl ved oprettelse af afspilningsliste:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Fejldetaljer: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Fejl ved udtrækning af kontooplysninger"
 
 msgid "Error!"
-msgstr ""
+msgstr "Fejl!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Fejl:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Fejl: Ugyldig MAC-adresse"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Fejl: Ugyldig portal-URL"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Fejl: Portal og MAC er påkrævet"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Udløb:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Kunne ikke indlæse kontooplysninger"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Kunne ikke hente token!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Kunne ikke læse portal- eller MAC-konfiguration:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Kunne ikke hente kanallisten"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Felter ryddet"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Gruppering: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "HJÆLP:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Håndtryk mislykkedes: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Håndtryk mislykkedes: Intet token modtaget"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Harddisk"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Skjul kode"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Inkluder VOD i afspilningslisten"
 
 msgid "Information"
 msgstr ""
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Initialiseringsfejl"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Ugyldigt JSON-svar for kanallisten"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Ugyldig MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Ugyldig webadresse: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Indlæst afspilningsliste: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Indlæste {} gyldige poster fra {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Indlæser kontooplysninger i baggrunden..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U oprettet med {} kanaler"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC-adresse:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Maks.:"
 
 msgid "Network"
-msgstr ""
+msgstr "Netværk"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Ny adgangskode:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Ny kode"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Ny adgangskode genereret!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Ingen kanaler fundet som svar"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Ingen filer fundet i:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Ingen filer eller mapper fundet i:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Ingen gyldige poster fundet i filen"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Ikke nok plads på {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Output fil:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Adgangskode:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Afspilningslistefil:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "Portal-URL:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Forbereder {} kanaler..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Tryk på 0: Vis adgangskode | Tryk på 1: Ny kode"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Klar - Vælg en fil, eller indtast URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Scanner fil... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Vælg Buketposition"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Vælg Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Vælg Afspilningsliste"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Vælg Playlist File"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Vælg Type af konvertering"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Vælg bibliotek"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Vælg fil, der skal slettes i: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Vælg afspilningslistefil"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Vælg denne mappe"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Valgt mappe:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Valgt:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Indstil buketposition"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Indstil typekonvertering"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Vis kode"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker Portal til M3U Converter v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Starter konverteringsproces..."
 
 msgid "Status:"
 msgstr ""
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "Trin 1/3: Opretter forbindelse til portal..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "Trin 1/3: Håndtryk..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "Trin 2/3: Godkendelse..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "Trin 2/3: Opretter afspilningslistefil..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "Trin 3/3: Opret buketfil..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "Trin 3/3: Opret M3U-fil..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "Trin 3/3: Henter kanaler..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "Trin 4/4: Henter VOD-indhold..."
 
 msgid "Stop"
 msgstr ""
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Stopper konvertering..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Stopper den nuværende proces for at skifte portal..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Succes!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Midlertidig opbevaring"
 
 msgid "Top"
 msgstr ""
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB-drev"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Opdatering afbrudt!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Opgrader Stalker Converter"
 
 msgid "User:"
-msgstr ""
+msgstr "Bruger:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD-inkludering: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Gyldige portaler fra valgt fil:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Webportalserver slukket"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Webportalserver tændt"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Webserverfejl:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Webserver stoppet"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Webserver: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Du kører allerede den seneste version: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Du kører allerede den seneste version: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Du skal starte webserveren først!"

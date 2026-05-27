@@ -20,7 +20,7 @@ msgid "- Choose the desired output format: M3U or TV bouquet\n"
 msgstr "- Válassza ki a kívánt kimeneti formátumot: M3U vagy TV-csokor\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Nyisson meg egy fájlt a szerver URL-jeivel, vagy nyomja meg a KÉK gombot a gazdagép és a MAC-cím szerkesztéséhez\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Nyomja meg a KONVERTÁLÁS gombot a lejátszási lista létrehozásához"
@@ -32,7 +32,7 @@ msgid "<< Cancel"
 msgstr "<< Mégsem"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Hozzáférési kód:"
 
 msgid "Account info loaded"
 msgstr "Fiókadatok betöltve"
@@ -41,10 +41,10 @@ msgid "Active:"
 msgstr "Aktív:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "{} VOD-elem hozzáadva"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "A hitelesítés sikertelen:"
 
 msgid "Bottom"
 msgstr "Alul"
@@ -63,10 +63,10 @@ msgid "Change Output Directory"
 msgstr "Kimeneti könyvtár módosítása"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Csatornalista hiba:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Csatornalista sikertelen: HTTP {}"
 
 msgid "Clear"
 msgstr "Törlés"
@@ -133,13 +133,13 @@ msgid "Deleted:"
 msgstr "Törölt: "
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "A könyvtár nem írható:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Letiltva"
 
 msgid "Disk"
-msgstr ""
+msgstr "Korong"
 
 msgid "Edit"
 msgstr "Szerkesztés"
@@ -151,13 +151,13 @@ msgid "Edit Portal URL"
 msgstr "Portál URL-címének szerkesztése"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Engedélyezve"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
 msgstr "Írja be a MAC-címet (pl. 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Írja be a portál URL-jét (pl. http://example.com/c/ vagy http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
 msgstr "Hiba a konfigurációs értékek elérésekor"
@@ -230,13 +230,13 @@ msgid "Handshake failed: No token received"
 msgstr "Kézfogás sikertelen: Nem érkezett token"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Merevlemez"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Kód elrejtése"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "VOD felvétele a lejátszási listába"
 
 msgid "Information"
 msgstr "Információ"
@@ -249,7 +249,7 @@ msgid "Invalid JSON response for channel list"
 msgstr "Nem sikerült lekérni a csatornalistát"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Érvénytelen MAC: {mac}"
 
 #, fuzzy
 msgid "Invalid URL: {portal}"
@@ -276,16 +276,16 @@ msgid "Max:"
 msgstr "Max:: "
 
 msgid "Network"
-msgstr ""
+msgstr "Hálózat"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Új hozzáférési kód:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Új kód"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Új hozzáférési kód generálva!"
 
 msgid "No channels found in response"
 msgstr "Nem található csatorna a válaszban"
@@ -323,7 +323,7 @@ msgid "Preparing {} channels..."
 msgstr "%d csatorna előkészítése..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Nyomja meg a 0 gombot: Belépőkód megjelenítése | Nyomja meg az 1-et: Új kód"
 
 msgid "Ready - Select a file or enter URL/MAC"
 msgstr "Kész - Válasszon ki egy fájlt, vagy adja meg az URL-t/MAC-címet"
@@ -374,7 +374,7 @@ msgid "Set Type Conversion"
 msgstr "Típuskonverzió beállítása"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Kód megjelenítése"
 
 msgid "Stalker Portal to M3U Converter v.%s"
 msgstr "Stalker Portal M3U-vá alakító v.%s"
@@ -424,13 +424,13 @@ msgid "Success!"
 msgstr "Siker!: "
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Ideiglenes tárolás"
 
 msgid "Top"
 msgstr "Felső"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB meghajtó"
 
 msgid "Update Aborted!"
 msgstr "Frissítés megszakítva!"
@@ -442,7 +442,7 @@ msgid "User:"
 msgstr "Felhasználó:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD felvétel: {}"
 
 msgid "Valid Portals from Selected File:"
 msgstr "Érvényes portálok a kiválasztott fájlból:"
@@ -451,16 +451,16 @@ msgid "Web Portal Server Off"
 msgstr ""
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Web Portal Server bekapcsolva"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Webszerver hiba:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "A webszerver leállt"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Webszerver: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
 msgstr "Már a legújabb verziót futtatod: %s"
@@ -469,7 +469,7 @@ msgid "You are already running the latest version: {}"
 msgstr "Már a legújabb verziót futtatod: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Először el kell indítania a webszervert!"
 
 #~ msgid "Get ALL portal/MAC from file"
 #~ msgstr "ÖSSZES portál/MAC cím lekérése fájlból"

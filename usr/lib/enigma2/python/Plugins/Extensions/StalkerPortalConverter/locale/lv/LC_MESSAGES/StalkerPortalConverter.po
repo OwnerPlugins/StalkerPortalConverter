@@ -11,427 +11,427 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- Izvēlieties vēlamo izvades formātu: M3U vai TV pušķis\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- Atveriet failu ar servera vietrāžiem URL vai nospiediet ZILO pogu, lai rediģētu resursdatoru un MAC adresi\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- Nospiediet CONVERT, lai izveidotu atskaņošanas sarakstu"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< Atpakaļ uz galveno izvēlni"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< Atcelt"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "Piekļuves kods:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "Konta informācija ir ielādēta"
 
 msgid "Active:"
-msgstr ""
+msgstr "Aktīvs:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "Pievienoti {} VOD vienumi"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "Autentifikācija neizdevās:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Apakšā"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "Pušķa pozīcija iestatīta uz: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "Izveidoti pušķi: {} grupas ar {} kanāliem"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "Nevar izveidot direktoriju:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Mainīt izvades direktoriju"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "Kanālu saraksta kļūda:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "Kanālu saraksts neizdevās: HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "Skaidrs"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "Savienojuma kļūda:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "Konvertēšana tika atcelta pirms sākuma"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "Konversijas kļūda:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "Pārvēršana tika apturēta pirms pušķa izveides"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "Lietotājs apturēja reklāmguvumu"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "Konvertēšana tika apturēta M3U izveides laikā"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "Pārvēršana tika apturēta pušķa izveides laikā"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "Konvertēšana tika apturēta kanāla izguves laikā"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "Grupēšanas laikā konvertēšana tika apturēta"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "Apstrādes laikā konvertēšana tika apturēta"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "Pārsniegts reklāmguvuma taimauts"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "Pārveidojiet Stalker portālu par M3U atskaņošanas sarakstu ar faktiskajiem kanāliem"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "Konvertēt uz M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "Konvertēt uz TV"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "Kritiska kanāla apstrādes kļūda"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Dzēst atskaņošanas saraksta failu"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "Dzēšana neizdevās:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "Izdzēsts:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "Katalogs nav ierakstāms:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Atspējots"
 
 msgid "Disk"
-msgstr ""
+msgstr "Disks"
 
 msgid "Edit"
-msgstr ""
+msgstr "Rediģēt"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "Rediģēt MAC adresi"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Rediģēt portāla URL"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Iespējots"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "Ievadiet MAC adresi (piemēram, 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Ievadiet portāla URL (piemēram, http://example.com/c/ vai http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "Piekļūstot konfigurācijas vērtībām, radās kļūda"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "Kļūda, piekļūstot konfigurācijas vērtībām:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "Kļūda, piekļūstot direktorijam:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "Veidojot atskaņošanas sarakstu, radās kļūda:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "Informācija par kļūdu: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "Izvelkot konta informāciju, radās kļūda"
 
 msgid "Error!"
-msgstr ""
+msgstr "Kļūda!"
 
 msgid "Error:"
-msgstr ""
+msgstr "Kļūda:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "Kļūda: nederīga MAC adrese"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "Kļūda: nederīgs portāla URL"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "Kļūda: ir nepieciešams portāls un MAC"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "Derīguma termiņš:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "Neizdevās ielādēt konta informāciju"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "Neizdevās iegūt pilnvaru!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "Neizdevās nolasīt portāla vai MAC konfigurāciju:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "Neizdevās izgūt kanālu sarakstu"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "Lauki notīrīti"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "Grupēšana: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "PALĪDZĪBA:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "Rokasspiediens neizdevās: HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "Rokasspiediens neizdevās: nav saņemts marķieris"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "Cietais disks"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "Slēpt kodu"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Iekļaut VOD atskaņošanas sarakstā"
 
 msgid "Information"
-msgstr ""
+msgstr "Informācija"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "Inicializācijas kļūda"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "Nederīga JSON atbilde kanālu sarakstam"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "Nederīgs MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "Nederīgs URL: {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "Ielādēts atskaņošanas saraksts: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "Ielādēti {} derīgi ieraksti no {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "Notiek konta informācijas ielāde fonā..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U izveidots ar {} kanāliem"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC adrese:"
 
 msgid "Max:"
-msgstr ""
+msgstr "Maks.:"
 
 msgid "Network"
-msgstr ""
+msgstr "Tīkls"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "Jauns piekļuves kods:"
 
 msgid "New Code"
-msgstr ""
+msgstr "Jauns kods"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "Izveidots jauns piekļuves kods!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "Atbildē netika atrasts neviens kanāls"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "Mapē nav atrasts neviens fails:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "Mapē nav atrasts neviens fails vai direktorijs:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "Failā nav atrasts neviens derīgs ieraksts"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "Vietnē {} nepietiek vietas!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "Izvades fails:"
 
 msgid "Password:"
-msgstr ""
+msgstr "Parole:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "Atskaņošanas saraksta fails:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "Portāla URL:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "Notiek {} kanālu sagatavošana..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "Nospiediet 0: Rādīt piekļuves kodu | Nospiediet 1: Jauns kods"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "Gatavs — atlasiet failu vai ievadiet URL/MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "Notiek faila skenēšana... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Izvēlieties Pušķa pozīcija"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Izvēlieties Mount Root"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Atlasiet Atskaņošanas saraksts"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Atlasiet atskaņošanas saraksta failu"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "Atlasiet reklāmguvuma veidu"
 
 msgid "Select directory"
-msgstr ""
+msgstr "Izvēlieties direktoriju"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "Atlasiet failu, ko dzēst: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "Atlasiet atskaņošanas saraksta failu"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "Izvēlieties šo direktoriju"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "Izvēlētais direktorijs:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "Atlasīts:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Iestatiet pušķa pozīciju"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "Iestatiet veida konvertēšanu"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Rādīt kodu"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker portāls uz M3U Converter v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "Notiek konvertēšanas procesa sākšana..."
 
 msgid "Status:"
-msgstr ""
+msgstr "Statuss:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "1. darbība/3. Notiek savienojuma izveide ar portālu..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "1. darbība/3: rokasspiediens..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "2. darbība/3. Autentifikācija..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "2. darbība/3. Notiek atskaņošanas saraksta faila izveide..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "3. darbība/3: izveidojiet pušķa failu..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "3. darbība/3. Izveidojiet M3U failu..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "3./3. darbība: kanālu iegūšana..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "4. darbība: VOD satura iegūšana..."
 
 msgid "Stop"
 msgstr ""
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "Notiek konvertēšanas apturēšana..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "Tiek apturēts pašreizējais process, lai pārslēgtu portālu..."
 
 msgid "Success!"
-msgstr ""
+msgstr "Veiksmi!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "Pagaidu uzglabāšana"
 
 msgid "Top"
-msgstr ""
+msgstr "Augšā"
 
 msgid "USB Drive"
-msgstr ""
+msgstr "USB diskdzinis"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "Atjaunināšana pārtraukta!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Jauniniet Stalker pārveidotāju"
 
 msgid "User:"
-msgstr ""
+msgstr "Lietotājs:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD iekļaušana: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "Derīgi portāli no atlasītā faila:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "Web portāla serveris izslēgts"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "Tīmekļa portāla serveris ieslēgts"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "Web servera kļūda:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "Web serveris apturēts"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "Tīmekļa serveris: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "Jūs jau izmantojat jaunāko versiju: ​​%s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "Jūs jau izmantojat jaunāko versiju: ​​{}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "Vispirms ir jāstartē Web serveris!"

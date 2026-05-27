@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- အလိုရှိသော အထွက်ဖော်မတ်- M3U သို့မဟုတ် TV bouquet\n ကို ရွေးပါ။"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- ဆာဗာ URL များဖြင့် ဖိုင်ကိုဖွင့်ပါ သို့မဟုတ် လက်ခံဆောင်ရွက်ပေးသူနှင့် MAC လိပ်စာ\nကိုတည်းဖြတ်ရန် အပြာရောင်ခလုတ်ကို နှိပ်ပါ။"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- အစီအစဉ်ကိုထုတ်လုပ်ရန် CONVERT ကိုနှိပ်ပါ။"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< ပင်မမီနူးသို့ ပြန်သွားရန်"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< မလုပ်တော့"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "ဝင်သုံးကုဒ်-"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "အကောင့်အချက်အလက်ကို တင်ထားသည်။"
 
 msgid "Active:"
-msgstr ""
+msgstr "အသက်ဝင်သည်-"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "VOD ဖိုင် {} ခုကို ထည့်ထားသည်။"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "အထောက်အထားစိစစ်ခြင်း မအောင်မြင်ပါ-"
 
 msgid "Bottom"
-msgstr ""
+msgstr "အောက်ခြေ"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "ပန်းစည်း အနေအထား- {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "ပန်းစည်းများ ဖန်တီးထားသည်- {} လိုင်းများပါသော အဖွဲ့များ"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "လမ်းညွှန်ကို ဖန်တီး၍မရပါ"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "Output Directory ကိုပြောင်းပါ။"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "ချန်နယ်စာရင်းအမှား-"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "ချန်နယ်စာရင်း မအောင်မြင်ပါ- HTTP {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "ရှင်းပါတယ်။"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "ချိတ်ဆက်မှု အမှားအယွင်း"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "မစတင်မီ ပြောင်းလဲမှုကို ပယ်ဖျက်လိုက်ပါပြီ။"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "ကူးပြောင်းမှု အမှား-"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "ပန်းစည်းဖန်တီးခြင်းမပြုမီ ပြောင်းလဲခြင်းအား ရပ်သွားခဲ့သည်။"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "ပြောင်းလဲခြင်းကို အသုံးပြုသူမှ ရပ်သွားခဲ့သည်။"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "M3U ဖန်တီးနေစဉ်တွင် ပြောင်းလဲခြင်းရပ်တန့်သွားသည်။"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "ပန်းစည်းဖန်တီးနေစဉ်တွင် ပြောင်းလဲခြင်း ရပ်တန့်သွားသည်။"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "ချန်နယ်ပြန်လည်ရယူစဉ်တွင် ပြောင်းလဲခြင်းရပ်တန့်သွားသည်။"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "အုပ်စုဖွဲ့စဉ်တွင် ပြောင်းလဲခြင်း ရပ်တန့်သွားသည်။"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "ပြောင်းလဲခြင်းကို လုပ်ဆောင်နေစဉ်အတွင်း ရပ်တန့်သွားသည်။"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "ကူးပြောင်းမှု အချိန်ကုန်ဆုံးသွားပါပြီ။"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "အမှန်တကယ်ချန်နယ်များဖြင့် Stalker Portal ကို M3U အစီအစဉ်သို့ ပြောင်းပါ။"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "M3U သို့ပြောင်းပါ။"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "TV သို့ပြောင်းပါ။"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "အရေးပါသော ချန်နယ်လုပ်ဆောင်ခြင်း အမှား"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "Playlist ဖိုင်ကို ဖျက်ပါ။"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "ဖျက်ခြင်း မအောင်မြင်ပါ"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "ဖျက်လိုက်သည်-"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "လမ်းညွှန်မရေးနိုင်ပါ-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "မသန်စွမ်း"
 
 msgid "Disk"
-msgstr ""
+msgstr "ဒစ်"
 
 msgid "Edit"
-msgstr ""
+msgstr "တည်းဖြတ်ပါ။"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "MAC လိပ်စာကို တည်းဖြတ်ပါ။"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "Portal URL ကို တည်းဖြတ်ပါ။"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ဖွင့်ထားသည်။"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "MAC လိပ်စာကို ထည့်ပါ (ဥပမာ၊ 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "Portal URL ကိုထည့်ပါ (ဥပမာ http://example.com/c/ သို့မဟုတ် http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "ဖွဲ့စည်းမှုတန်ဖိုးများကို အသုံးပြုရာတွင် အမှားအယွင်းရှိနေသည်။"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "ဖွဲ့စည်းမှုတန်ဖိုးများကို ဝင်ရောက်အသုံးပြုရာတွင် အမှားအယွင်းရှိနေသည်-"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "လမ်းညွှန်ကို အသုံးပြုရာတွင် အမှားအယွင်းရှိပါသည်-"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "အစီအစဉ်ဖန်တီးရာတွင် အမှားအယွင်းရှိနေသည်။"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "အမှားအယွင်းအသေးစိတ်အချက်များ- {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "အကောင့်အချက်အလက်ကို ထုတ်ယူရာတွင် အမှားအယွင်းရှိနေသည်။"
 
 msgid "Error!"
-msgstr ""
+msgstr "အမှား။"
 
 msgid "Error:"
-msgstr ""
+msgstr "အမှား-"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "အမှား- MAC လိပ်စာ မမှန်ကန်ပါ။"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "အမှား- မမှန်ကန်သော ပေါ်တယ် URL"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "အမှား- Portal နှင့် MAC လိုအပ်သည်။"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "သက်တမ်းကုန်ဆုံးရက်-"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "အကောင့်အချက်အလက်ကို တင်ရန် မအောင်မြင်ပါ။"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "တိုကင်ရယူရန် မအောင်မြင်ပါ။"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "ပေါ်တယ် သို့မဟုတ် MAC ဖွဲ့စည်းမှုပုံစံကို ဖတ်ရန် မအောင်မြင်ပါ-\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "ချန်နယ်စာရင်းကို ထုတ်ယူ၍မရပါ။"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "အကွက်များကို ရှင်းလင်းထားသည်။"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "အုပ်စုဖွဲ့ခြင်း- {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "အကူအညီ-\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "လက်ဆွဲနှုတ်ဆက်ခြင်း မအောင်မြင်ပါ- HTTP {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "လက်ဆွဲနှုတ်ဆက်ခြင်း မအောင်မြင်ပါ- တိုကင်မရပါ။"
 
 msgid "Hard Disk"
 msgstr ""
 
 msgid "Hide Code"
-msgstr ""
+msgstr "ကုဒ်ဖျောက်ပါ။"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "Playlist တွင် VOD ထည့်သွင်းပါ။"
 
 msgid "Information"
-msgstr ""
+msgstr "သတင်းအချက်အလက်"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "အစပြုခြင်း အမှား"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "ချန်နယ်စာရင်းအတွက် မမှန်ကန်သော JSON တုံ့ပြန်မှု"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "MAC မမှန်ကန်ပါ- {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "မမှန်ကန်သော URL- {portal}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "ဖွင့်ထားသည့် အစီအစဉ်- %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "{} မှ မှန်ကန်သော ထည့်သွင်းမှုများကို တင်ထားသည်"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "အကောင့်အချက်အလက်ကို နောက်ခံတွင် ဖွင့်နေသည်..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U ကို {} ချန်နယ်များဖြင့် ဖန်တီးထားသည်။"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC လိပ်စာ-"
 
 msgid "Max:"
-msgstr ""
+msgstr "အများဆုံး-"
 
 msgid "Network"
-msgstr ""
+msgstr "ကွန်ရက်"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "အသုံးပြုခွင့်ကုဒ်အသစ်-"
 
 msgid "New Code"
-msgstr ""
+msgstr "ကုဒ်အသစ်"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "အသုံးပြုခွင့်ကုဒ်အသစ်ကို ထုတ်လုပ်လိုက်ပါပြီ။"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "တုံ့ပြန်မှုတွင် ချန်နယ်များ မတွေ့ပါ။"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "ဖိုင်များတွင်မတွေ့ပါ-"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "ဖိုင်များ သို့မဟုတ် လမ်းညွှန်များ မတွေ့ပါ-"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "ဖိုင်ထဲတွင် မှန်ကန်သော ထည့်သွင်းမှုများကို မတွေ့ပါ။"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "{} တွင် နေရာမလုံလောက်ပါ။"
 
 msgid "Output File:"
-msgstr ""
+msgstr "အထွက်ဖိုင်-"
 
 msgid "Password:"
-msgstr ""
+msgstr "စကားဝှက်-"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "အစီအစဉ်ဖိုင်-"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "Portal URL-"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "ချန်နယ် {} ခုကို ပြင်ဆင်နေသည်..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "0 ကိုနှိပ်ပါ- Access Code | ကိုပြပါ။ 1: New Code ကိုနှိပ်ပါ။"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "အဆင်သင့်ဖြစ်ပြီ - ဖိုင်တစ်ခုကို ရွေးပါ သို့မဟုတ် URL/MAC ကို ရိုက်ထည့်ပါ။"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "ဖိုင်ကို စကင်ဖတ်နေသည်... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "Bouquet Position ကို ရွေးပါ။"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "Mount Root ကို ရွေးပါ။"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "Playlist ကို ရွေးပါ။"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "Playlist File ကို ရွေးပါ။"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "ပြောင်းလဲခြင်းအမျိုးအစားကို ရွေးပါ။"
 
 msgid "Select directory"
-msgstr ""
+msgstr "လမ်းညွှန်ကို ရွေးပါ။"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "ဖျက်ရန် ဖိုင်ကို ရွေးပါ- {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "အစီအစဉ်ဖိုင်ကို ရွေးပါ။"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "ဤလမ်းညွှန်ကို ရွေးပါ။"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "ရွေးချယ်ထားသော လမ်းညွှန်-"
 
 msgid "Selected:"
-msgstr ""
+msgstr "ရွေးထားသည်-"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "Bouquet Position သတ်မှတ်ပါ။"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "ပြောင်းလဲခြင်းအမျိုးအစားကို သတ်မှတ်ပါ။"
 
 msgid "Show Code"
-msgstr ""
+msgstr "Code ပြပါ။"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "Stalker Portal သို့ M3U Converter v.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "ပြောင်းလဲခြင်းလုပ်ငန်းစဉ်ကို စတင်နေသည်..."
 
 msgid "Status:"
-msgstr ""
+msgstr "အခြေအနေ-"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "အဆင့် 1/3- ပေါ်တယ်သို့ ချိတ်ဆက်နေသည်..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "အဆင့် 1/3- လက်ဆွဲနှုတ်ဆက်..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "အဆင့် 2/3- အထောက်အထားစိစစ်ခြင်း..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "အဆင့် 2/3- အစီအစဉ်ဖိုင်ကို ဖန်တီးနေသည်..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "အဆင့် 3/3: Bouquet ဖိုင်ကို ဖန်တီးပါ..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "အဆင့် 3/3: M3U ဖိုင်ကို ဖန်တီးပါ..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "အဆင့် 3/3- ချန်နယ်များကို ရယူနေသည်..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "အဆင့် 4/4- VOD အကြောင်းအရာ ရယူနေသည်..."
 
 msgid "Stop"
-msgstr ""
+msgstr "ရပ်"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "ပြောင်းလဲခြင်းကို ရပ်နေသည်..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "ပေါ်တယ်ကိုပြောင်းရန် လက်ရှိလုပ်ငန်းစဉ်ကို ရပ်နေသည်..."
 
 msgid "Success!"
-msgstr ""
+msgstr "အောင်မြင်"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "ယာယီသိုလှောင်မှု"
 
 msgid "Top"
-msgstr ""
+msgstr "ထိပ်တန်း"
 
 msgid "USB Drive"
 msgstr ""
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "အပ်ဒိတ်ကို ဖျက်သိမ်းလိုက်ပါပြီ။"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "Stalker Converter ကို အဆင့်မြှင့်ပါ။"
 
 msgid "User:"
-msgstr ""
+msgstr "အသုံးပြုသူ-"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD ပါဝင်မှု- {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "ရွေးချယ်ထားသောဖိုင်မှ မှန်ကန်သော Portals များ-"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "ဝဘ်ပေါ်တယ်ဆာဗာပိတ်"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "ဝဘ်ပေါ်တယ်ဆာဗာ On"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "ဝဘ်ဆာဗာ အမှား-"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "ဝဘ်ဆာဗာ ရပ်သွားသည်။"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "ဝဘ်ဆာဗာ- http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "သင်သည် နောက်ဆုံးဗားရှင်းကို အသုံးပြုနေပြီဖြစ်သည်- %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "သင်သည် နောက်ဆုံးဗားရှင်းကို အသုံးပြုနေပြီဖြစ်သည်- {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "ဝဘ်ဆာဗာကို ဦးစွာ စတင်ရန် လိုအပ်သည်။"

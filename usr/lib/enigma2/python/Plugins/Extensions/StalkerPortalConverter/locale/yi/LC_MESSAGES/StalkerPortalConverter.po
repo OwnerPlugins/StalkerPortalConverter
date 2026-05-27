@@ -10,427 +10,427 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr ""
+msgstr "- קלייַבן די געוואלט רעזולטאַט פֿאָרמאַט: M3U אָדער טעלעוויזיע בוקיי\n"
 
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr ""
+msgstr "- עפֿענען אַ טעקע מיט סערווער URL ס אָדער דריקן די בלו קנעפּל צו רעדאַגירן די באַלעבאָס און MAC אַדרעס\n"
 
 msgid "- Press CONVERT to generate the playlist"
-msgstr ""
+msgstr "- דרוק קאָנווערט צו דזשענערייט די פּלייַליסט"
 
 msgid "<< Back to main menu"
-msgstr ""
+msgstr "<< צוריק צו הויפּט מעניו"
 
 msgid "<< Cancel"
-msgstr ""
+msgstr "<< באָטל מאַכן"
 
 msgid "Access Code:"
-msgstr ""
+msgstr "אַקסעס קאָד:"
 
 msgid "Account info loaded"
-msgstr ""
+msgstr "חשבון אינפֿאָרמאַציע לאָודיד"
 
 msgid "Active:"
-msgstr ""
+msgstr "אַקטיוו:"
 
 msgid "Added {} VOD items"
-msgstr ""
+msgstr "צוגעגעבן {} VOD זאכן"
 
 msgid "Authentication failed:"
-msgstr ""
+msgstr "אָטענטאַקיישאַן ניט אַנדערש:"
 
 msgid "Bottom"
-msgstr ""
+msgstr "דנאָ"
 
 msgid "Bouquet position set to: {}"
-msgstr ""
+msgstr "בוקיי שטעלע שטעלן צו: {}"
 
 msgid "Bouquets created: {} groups with {} channels"
-msgstr ""
+msgstr "באָוקייז באשאפן: {} גרופּעס מיט {} טשאַנאַלז"
 
 msgid "Cannot create directory:"
-msgstr ""
+msgstr "קען נישט שאַפֿן וועגווייַזער:"
 
 msgid "Change Output Directory"
-msgstr ""
+msgstr "טוישן רעזולטאַט Directory"
 
 msgid "Channel list error:"
-msgstr ""
+msgstr "קאַנאַל רשימה טעות:"
 
 msgid "Channel list failed: HTTP {}"
-msgstr ""
+msgstr "דורכפאַל רשימה: הטטפּ {}"
 
 msgid "Clear"
-msgstr ""
+msgstr "קלאָר"
 
 msgid "Connection error:"
-msgstr ""
+msgstr "קשר טעות:"
 
 msgid "Conversion canceled before start"
-msgstr ""
+msgstr "קאַנווערזשאַן קאַנסאַלד איידער אָנהייב"
 
 msgid "Conversion error:"
-msgstr ""
+msgstr "קאַנווערזשאַן טעות:"
 
 msgid "Conversion stopped before bouquet creation"
-msgstr ""
+msgstr "קאַנווערזשאַן פארשטאפט איידער בוקיי שאַפונג"
 
 msgid "Conversion stopped by user"
-msgstr ""
+msgstr "קאַנווערזשאַן פארשטאפט דורך באַניצער"
 
 msgid "Conversion stopped during M3U creation"
-msgstr ""
+msgstr "קאַנווערזשאַן פארשטאפט בעשאַס M3U שאַפונג"
 
 msgid "Conversion stopped during bouquet creation"
-msgstr ""
+msgstr "קאַנווערזשאַן פארשטאפט בעשאַס בוקיי שאַפונג"
 
 msgid "Conversion stopped during channel retrieval"
-msgstr ""
+msgstr "קאַנווערזשאַן פארשטאפט בעשאַס קאַנאַל ריטריוואַל"
 
 msgid "Conversion stopped during grouping"
-msgstr ""
+msgstr "קאַנווערזשאַן פארשטאפט בעשאַס גרופּינג"
 
 msgid "Conversion stopped during processing"
-msgstr ""
+msgstr "קאַנווערזשאַן פארשטאפט בעשאַס פּראַסעסינג"
 
 msgid "Conversion timeout exceeded"
-msgstr ""
+msgstr "קאַנווערזשאַן צייט יקסידיד"
 
 msgid "Convert Stalker Portal to M3U playlist with actual channels"
-msgstr ""
+msgstr "גער סטאַלקער טויער צו M3U פּלייַליסט מיט פאַקטיש טשאַנאַלז"
 
 msgid "Convert to M3U"
-msgstr ""
+msgstr "גער צו M3U"
 
 msgid "Convert to TV"
-msgstr ""
+msgstr "גער צו טעלעוויזיע"
 
 msgid "Critical channel processing error"
-msgstr ""
+msgstr "קריטיש קאַנאַל פּראַסעסינג טעות"
 
 msgid "Delete Playlist File"
-msgstr ""
+msgstr "ויסמעקן פּלייַליסט טעקע"
 
 msgid "Delete failed:"
-msgstr ""
+msgstr "ויסמעקן ניט אַנדערש:"
 
 msgid "Deleted:"
-msgstr ""
+msgstr "אויסגעמעקט:"
 
 msgid "Directory not writable:"
-msgstr ""
+msgstr "וועגווייַזער ניט שרייַבן:"
 
 msgid "Disabled"
-msgstr ""
+msgstr "פאַרקריפּלט"
 
 msgid "Disk"
-msgstr ""
+msgstr "דיסק"
 
 msgid "Edit"
-msgstr ""
+msgstr "רעדאַגירן"
 
 msgid "Edit MAC Address"
-msgstr ""
+msgstr "רעדאַגירן מעק אַדרעס"
 
 msgid "Edit Portal URL"
-msgstr ""
+msgstr "רעדאַגירן טויער URL"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ענאַבלעד"
 
 msgid "Enter MAC Address (e.g., 00:1A:79:XX:XX:XX)"
-msgstr ""
+msgstr "אַרייַן MAC אַדרעס (למשל, 00:1A:79:XX:XX:XX)"
 
 msgid "Enter Portal URL (e.g. http://example.com/c/ or http://example.com:8088/c/)"
-msgstr ""
+msgstr "אַרייַן טויער URL (למשל http://example.com/c/ אָדער http://example.com:8088/c/)"
 
 msgid "Error accessing configuration values"
-msgstr ""
+msgstr "טעות אַקסעסינג קאַנפיגיעריישאַן וואַלועס"
 
 msgid "Error accessing configuration values:"
-msgstr ""
+msgstr "טעות אַקסעסינג קאַנפיגיעריישאַן וואַלועס:"
 
 msgid "Error accessing directory:"
-msgstr ""
+msgstr "טעות אין אַקסעס Directory:"
 
 msgid "Error creating playlist:"
-msgstr ""
+msgstr "טעות קריייטינג פּלייַליסט:"
 
 msgid "Error details: {}"
-msgstr ""
+msgstr "טעות דעטאַילס: {}"
 
 msgid "Error extracting account information"
-msgstr ""
+msgstr "טעות עקסטראַקט חשבון אינפֿאָרמאַציע"
 
 msgid "Error!"
-msgstr ""
+msgstr "טעות!"
 
 msgid "Error:"
-msgstr ""
+msgstr "טעות:"
 
 msgid "Error: Invalid MAC address"
-msgstr ""
+msgstr "טעות: פאַרקריפּלט MAC אַדרעס"
 
 msgid "Error: Invalid portal URL"
-msgstr ""
+msgstr "טעות: אומגילטיק טויער URL"
 
 msgid "Error: Portal and MAC are required"
-msgstr ""
+msgstr "טעות: טויער און MAC זענען פארלאנגט"
 
 msgid "Expiry:"
-msgstr ""
+msgstr "עקספּיירי:"
 
 msgid "Failed to load account info"
-msgstr ""
+msgstr "ניט אַנדערש צו לאָדן חשבון אינפֿאָרמאַציע"
 
 msgid "Failed to obtain token!"
-msgstr ""
+msgstr "ניט אַנדערש צו באַקומען טאָקען!"
 
 msgid "Failed to read portal or MAC configuration:\n"
-msgstr ""
+msgstr "ניט אַנדערש צו לייענען טויער אָדער MAC קאַנפיגיעריישאַן:\n"
 
 msgid "Failed to retrieve channel list"
-msgstr ""
+msgstr "ניט אַנדערש צו צוריקקריגן קאַנאַל רשימה"
 
 msgid "Fields cleared"
-msgstr ""
+msgstr "פעלדער קלירד"
 
 msgid "Grouping: {}"
-msgstr ""
+msgstr "גרופּינג: {}"
 
 msgid "HELP:\n"
-msgstr ""
+msgstr "הילף:\n"
 
 msgid "Handshake failed: HTTP {}"
-msgstr ""
+msgstr "האַנדשייק דורכפאַל: הטטפּ {}"
 
 msgid "Handshake failed: No token received"
-msgstr ""
+msgstr "האַנדשייק דורכפאַל: קיין טאָקען באקומען"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "שווער דיסק"
 
 msgid "Hide Code"
-msgstr ""
+msgstr "באַהאַלטן קאָד"
 
 msgid "Include VOD in Playlist"
-msgstr ""
+msgstr "אַרייַננעמען VOD אין פּלייַליסט"
 
 msgid "Information"
-msgstr ""
+msgstr "אינפֿאָרמאַציע"
 
 msgid "Initialization error"
-msgstr ""
+msgstr "ייטיאַליזאַטיאָן טעות"
 
 msgid "Invalid JSON response for channel list"
-msgstr ""
+msgstr "אומגילטיק JSON ענטפער פֿאַר קאַנאַל רשימה"
 
 msgid "Invalid MAC: {mac}"
-msgstr ""
+msgstr "ומגליד MAC: {mac}"
 
 msgid "Invalid URL: {portal}"
-msgstr ""
+msgstr "אומגילטיק URL: {פּאָרטאַל}"
 
 msgid "Loaded playlist: %s"
-msgstr ""
+msgstr "לאָודיד פּלייַליסט: %s"
 
 msgid "Loaded {} valid entries from {}"
-msgstr ""
+msgstr "לאָודיד {} גילטיק איינסן פֿון {}"
 
 msgid "Loading account info in background..."
-msgstr ""
+msgstr "לאָודינג חשבון אינפֿאָרמאַציע אין הינטערגרונט ..."
 
 msgid "M3U created with {} channels"
-msgstr ""
+msgstr "M3U באשאפן מיט {} טשאַנאַלז"
 
 msgid "MAC Address:"
-msgstr ""
+msgstr "MAC אַדרעס:"
 
 msgid "Max:"
-msgstr ""
+msgstr "מאַקס:"
 
 msgid "Network"
-msgstr ""
+msgstr "נעץ"
 
 msgid "New Access Code:"
-msgstr ""
+msgstr "ניו אַקסעס קאָד:"
 
 msgid "New Code"
-msgstr ""
+msgstr "ניו קאָד"
 
 msgid "New access code generated!"
-msgstr ""
+msgstr "ניו אַקסעס קאָד דזשענערייטאַד!"
 
 msgid "No channels found in response"
-msgstr ""
+msgstr "קיין טשאַנאַלז געפֿונען אין ענטפער"
 
 msgid "No files found in:"
-msgstr ""
+msgstr "קיין טעקעס געפונען אין:"
 
 msgid "No files or directories found in:"
-msgstr ""
+msgstr "קיין טעקעס אָדער דירעקטעריז געפונען אין:"
 
 msgid "No valid entries found in file"
-msgstr ""
+msgstr "קיין גילטיק איינסן געפונען אין טעקע"
 
 msgid "Not enough space on {}!"
-msgstr ""
+msgstr "ניט גענוג פּלאַץ אויף {}!"
 
 msgid "Output File:"
-msgstr ""
+msgstr "רעזולטאַט טעקע:"
 
 msgid "Password:"
-msgstr ""
+msgstr "שפּריכוואָרט:"
 
 msgid "Playlist File:"
-msgstr ""
+msgstr "פּלייַליסט טעקע:"
 
 msgid "Portal URL:"
-msgstr ""
+msgstr "טויער URL:"
 
 msgid "Preparing {} channels..."
-msgstr ""
+msgstr "פּריפּערינג {} טשאַנאַלז ..."
 
 msgid "Press 0: Show Access Code | Press 1: New Code"
-msgstr ""
+msgstr "דרוק 0: ווייַזן אַקסעס קאָד | דרוק 1: ניו קאָד"
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
+msgstr "גרייט - סעלעקטירן אַ טעקע אָדער אַרייַן URL / MAC"
 
 msgid "Scanning file... {}%"
-msgstr ""
+msgstr "סקאַנינג טעקע... {}%"
 
 msgid "Select Bouquet Position"
-msgstr ""
+msgstr "אויסקלייַבן בוקיי שטעלע"
 
 msgid "Select Mount Root"
-msgstr ""
+msgstr "אויסקלייַבן בארג וואָרצל"
 
 msgid "Select Playlist"
-msgstr ""
+msgstr "אויסקלייַבן פּלייַליסט"
 
 msgid "Select Playlist File"
-msgstr ""
+msgstr "אויסקלייַבן פּלייַליסט טעקע"
 
 msgid "Select Type of Conversion"
-msgstr ""
+msgstr "אויסקלייַבן טיפּ פון קאַנווערזשאַן"
 
 msgid "Select directory"
-msgstr ""
+msgstr "אויסקלייַבן וועגווייַזער"
 
 msgid "Select file to delete in: {}"
-msgstr ""
+msgstr "אויסקלייַבן טעקע צו ויסמעקן אין: {}"
 
 msgid "Select playlist file"
-msgstr ""
+msgstr "אויסקלייַבן פּלייַליסט טעקע"
 
 msgid "Select this directory"
-msgstr ""
+msgstr "אויסקלייַבן דעם וועגווייַזער"
 
 msgid "Selected directory:"
-msgstr ""
+msgstr "אויסגעקליבן וועגווייַזער:"
 
 msgid "Selected:"
-msgstr ""
+msgstr "אויסגעקליבן:"
 
 msgid "Set Bouquet Position"
-msgstr ""
+msgstr "שטעלן בוקיי שטעלע"
 
 msgid "Set Type Conversion"
-msgstr ""
+msgstr "באַשטעטיק טיפּ קאַנווערזשאַן"
 
 msgid "Show Code"
-msgstr ""
+msgstr "ווייַזן קאָד"
 
 msgid "Stalker Portal to M3U Converter v.%s"
-msgstr ""
+msgstr "סטאָקער טויער צו מ3ו קאָנווערטער וו.%s"
 
 msgid "Starting conversion process..."
-msgstr ""
+msgstr "סטאַרטינג קאַנווערזשאַן פּראָצעס ..."
 
 msgid "Status:"
-msgstr ""
+msgstr "סטאַטוס:"
 
 msgid "Step 1/3: Connecting to portal..."
-msgstr ""
+msgstr "שריט 1/3: קאַנעקטינג צו טויער ..."
 
 msgid "Step 1/3: Handshake..."
-msgstr ""
+msgstr "שריט 1/3: האַנדשייק ..."
 
 msgid "Step 2/3: Authentication..."
-msgstr ""
+msgstr "שריט 2/3: אָטענטאַקיישאַן ..."
 
 msgid "Step 2/3: Creating playlist file..."
-msgstr ""
+msgstr "שריט 2/3: קריייטינג פּלייַליסט טעקע ..."
 
 msgid "Step 3/3: Create Bouquet file..."
-msgstr ""
+msgstr "שריט 3/3: שאַפֿן בוקיי טעקע ..."
 
 msgid "Step 3/3: Create M3U file..."
-msgstr ""
+msgstr "שריט 3/3: שאַפֿן M3U טעקע ..."
 
 msgid "Step 3/3: Getting channels..."
-msgstr ""
+msgstr "שריט 3/3: באַקומען טשאַנאַלז ..."
 
 msgid "Step 4/4: Getting VOD content..."
-msgstr ""
+msgstr "שריט 4/4: באַקומען VOD אינהאַלט ..."
 
 msgid "Stop"
-msgstr ""
+msgstr "האַלטן"
 
 msgid "Stopping conversion..."
-msgstr ""
+msgstr "סטאָפּפּינג קאַנווערזשאַן ..."
 
 msgid "Stopping current process to switch portal..."
-msgstr ""
+msgstr "סטאָפּפּינג קראַנט פּראָצעס צו באַשטימען טויער ..."
 
 msgid "Success!"
-msgstr ""
+msgstr "הצלחה!"
 
 msgid "Temporary Storage"
-msgstr ""
+msgstr "צייטווייליגע סטאָרידזש"
 
 msgid "Top"
 msgstr ""
 
 msgid "USB Drive"
-msgstr ""
+msgstr "וסב דרייוו"
 
 msgid "Update Aborted!"
-msgstr ""
+msgstr "דערהייַנטיקן אַבאָרטיד!"
 
 msgid "Upgrade Stalker Converter"
-msgstr ""
+msgstr "אַפּגרייד סטאָקער קאָנווערטער"
 
 msgid "User:"
-msgstr ""
+msgstr "באַניצער:"
 
 msgid "VOD inclusion: {}"
-msgstr ""
+msgstr "VOD ינקלוזשאַן: {}"
 
 msgid "Valid Portals from Selected File:"
-msgstr ""
+msgstr "גילטיק פּאָרטאַלס ​​פֿון אויסגעקליבן טעקע:"
 
 msgid "Web Portal Server Off"
-msgstr ""
+msgstr "וועב טויער סערווירער אויסגעלאשן"
 
 msgid "Web Portal Server On"
-msgstr ""
+msgstr "וועב טויער סערווירער אויף"
 
 msgid "Web server error:"
-msgstr ""
+msgstr "וועב סערווער טעות:"
 
 msgid "Web server stopped"
-msgstr ""
+msgstr "וועב סערווער פארשטאפט"
 
 msgid "Web server: http://%s:%d"
-msgstr ""
+msgstr "וועב סערווער: http://%s:%d"
 
 msgid "You are already running the latest version: %s"
-msgstr ""
+msgstr "איר לויפן שוין די לעצטע ווערסיע: %s"
 
 msgid "You are already running the latest version: {}"
-msgstr ""
+msgstr "איר לויפן שוין די לעצטע ווערסיע: {}"
 
 msgid "You need to start the Web Server first!"
-msgstr ""
+msgstr "איר דאַרפֿן צו אָנהייבן דעם וועב סערווירער ערשטער!"
