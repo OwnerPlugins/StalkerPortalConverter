@@ -5,6 +5,7 @@ from Components.Language import language
 from Tools.Directories import resolveFilename, SCOPE_PLUGINS
 from os.path import isdir, exists, dirname, join
 from os import access, popen, environ, system, listdir, W_OK, statvfs
+import importlib.util
 import gettext
 import sys
 # ═════════════════════════════════════════════════════════════════════
@@ -35,18 +36,15 @@ isDreambox = exists("/usr/bin/apt-get")
 
 
 def check_and_install_requests():
-    try:
-        import requests
-    except ImportError:
-        python_version = sys.version_info.major
+    if importlib.util.find_spec("requests") is not None:
+        return True   # già installato
 
-        if isDreambox:
-            pkg_manager_cmd = "apt-get -y install "
-        else:
-            pkg_manager_cmd = "opkg install "
-
-        package_name = "python-requests" if python_version == 2 else "python3-requests"
-        system(pkg_manager_cmd + package_name)
+    python_version = sys.version_info.major
+    pkg_manager_cmd = "apt-get -y install " if isDreambox else "opkg install "
+    package_name = "python-requests" if python_version == 2 else "python3-requests"
+    system(pkg_manager_cmd + package_name)
+    # eventualmente verifica se ora è installato
+    return importlib.util.find_spec("requests") is not None
 
 
 check_and_install_requests()
