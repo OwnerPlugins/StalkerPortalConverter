@@ -164,15 +164,5 @@ IMAGE VERSION: ${distro_version:-Unknown}
 PLUGIN VERSION: $version
 EOF
 
-echo "Restarting enigma2 in 5 seconds..."
-sleep 5
-
-if command -v systemctl >/dev/null 2>&1; then
-    systemctl restart enigma2
-elif command -v init >/dev/null 2>&1; then
-    init 4 && sleep 2 && init 3
-else
-    killall -9 enigma2
-fi
 
 exit 0
