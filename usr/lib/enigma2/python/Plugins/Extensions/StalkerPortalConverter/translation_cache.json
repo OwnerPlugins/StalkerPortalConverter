@@ -12351,5 +12351,9 @@
   "bc390f1baf81317685eef6894c457ef6": "網路伺服器：http://%s:%d",
   "b1478caaf7f971f6c04ac59e2154fdd3": "您已經在運行最新版本：%s",
   "e9c34273ab1ac6bfc566809b904ab919": "您已經在執行最新版本：{}",
-  "29c9fe3b548acd9a4b8095ee21f77a67": "您需要先啟動 Web 伺服器！"
+  "29c9fe3b548acd9a4b8095ee21f77a67": "您需要先啟動 Web 伺服器！",
+  "a5fb1f8c9aa339dca18630d248203abd": "Invalid MAC: {mac}",
+  "5383f91ccadf997e6654f7d8e2950856": "Invalid URL: {portal}",
+  "0f277804000fb8860f1630978e7896f1": "Invalid MAC: {mac}",
+  "52b74b7eb2b180552f307205bd84ae67": "Invalid URL: {portal}"
 }
