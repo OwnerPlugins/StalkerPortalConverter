@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Pilih format output yang diingini: M3U atau TV bouquet\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Pilih format output yang diingini: M3U atau TV bouquet\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- Buka fail dengan URL pelayan atau tekan butang BIRU untuk mengedit hos dan alamat MAC\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- Buka fail dengan URL pelayan atau tekan butang BIRU untuk mengedit hos dan alamat MAC\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Tekan CONVERT untuk menjana senarai main"
@@ -186,8 +186,8 @@ msgstr "Gagal memuatkan maklumat akaun"
 msgid "Failed to obtain token!"
 msgstr "Gagal mendapatkan token!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "Gagal membaca konfigurasi portal atau MAC:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "Gagal membaca konfigurasi portal atau MAC:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Gagal mendapatkan semula senarai saluran"
@@ -198,8 +198,8 @@ msgstr "Medan dibersihkan"
 msgid "Grouping: {}"
 msgstr "Pengumpulan: {}"
 
-msgid "HELP:\n"
-msgstr "BANTUAN:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "BANTUAN:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Jabat tangan gagal: HTTP {}"

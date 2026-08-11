@@ -10,11 +10,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- 希望の出力形式を選択します: M3U または TV ブーケ\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- 希望の出力形式を選択します: M3U または TV ブーケ\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- サーバー URL を含むファイルを開くか、青いボタンを押してホストと MAC アドレスを編集します\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- サーバー URL を含むファイルを開くか、青いボタンを押してホストと MAC アドレスを編集します\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- CONVERT を押してプレイリストを生成します"
@@ -187,8 +187,8 @@ msgstr "アカウント情報の読み込みに失敗しました"
 msgid "Failed to obtain token!"
 msgstr "トークンの取得に失敗しました!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "ポータルまたは MAC 構成の読み取りに失敗しました:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "ポータルまたは MAC 構成の読み取りに失敗しました:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "チャンネルリストの取得に失敗しました"
@@ -199,8 +199,8 @@ msgstr "フィールドがクリアされました"
 msgid "Grouping: {}"
 msgstr "グループ化: {}"
 
-msgid "HELP:\n"
-msgstr "ヘルプ:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "ヘルプ:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "ハンドシェイクが失敗しました: HTTP {}"

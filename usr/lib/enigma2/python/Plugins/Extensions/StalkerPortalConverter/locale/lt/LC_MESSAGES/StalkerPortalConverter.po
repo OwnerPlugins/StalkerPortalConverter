@@ -10,11 +10,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Pasirinkite norimą išvesties formatą: M3U arba TV puokštė\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Pasirinkite norimą išvesties formatą: M3U arba TV puokštė\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- Atidarykite failą su serverio URL arba paspauskite MĖLYNĄ mygtuką, kad redaguotų prieglobą ir MAC adresą\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- Atidarykite failą su serverio URL arba paspauskite MĖLYNĄ mygtuką, kad redaguotų prieglobą ir MAC adresą\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Paspauskite CONVERT, kad sukurtumėte grojaraštį"
@@ -187,8 +187,8 @@ msgstr "Nepavyko įkelti paskyros informacijos"
 msgid "Failed to obtain token!"
 msgstr "Nepavyko gauti prieigos rakto!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "Nepavyko nuskaityti portalo arba MAC konfigūracijos:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "Nepavyko nuskaityti portalo arba MAC konfigūracijos:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Nepavyko nuskaityti kanalų sąrašo"
@@ -199,8 +199,8 @@ msgstr "Laukai išvalyti"
 msgid "Grouping: {}"
 msgstr "Grupavimas: {}"
 
-msgid "HELP:\n"
-msgstr "PAGALBA:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "PAGALBA:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Rankos paspaudimas nepavyko: HTTP {}"

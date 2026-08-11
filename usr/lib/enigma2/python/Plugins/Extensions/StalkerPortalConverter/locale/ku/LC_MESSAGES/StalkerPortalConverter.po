@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Forma derketinê ya xwestî hilbijêrin: M3U an bûkek TV\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Forma derketinê ya xwestî hilbijêrin: M3U an bûkek TV\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- Pelek bi URL-yên serverê vekin an jî bişkoja ŞÎN bikirtînin da ku mêvandar û navnîşana MAC-ê biguherînin\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- Pelek bi URL-yên serverê vekin an jî bişkoja ŞÎN bikirtînin da ku mêvandar û navnîşana MAC-ê biguherînin\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- CONVERT bikirtînin da ku navnîşa lîstikê çêbikin"
@@ -186,8 +186,8 @@ msgstr "Barkirina agahdariya hesabê têk çû"
 msgid "Failed to obtain token!"
 msgstr "Bidestxistina token bi ser neket!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "Xwendina veavakirina portal an MAC têk çû:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "Xwendina veavakirina portal an MAC têk çû:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Vegerandina lîsteya kanalê bi ser neket"
@@ -198,8 +198,8 @@ msgstr "Zeviyên paqij kirin"
 msgid "Grouping: {}"
 msgstr "Komkirin: {}"
 
-msgid "HELP:\n"
-msgstr "ALÎKARÎ:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "ALÎKARÎ:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Desthejandin têk çû: HTTP {}"

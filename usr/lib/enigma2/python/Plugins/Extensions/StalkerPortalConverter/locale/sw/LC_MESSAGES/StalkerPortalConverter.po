@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Chagua umbizo la towe unalotaka: M3U au shada la TV\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Chagua umbizo la towe unalotaka: M3U au shada la TV\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- Fungua faili iliyo na URL za seva au ubonyeze kitufe cha BLUE ili kuhariri seva pangishi na anwani ya MAC\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- Fungua faili iliyo na URL za seva au ubonyeze kitufe cha BLUE ili kuhariri seva pangishi na anwani ya MAC\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Bonyeza CONVERT kutengeneza orodha ya kucheza"
@@ -186,8 +186,8 @@ msgstr "Imeshindwa kupakia maelezo ya akaunti"
 msgid "Failed to obtain token!"
 msgstr "Imeshindwa kupata tokeni!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "Imeshindwa kusoma lango au usanidi wa MAC:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "Imeshindwa kusoma lango au usanidi wa MAC:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Imeshindwa kupata orodha ya vituo"
@@ -198,8 +198,8 @@ msgstr "Sehemu zimefutwa"
 msgid "Grouping: {}"
 msgstr "Kuweka katika vikundi: {}"
 
-msgid "HELP:\n"
-msgstr "MSAADA:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "MSAADA:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Kupeana mkono kumeshindwa: HTTP {}"

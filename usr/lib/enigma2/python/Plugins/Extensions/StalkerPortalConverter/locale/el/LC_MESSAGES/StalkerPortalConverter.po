@@ -16,11 +16,11 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SearchPath-0: plugin.py\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Επιλέξτε την επιθυμητή μορφή εξόδου: M3U ή μπουκέτο TV\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Επιλέξτε την επιθυμητή μορφή εξόδου: M3U ή μπουκέτο TV\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- Ανοίξτε ένα αρχείο με URL διακομιστών ή πατήστε το ΜΠΛΕ κουμπί για να επεξεργαστείτε τον host και τη διεύθυνση MAC\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- Ανοίξτε ένα αρχείο με URL διακομιστών ή πατήστε το ΜΠΛΕ κουμπί για να επεξεργαστείτε τον host και τη διεύθυνση MAC\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Πατήστε ΜΕΤΑΤΡΟΠΗ για να δημιουργήσετε τη λίστα αναπαραγωγής"
@@ -208,8 +208,8 @@ msgstr "Αποτυχία φόρτωσης πληροφοριών λογαρια�
 msgid "Failed to obtain token!"
 msgstr "Αποτυχία λήψης token!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "Αποτυχία ανάγνωσης ρυθμίσεων πύλης ή MAC:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "Αποτυχία ανάγνωσης ρυθμίσεων πύλης ή MAC:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Αποτυχία ανάκτησης λίστας καναλιών"
@@ -220,8 +220,8 @@ msgstr "Τα πεδία καθαρίστηκαν"
 msgid "Grouping: {}"
 msgstr "Ομαδοποίηση: {}"
 
-msgid "HELP:\n"
-msgstr "ΒΟΗΘΕΙΑ:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "ΒΟΗΘΕΙΑ:\\\\\\\\n"
 
 #, fuzzy
 msgid "Handshake failed: HTTP {}"

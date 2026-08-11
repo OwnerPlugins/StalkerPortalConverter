@@ -10,11 +10,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- M3U 또는 TV 부케 중에서 원하는 출력 형식을 선택하십시오.\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- M3U 또는 TV 부케 중에서 원하는 출력 형식을 선택하십시오.\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- 서버 URL이 포함된 파일을 열거나 파란색 버튼을 눌러 호스트 및 MAC 주소를 편집합니다.\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- 서버 URL이 포함된 파일을 열거나 파란색 버튼을 눌러 호스트 및 MAC 주소를 편집합니다.\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- 재생 목록을 생성하려면 변환을 누르세요."
@@ -187,8 +187,8 @@ msgstr "계정 정보를 로드하지 못했습니다."
 msgid "Failed to obtain token!"
 msgstr "토큰 획득에 실패했습니다!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "포털 또는 MAC 구성을 읽지 못했습니다.\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "포털 또는 MAC 구성을 읽지 못했습니다.\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "채널 목록을 검색하지 못했습니다."
@@ -199,8 +199,8 @@ msgstr "필드가 지워졌습니다."
 msgid "Grouping: {}"
 msgstr "그룹화: {}"
 
-msgid "HELP:\n"
-msgstr "도움말:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "도움말:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "핸드셰이크 실패: HTTP {}"

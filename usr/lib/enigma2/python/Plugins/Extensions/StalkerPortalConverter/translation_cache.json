@@ -12355,5 +12355,13 @@
   "a5fb1f8c9aa339dca18630d248203abd": "Invalid MAC: {mac}",
   "5383f91ccadf997e6654f7d8e2950856": "Invalid URL: {portal}",
   "0f277804000fb8860f1630978e7896f1": "Invalid MAC: {mac}",
-  "52b74b7eb2b180552f307205bd84ae67": "Invalid URL: {portal}"
+  "52b74b7eb2b180552f307205bd84ae67": "Invalid URL: {portal}",
+  "d79805ff52a36d600906182ee1ef47cf": "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n",
+  "4120bfd8c2fbf5d8b5fefacdaf008c51": "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n",
+  "4e666d3aa20af586ebd3f41bc9fdac3f": "Failed to read portal or MAC configuration:\\\\\\\\n",
+  "334d00d0674a3645ba17f229a731460c": "HELP:\\\\\\\\n",
+  "77b8ce0d6cf91837ebd212a78777c7b5": "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n",
+  "e4263b47b18bfa362f3d626b7eaa0d33": "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n",
+  "8ff1c1de79d23e261c3a8227b9b3d855": "Failed to read portal or MAC configuration:\\\\\\\\n",
+  "4fe88e49a273d9095717d13365e100e8": "HELP:\\\\\\\\n"
 }

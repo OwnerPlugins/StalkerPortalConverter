@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Piliin ang gustong format ng output: M3U o TV bouquet\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Piliin ang gustong format ng output: M3U o TV bouquet\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- Magbukas ng file na may mga URL ng server o pindutin ang BLUE na button upang i-edit ang host at MAC address\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- Magbukas ng file na may mga URL ng server o pindutin ang BLUE na button upang i-edit ang host at MAC address\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Pindutin ang CONVERT upang bumuo ng playlist"
@@ -186,8 +186,8 @@ msgstr "Nabigong i-load ang impormasyon ng account"
 msgid "Failed to obtain token!"
 msgstr "Nabigong makuha ang token!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "Nabigong basahin ang configuration ng portal o MAC:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "Nabigong basahin ang configuration ng portal o MAC:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Nabigong makuha ang listahan ng channel"
@@ -198,8 +198,8 @@ msgstr "Na-clear ang mga field"
 msgid "Grouping: {}"
 msgstr "Pagpapangkat: {}"
 
-msgid "HELP:\n"
-msgstr "TULONG:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "TULONG:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Nabigo ang pakikipagkamay: HTTP {}"

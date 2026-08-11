@@ -16,10 +16,10 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
 msgstr ""
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
 msgstr ""
 
 msgid "- Press CONVERT to generate the playlist"
@@ -193,7 +193,7 @@ msgstr ""
 msgid "Failed to obtain token!"
 msgstr ""
 
-msgid "Failed to read portal or MAC configuration:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
 msgstr ""
 
 msgid "Failed to retrieve channel list"
@@ -205,7 +205,7 @@ msgstr ""
 msgid "Grouping: {}"
 msgstr ""
 
-msgid "HELP:\n"
+msgid "HELP:\\\\\\\\n"
 msgstr ""
 
 msgid "Handshake failed: HTTP {}"

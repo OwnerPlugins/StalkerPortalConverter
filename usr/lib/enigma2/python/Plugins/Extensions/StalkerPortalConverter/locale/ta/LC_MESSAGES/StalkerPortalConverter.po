@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- விரும்பிய வெளியீட்டு வடிவமைப்பைத் தேர்வு செய்யவும்: M3U அல்லது TV பூச்செண்டு\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- விரும்பிய வெளியீட்டு வடிவமைப்பைத் தேர்வு செய்யவும்: M3U அல்லது TV பூச்செண்டு\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- ஹோஸ்ட் மற்றும் MAC முகவரியைத் திருத்த, சர்வர் URLகள் கொண்ட கோப்பைத் திறக்கவும் அல்லது நீல பொத்தானை அழுத்தவும்\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- ஹோஸ்ட் மற்றும் MAC முகவரியைத் திருத்த, சர்வர் URLகள் கொண்ட கோப்பைத் திறக்கவும் அல்லது நீல பொத்தானை அழுத்தவும்\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- பிளேலிஸ்ட்டை உருவாக்க CONVERT ஐ அழுத்தவும்"
@@ -186,8 +186,8 @@ msgstr "கணக்குத் தகவலை ஏற்றுவதில் 
 msgid "Failed to obtain token!"
 msgstr "டோக்கன் பெற முடியவில்லை!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "போர்டல் அல்லது MAC உள்ளமைவைப் படிக்க முடியவில்லை:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "போர்டல் அல்லது MAC உள்ளமைவைப் படிக்க முடியவில்லை:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "சேனல் பட்டியலை மீட்டெடுப்பதில் தோல்வி"
@@ -198,8 +198,8 @@ msgstr "வயல்வெளிகள் அழிக்கப்பட்ட�
 msgid "Grouping: {}"
 msgstr "குழுவாக்கம்: {}"
 
-msgid "HELP:\n"
-msgstr "உதவி:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "உதவி:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "கைகுலுக்க முடியவில்லை: HTTP {}"

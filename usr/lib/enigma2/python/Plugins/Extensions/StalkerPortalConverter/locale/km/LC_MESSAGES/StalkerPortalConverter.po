@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- ជ្រើសរើសទម្រង់លទ្ធផលដែលចង់បាន៖ M3U ឬ TV bouquet\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- ជ្រើសរើសទម្រង់លទ្ធផលដែលចង់បាន៖ M3U ឬ TV bouquet\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- បើកឯកសារជាមួយ server URLs ឬចុចប៊ូតុង BLUE ដើម្បីកែសម្រួល host និង MAC address\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- បើកឯកសារជាមួយ server URLs ឬចុចប៊ូតុង BLUE ដើម្បីកែសម្រួល host និង MAC address\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- ចុច CONVERT ដើម្បីបង្កើតបញ្ជីចាក់"
@@ -186,8 +186,8 @@ msgstr "បរាជ័យក្នុងការផ្ទុកព័ត៌ម
 msgid "Failed to obtain token!"
 msgstr "បរាជ័យក្នុងការទទួលបានសញ្ញាសម្ងាត់!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "បានបរាជ័យក្នុងការអានវិបផតថល ឬការកំណត់រចនាសម្ព័ន្ធ MAC៖\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "បានបរាជ័យក្នុងការអានវិបផតថល ឬការកំណត់រចនាសម្ព័ន្ធ MAC៖\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "បរាជ័យក្នុងការទាញយកបញ្ជីឆានែល"
@@ -198,8 +198,8 @@ msgstr "វាលត្រូវបានជម្រះ"
 msgid "Grouping: {}"
 msgstr "ការដាក់ជាក្រុម៖ {}"
 
-msgid "HELP:\n"
-msgstr "ជំនួយ៖\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "ជំនួយ៖\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "ការចាប់ដៃបានបរាជ័យ៖ HTTP {}"

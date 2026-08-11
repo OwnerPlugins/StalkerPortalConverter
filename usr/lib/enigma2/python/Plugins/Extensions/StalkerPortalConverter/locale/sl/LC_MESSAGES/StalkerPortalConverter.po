@@ -10,11 +10,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Izberite želeni izhodni format: M3U ali TV bouquet\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Izberite želeni izhodni format: M3U ali TV bouquet\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- Odprite datoteko z URL-ji strežnika ali pritisnite MODRI gumb za urejanje gostitelja in naslova MAC\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- Odprite datoteko z URL-ji strežnika ali pritisnite MODRI gumb za urejanje gostitelja in naslova MAC\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Pritisnite CONVERT, da ustvarite seznam predvajanja"
@@ -187,8 +187,8 @@ msgstr "Podatkov o računu ni bilo mogoče naložiti"
 msgid "Failed to obtain token!"
 msgstr "Pridobivanje žetona ni uspelo!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "Branje konfiguracije portala ali MAC ni uspelo:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "Branje konfiguracije portala ali MAC ni uspelo:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Seznama kanalov ni bilo mogoče pridobiti"
@@ -199,8 +199,8 @@ msgstr "Polja očiščena"
 msgid "Grouping: {}"
 msgstr "Združevanje: {}"
 
-msgid "HELP:\n"
-msgstr "POMOČ:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "POMOČ:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Rokovanje ni uspelo: HTTP {}"

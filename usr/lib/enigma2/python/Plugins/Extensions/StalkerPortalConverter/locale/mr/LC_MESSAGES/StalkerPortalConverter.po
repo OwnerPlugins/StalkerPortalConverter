@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- इच्छित आउटपुट फॉरमॅट निवडा: M3U किंवा TV bouquet\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- इच्छित आउटपुट फॉरमॅट निवडा: M3U किंवा TV bouquet\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- सर्व्हर URL सह फाइल उघडा किंवा होस्ट आणि MAC पत्ता संपादित करण्यासाठी निळे बटण दाबा\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- सर्व्हर URL सह फाइल उघडा किंवा होस्ट आणि MAC पत्ता संपादित करण्यासाठी निळे बटण दाबा\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- प्लेलिस्ट तयार करण्यासाठी CONVERT दाबा"
@@ -186,8 +186,8 @@ msgstr "खाते माहिती लोड करण्यात अय�
 msgid "Failed to obtain token!"
 msgstr "टोकन मिळवण्यात अयशस्वी!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "पोर्टल किंवा MAC कॉन्फिगरेशन वाचण्यात अयशस्वी:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "पोर्टल किंवा MAC कॉन्फिगरेशन वाचण्यात अयशस्वी:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "चॅनेल सूची पुनर्प्राप्त करण्यात अयशस्वी"
@@ -198,8 +198,8 @@ msgstr "शेतं साफ केली"
 msgid "Grouping: {}"
 msgstr "गटबद्ध करणे: {}"
 
-msgid "HELP:\n"
-msgstr "मदत:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "मदत:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "हँडशेक अयशस्वी: HTTP {}"

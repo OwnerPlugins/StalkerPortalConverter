@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- აირჩიეთ სასურველი გამომავალი ფორმატი: M3U ან ტელევიზორის ბუკეტი\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- აირჩიეთ სასურველი გამომავალი ფორმატი: M3U ან ტელევიზორის ბუკეტი\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- გახსენით ფაილი სერვერის URL-ებით ან დააჭირეთ ლურჯ ღილაკს ჰოსტის და MAC მისამართის რედაქტირებისთვის\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- გახსენით ფაილი სერვერის URL-ებით ან დააჭირეთ ლურჯ ღილაკს ჰოსტის და MAC მისამართის რედაქტირებისთვის\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- დააჭირეთ CONVERT-ს დასაკრავი სიის შესაქმნელად"
@@ -186,8 +186,8 @@ msgstr "ანგარიშის ინფორმაციის ჩატ�
 msgid "Failed to obtain token!"
 msgstr "ჟეტონის მიღება ვერ მოხერხდა!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "პორტალის ან MAC კონფიგურაციის წაკითხვა ვერ მოხერხდა:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "პორტალის ან MAC კონფიგურაციის წაკითხვა ვერ მოხერხდა:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "არხების სიის მოძიება ვერ მოხერხდა"
@@ -198,8 +198,8 @@ msgstr "ველები გასუფთავებულია"
 msgid "Grouping: {}"
 msgstr "დაჯგუფება: {}"
 
-msgid "HELP:\n"
-msgstr "დახმარება:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "დახმარება:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "ხელის ჩამორთმევა ვერ მოხერხდა: HTTP {}"

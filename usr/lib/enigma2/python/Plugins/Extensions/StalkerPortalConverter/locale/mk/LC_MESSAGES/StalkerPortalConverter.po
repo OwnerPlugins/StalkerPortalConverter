@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Изберете го саканиот излезен формат: M3U или ТВ-букет\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Изберете го саканиот излезен формат: M3U или ТВ-букет\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- Отворете датотека со URL-адреси на серверот или притиснете го СИНО копче за да ги уредите домаќинот и MAC адресата\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- Отворете датотека со URL-адреси на серверот или притиснете го СИНО копче за да ги уредите домаќинот и MAC адресата\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Притиснете CONVERT за да ја генерирате плејлистата"
@@ -186,8 +186,8 @@ msgstr "Не успеа да се вчитаат информациите за �
 msgid "Failed to obtain token!"
 msgstr "Не успеа да се добие токен!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "Не успеа да се прочита конфигурацијата на порталот или MAC:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "Не успеа да се прочита конфигурацијата на порталот или MAC:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Не успеа да се врати списокот со канали"
@@ -198,8 +198,8 @@ msgstr "Полињата се исчистени"
 msgid "Grouping: {}"
 msgstr "Групирање: {}"
 
-msgid "HELP:\n"
-msgstr "ПОМОШ:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "ПОМОШ:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Ракувањето не успеа: HTTP {}"

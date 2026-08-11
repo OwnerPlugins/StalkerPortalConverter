@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Causissètz lo format de sortida desirat : M3U o TV bouquet\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Causissètz lo format de sortida desirat : M3U o TV bouquet\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- Dobrir un fichièr amb d'URL del servidor o picar lo boton BLAU per modificar l'òste e l'adreça MAC\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- Dobrir un fichièr amb d'URL del servidor o picar lo boton BLAU per modificar l'òste e l'adreça MAC\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Quichatz CONVERT per generar la lista de lectura"
@@ -186,8 +186,8 @@ msgstr "Fracàs al moment de cargar las informacions del compte"
 msgid "Failed to obtain token!"
 msgstr "Fracàs a l'obtencion del geton!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "Fracàs a la lectura de la configuracion del portal o MAC:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "Fracàs a la lectura de la configuracion del portal o MAC:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Fracàs de recuperacion de la lista de canals"
@@ -198,8 +198,8 @@ msgstr "Los camps escafats"
 msgid "Grouping: {}"
 msgstr "Agropament : {}"
 
-msgid "HELP:\n"
-msgstr "AJUDA:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "AJUDA:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "La presa de man a fracassat : HTTP {}"

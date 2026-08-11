@@ -9,10 +9,10 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Islenýän çykyş formatyny saýlaň: M3U ýa-da telewizor buketi \ n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Islenýän çykyş formatyny saýlaň: M3U ýa-da telewizor buketi \\\\\\\\ n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
 msgstr "- Serwer URL-leri bilen bir faýl açyň ýa-da öý eýesini we MAC salgysyny redaktirlemek üçin BLUE düwmesini basyň"
 
 msgid "- Press CONVERT to generate the playlist"
@@ -186,8 +186,8 @@ msgstr "Hasap maglumatlary ýüklenmedi"
 msgid "Failed to obtain token!"
 msgstr "Tokeni alyp bilmedi!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "Portal ýa-da MAC konfigurasiýasyny okap bilmedi: \ n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "Portal ýa-da MAC konfigurasiýasyny okap bilmedi: \\\\\\\\ n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Kanal sanawyny alyp bilmedi"
@@ -198,8 +198,8 @@ msgstr "Meýdanlar arassalandy"
 msgid "Grouping: {}"
 msgstr "Toparlamak: {}"
 
-msgid "HELP:\n"
-msgstr "Kömek: \ n"
+msgid "HELP:\\\\\\\\n"
+msgstr "Kömek: \\\\\\\\ n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "El çarpmak şowsuz: HTTP {}"

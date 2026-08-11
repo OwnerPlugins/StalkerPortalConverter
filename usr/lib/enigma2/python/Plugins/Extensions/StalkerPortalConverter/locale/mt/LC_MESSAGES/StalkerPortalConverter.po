@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Agħżel il-format tal-output mixtieq: M3U jew bukkett tat-TV\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Agħżel il-format tal-output mixtieq: M3U jew bukkett tat-TV\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- Iftaħ fajl bl-URLs tas-server jew agħfas il-buttuna BLU biex teditja l-host u l-indirizz MAC\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- Iftaħ fajl bl-URLs tas-server jew agħfas il-buttuna BLU biex teditja l-host u l-indirizz MAC\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Agħfas Ikkonverti biex tiġġenera l-playlist"
@@ -186,8 +186,8 @@ msgstr "Naqas milli tgħabbi l-informazzjoni tal-kont"
 msgid "Failed to obtain token!"
 msgstr "Naqas milli jikseb token!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "Naqset milli taqra l-konfigurazzjoni tal-portal jew tal-MAC:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "Naqset milli taqra l-konfigurazzjoni tal-portal jew tal-MAC:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Naqas milli tiġi rkuprata l-lista tal-kanali"
@@ -198,8 +198,8 @@ msgstr "Oqsma mneħħija"
 msgid "Grouping: {}"
 msgstr "Raggruppament: {}"
 
-msgid "HELP:\n"
-msgstr "GĦAJNUNA:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "GĦAJNUNA:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Handshake falliet: HTTP {}"

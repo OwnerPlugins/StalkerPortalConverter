@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Dewiswch y fformat allbwn a ddymunir: M3U neu dusw teledu\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Dewiswch y fformat allbwn a ddymunir: M3U neu dusw teledu\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- Agorwch ffeil gyda URLs gweinydd neu pwyswch y botwm BLUE i olygu'r gwesteiwr a'r cyfeiriad MAC\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- Agorwch ffeil gyda URLs gweinydd neu pwyswch y botwm BLUE i olygu'r gwesteiwr a'r cyfeiriad MAC\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Pwyswch CONVERT i gynhyrchu'r rhestr chwarae"
@@ -186,8 +186,8 @@ msgstr "Wedi methu llwytho gwybodaeth cyfrif"
 msgid "Failed to obtain token!"
 msgstr "Wedi methu cael tocyn!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "Wedi methu darllen ffurfweddiad porth neu MAC:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "Wedi methu darllen ffurfweddiad porth neu MAC:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Wedi methu ag adalw rhestr sianeli"
@@ -198,7 +198,7 @@ msgstr "Caeau wedi'u clirio"
 msgid "Grouping: {}"
 msgstr "Grwpio: {}"
 
-msgid "HELP:\n"
+msgid "HELP:\\\\\\\\n"
 msgstr ""
 
 msgid "Handshake failed: HTTP {}"

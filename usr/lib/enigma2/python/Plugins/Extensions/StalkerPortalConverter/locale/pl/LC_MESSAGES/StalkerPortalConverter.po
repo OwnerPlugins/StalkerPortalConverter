@@ -16,11 +16,11 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Wybierz żądany format wyjściowy: M3U lub bukiet telewizyjny\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Wybierz żądany format wyjściowy: M3U lub bukiet telewizyjny\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- Otwórz plik z adresami URL serwera lub naciśnij NIEBIESKI przycisk, aby edytować adres hosta i MAC\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- Otwórz plik z adresami URL serwera lub naciśnij NIEBIESKI przycisk, aby edytować adres hosta i MAC\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Naciśnij CONVERT, aby wygenerować listę odtwarzania"
@@ -193,8 +193,8 @@ msgstr "Nie udało się załadować informacji o koncie"
 msgid "Failed to obtain token!"
 msgstr "Nie udało się uzyskać tokena!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "Nie udało się odczytać konfiguracji portalu lub MAC:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "Nie udało się odczytać konfiguracji portalu lub MAC:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Nie udało się pobrać listy kanałów"
@@ -205,8 +205,8 @@ msgstr "Pola wyczyszczone"
 msgid "Grouping: {}"
 msgstr "Grupowanie: {}"
 
-msgid "HELP:\n"
-msgstr "POMOC:\n"
+msgid "HELP:\\\\\\\\n"
+msgstr "POMOC:\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Uzgadnianie nie powiodło się: HTTP {}"

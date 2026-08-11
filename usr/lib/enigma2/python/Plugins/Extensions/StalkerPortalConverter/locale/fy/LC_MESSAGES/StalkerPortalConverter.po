@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\n"
-msgstr "- Kies it winske útfierformaat: M3U of TV-boeket\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgstr "- Kies it winske útfierformaat: M3U of TV-boeket\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\n"
-msgstr "- Iepenje in bestân mei server-URL's of druk op de BLAUWE knop om de host en MAC-adres te bewurkjen\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
+msgstr "- Iepenje in bestân mei server-URL's of druk op de BLAUWE knop om de host en MAC-adres te bewurkjen\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Druk op CONVERT om de playlist te generearjen"
@@ -186,8 +186,8 @@ msgstr "It laden fan akkountynformaasje mislearre"
 msgid "Failed to obtain token!"
 msgstr "It krijen fan token is net slagge!"
 
-msgid "Failed to read portal or MAC configuration:\n"
-msgstr "It lêzen fan portal of MAC-konfiguraasje mislearre:\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgstr "It lêzen fan portal of MAC-konfiguraasje mislearre:\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "It opheljen fan kanaallist is mislearre"
@@ -198,7 +198,7 @@ msgstr "Fjilden opromme"
 msgid "Grouping: {}"
 msgstr "Groepearje: {}"
 
-msgid "HELP:\n"
+msgid "HELP:\\\\\\\\n"
 msgstr ""
 
 msgid "Handshake failed: HTTP {}"
