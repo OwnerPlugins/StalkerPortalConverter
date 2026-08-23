@@ -10,11 +10,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- Valitse haluamasi lähtömuoto: M3U tai TV bouquet\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Valitse haluamasi lähtömuoto: M3U tai TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- Avaa tiedosto palvelimen URL-osoitteilla tai paina SINISTÄ painiketta muokataksesi isäntä- ja MAC-osoitetta\\\\\\\\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Avaa tiedosto palvelimen URL-osoitteilla tai paina SINISTÄ painiketta muokataksesi isäntä- ja MAC-osoitetta\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Luo soittolista painamalla CONVERT"
@@ -187,8 +187,8 @@ msgstr "Tilitietojen lataaminen epäonnistui"
 msgid "Failed to obtain token!"
 msgstr "Tunnuksen saaminen epäonnistui!"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "Portaalin tai MAC-määrityksen lukeminen epäonnistui:\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "Portaalin tai MAC-määrityksen lukeminen epäonnistui:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Kanavaluettelon hakeminen epäonnistui"
@@ -199,8 +199,8 @@ msgstr "Kentät tyhjennetty"
 msgid "Grouping: {}"
 msgstr "Ryhmittely: {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "APUA:\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "APUA:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Kättely epäonnistui: HTTP {}"

@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- 選擇所需的輸出格式：M3U 或 TV bouquet\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- 選擇所需的輸出格式：M3U 或 TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- 開啟包含伺服器 URL 的檔案或按藍色按鈕編輯主機和 MAC 位址\\\\\\\\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- 開啟包含伺服器 URL 的檔案或按藍色按鈕編輯主機和 MAC 位址\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- 按 CONVERT 產生播放列表"
@@ -186,8 +186,8 @@ msgstr "無法載入帳戶訊息"
 msgid "Failed to obtain token!"
 msgstr "取得token失敗！"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "無法讀取入口網站或 MAC 設定:\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "無法讀取入口網站或 MAC 設定:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "檢索頻道清單失敗"
@@ -198,8 +198,8 @@ msgstr "字段已清除"
 msgid "Grouping: {}"
 msgstr "分組：{}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "幫助:\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "幫助:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "握手失敗：HTTP {}"

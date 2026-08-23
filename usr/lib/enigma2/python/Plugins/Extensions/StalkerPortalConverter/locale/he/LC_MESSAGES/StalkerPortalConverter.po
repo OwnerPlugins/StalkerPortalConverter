@@ -10,11 +10,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- בחר את פורמט הפלט הרצוי: M3U או זר טלוויזיה\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- בחר את פורמט הפלט הרצוי: M3U או זר טלוויזיה\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- פתח קובץ עם כתובות אתרים של שרת או לחץ על הלחצן הכחול כדי לערוך את המארח ואת כתובת ה-MAC\\\\\\\\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- פתח קובץ עם כתובות אתרים של שרת או לחץ על הלחצן הכחול כדי לערוך את המארח ואת כתובת ה-MAC\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- לחץ על המר כדי ליצור את רשימת ההשמעה"
@@ -187,8 +187,8 @@ msgstr "טעינת פרטי החשבון נכשלה"
 msgid "Failed to obtain token!"
 msgstr "השגת אסימון נכשלה!"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "קריאת תצורת הפורטל או ה-MAC נכשלה:\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "קריאת תצורת הפורטל או ה-MAC נכשלה:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "אחזור רשימת הערוצים נכשל"
@@ -199,8 +199,8 @@ msgstr "שדות נוקו"
 msgid "Grouping: {}"
 msgstr "קיבוץ: {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "עזרה:\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "עזרה:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "לחיצת היד נכשלה: HTTP {}"

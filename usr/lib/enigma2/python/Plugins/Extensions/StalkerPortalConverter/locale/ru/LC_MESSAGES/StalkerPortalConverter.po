@@ -16,11 +16,13 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SearchPath-0: plugin.py\n"
 
+#, fuzzy
 msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- Выберите желаемый выходной формат: M3U или TV-букет\\\\\\\\n"
+msgstr "- Выберите желаемый выходной формат: M3U или TV-букет\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- Откройте файл с URL-адресами серверов или нажмите СИНЮЮ кнопку, чтобы изменить хост и MAC-адрес.\\\\\\\\n"
+msgstr "- Откройте файл с URL-адресами серверов или нажмите СИНЮЮ кнопку, чтобы изменить хост и MAC-адрес.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Нажмите CONVERT, чтобы создать плейлист."
@@ -207,8 +209,9 @@ msgstr "Не удалось загрузить информацию об акк�
 msgid "Failed to obtain token!"
 msgstr "Не удалось получить токен!"
 
+#, fuzzy
 msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "Не удалось прочитать конфигурацию портала или MAC:\\\\\\\\n"
+msgstr "Не удалось прочитать конфигурацию портала или MAC:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Не удалось получить список каналов."
@@ -219,8 +222,9 @@ msgstr "Поля очищены"
 msgid "Grouping: {}"
 msgstr "Группировка: {}"
 
+#, fuzzy
 msgid "HELP:\\\\\\\\n"
-msgstr "ПОМОЩЬ:\\\\\\\\n"
+msgstr "ПОМОЩЬ:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 #, fuzzy
 msgid "Handshake failed: HTTP {}"

@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- Формати баромади дилхоҳро интихоб кунед: M3U ё гулдастаи ТВ\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Формати баромади дилхоҳро интихоб кунед: M3U ё гулдастаи ТВ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- Барои таҳрир кардани мизбон ва суроғаи MAC файлро бо URL-ҳои сервер кушоед ё тугмаи КАБУД-ро пахш кунед\\\\\\\\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Барои таҳрир кардани мизбон ва суроғаи MAC файлро бо URL-ҳои сервер кушоед ё тугмаи КАБУД-ро пахш кунед\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Барои тавлиди рӯйхати навозиш CONVERT -ро пахш кунед"
@@ -186,8 +186,8 @@ msgstr "Маълумоти ҳисобро бор карда натавонист
 msgid "Failed to obtain token!"
 msgstr "Токен ба даст оварда нашуд!"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "Портал ё конфигуратсияи MAC-ро хонда натавонист:\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "Портал ё конфигуратсияи MAC-ро хонда натавонист:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Ҷустуҷӯи рӯйхати каналҳо муваффақ нашуд"
@@ -198,8 +198,8 @@ msgstr "Майдонҳо тоза карда шуданд"
 msgid "Grouping: {}"
 msgstr "Гурӯҳбандӣ: {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "Кӯмак:\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "Кӯмак:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Мубодилаи дастфишорӣ ноком шуд: HTTP {}"

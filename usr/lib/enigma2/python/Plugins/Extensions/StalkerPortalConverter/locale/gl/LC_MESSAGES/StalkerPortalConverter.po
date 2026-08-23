@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- Escolla o formato de saída desexado: M3U ou TV bouquet\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Escolla o formato de saída desexado: M3U ou TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- Abre un ficheiro cos URL do servidor ou preme o botón AZUL para editar o host e o enderezo MAC\\\\\\\\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Abre un ficheiro cos URL do servidor ou preme o botón AZUL para editar o host e o enderezo MAC\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Preme CONVERT para xerar a lista de reprodución"
@@ -186,8 +186,8 @@ msgstr "Produciuse un erro ao cargar a información da conta"
 msgid "Failed to obtain token!"
 msgstr "Non se puido obter o token!"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "Produciuse un erro ao ler a configuración do portal ou MAC:\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "Produciuse un erro ao ler a configuración do portal ou MAC:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Produciuse un erro ao recuperar a lista de canles"
@@ -198,8 +198,8 @@ msgstr "Campos despexados"
 msgid "Grouping: {}"
 msgstr "Agrupación: {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "AXUDA:\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "AXUDA:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Fallou o apretón de mans: HTTP {}"

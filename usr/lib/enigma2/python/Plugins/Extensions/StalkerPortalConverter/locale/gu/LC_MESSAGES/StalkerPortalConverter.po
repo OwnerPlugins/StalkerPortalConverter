@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- ઇચ્છિત આઉટપુટ ફોર્મેટ પસંદ કરો: M3U અથવા TV bouquet\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- ઇચ્છિત આઉટપુટ ફોર્મેટ પસંદ કરો: M3U અથવા TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- સર્વર URL સાથે ફાઇલ ખોલો અથવા હોસ્ટ અને MAC સરનામું સંપાદિત કરવા માટે BLUE બટન દબાવો\\\\\\\\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- સર્વર URL સાથે ફાઇલ ખોલો અથવા હોસ્ટ અને MAC સરનામું સંપાદિત કરવા માટે BLUE બટન દબાવો\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- પ્લેલિસ્ટ જનરેટ કરવા માટે કન્વર્ટ દબાવો"
@@ -186,8 +186,8 @@ msgstr "એકાઉન્ટ માહિતી લોડ કરવામાં
 msgid "Failed to obtain token!"
 msgstr "ટોકન મેળવવામાં નિષ્ફળ!"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "પોર્ટલ અથવા MAC ગોઠવણી વાંચવામાં નિષ્ફળ:\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "પોર્ટલ અથવા MAC ગોઠવણી વાંચવામાં નિષ્ફળ:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "ચેનલ સૂચિ પુનઃપ્રાપ્ત કરવામાં નિષ્ફળ"
@@ -198,8 +198,8 @@ msgstr "ક્ષેત્રો સાફ"
 msgid "Grouping: {}"
 msgstr "જૂથીકરણ: {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "મદદ:\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "મદદ:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "હેન્ડશેક નિષ્ફળ: HTTP {}"

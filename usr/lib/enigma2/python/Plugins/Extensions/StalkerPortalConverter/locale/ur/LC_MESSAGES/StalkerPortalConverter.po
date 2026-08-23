@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- مطلوبہ آؤٹ پٹ فارمیٹ منتخب کریں: M3U یا TV بکی\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- مطلوبہ آؤٹ پٹ فارمیٹ منتخب کریں: M3U یا TV بکی\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- سرور یو آر ایل کے ساتھ فائل کھولیں یا میزبان اور میک ایڈریس میں ترمیم کرنے کے لیے بلیو بٹن دبائیں\\\\\\\\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- سرور یو آر ایل کے ساتھ فائل کھولیں یا میزبان اور میک ایڈریس میں ترمیم کرنے کے لیے بلیو بٹن دبائیں\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- پلے لسٹ بنانے کے لیے کنورٹ دبائیں۔"
@@ -186,8 +186,8 @@ msgstr "اکاؤنٹ کی معلومات لوڈ کرنے میں ناکام"
 msgid "Failed to obtain token!"
 msgstr "ٹوکن حاصل کرنے میں ناکام!"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "پورٹل یا MAC کنفیگریشن پڑھنے میں ناکام:\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "پورٹل یا MAC کنفیگریشن پڑھنے میں ناکام:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "چینل کی فہرست بازیافت کرنے میں ناکام"
@@ -198,8 +198,8 @@ msgstr "کھیتوں کو صاف کر دیا گیا۔"
 msgid "Grouping: {}"
 msgstr "گروپ بندی: {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "مدد:\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "مدد:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "مصافحہ ناکام: HTTP {}"

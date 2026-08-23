@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- အလိုရှိသော အထွက်ဖော်မတ်- M3U သို့မဟုတ် TV bouquet\\\\\\\\n ကို ရွေးပါ။"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- အလိုရှိသော အထွက်ဖော်မတ်- M3U သို့မဟုတ် TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n ကို ရွေးပါ။"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- ဆာဗာ URL များဖြင့် ဖိုင်ကိုဖွင့်ပါ သို့မဟုတ် လက်ခံဆောင်ရွက်ပေးသူနှင့် MAC လိပ်စာ\\\\\\\\nကိုတည်းဖြတ်ရန် အပြာရောင်ခလုတ်ကို နှိပ်ပါ။"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- ဆာဗာ URL များဖြင့် ဖိုင်ကိုဖွင့်ပါ သို့မဟုတ် လက်ခံဆောင်ရွက်ပေးသူနှင့် MAC လိပ်စာ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\nကိုတည်းဖြတ်ရန် အပြာရောင်ခလုတ်ကို နှိပ်ပါ။"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- အစီအစဉ်ကိုထုတ်လုပ်ရန် CONVERT ကိုနှိပ်ပါ။"
@@ -186,8 +186,8 @@ msgstr "အကောင့်အချက်အလက်ကို တင်ရ�
 msgid "Failed to obtain token!"
 msgstr "တိုကင်ရယူရန် မအောင်မြင်ပါ။"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "ပေါ်တယ် သို့မဟုတ် MAC ဖွဲ့စည်းမှုပုံစံကို ဖတ်ရန် မအောင်မြင်ပါ-\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "ပေါ်တယ် သို့မဟုတ် MAC ဖွဲ့စည်းမှုပုံစံကို ဖတ်ရန် မအောင်မြင်ပါ-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "ချန်နယ်စာရင်းကို ထုတ်ယူ၍မရပါ။"
@@ -198,8 +198,8 @@ msgstr "အကွက်များကို ရှင်းလင်းထာ�
 msgid "Grouping: {}"
 msgstr "အုပ်စုဖွဲ့ခြင်း- {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "အကူအညီ-\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "အကူအညီ-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "လက်ဆွဲနှုတ်ဆက်ခြင်း မအောင်မြင်ပါ- HTTP {}"

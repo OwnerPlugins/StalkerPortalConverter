@@ -10,11 +10,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- Choisissez le format de sortie souhaité : M3U ou bouquet TV\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Choisissez le format de sortie souhaité : M3U ou bouquet TV\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- Ouvrez un fichier avec les URL du serveur ou appuyez sur le bouton BLEU pour modifier l'hôte et l'adresse MAC\\\\\\\\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Ouvrez un fichier avec les URL du serveur ou appuyez sur le bouton BLEU pour modifier l'hôte et l'adresse MAC\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Appuyez sur CONVERT pour générer la playlist"
@@ -187,8 +187,8 @@ msgstr "Échec du chargement des informations sur le compte"
 msgid "Failed to obtain token!"
 msgstr "Échec de l'obtention du jeton !"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "Échec de la lecture du portail ou de la configuration MAC :\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "Échec de la lecture du portail ou de la configuration MAC :\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Échec de la récupération de la liste des chaînes"
@@ -199,8 +199,8 @@ msgstr "Champs dégagés"
 msgid "Grouping: {}"
 msgstr "Regroupement : {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "AIDE :\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "AIDE :\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Échec de la négociation : HTTP {}"

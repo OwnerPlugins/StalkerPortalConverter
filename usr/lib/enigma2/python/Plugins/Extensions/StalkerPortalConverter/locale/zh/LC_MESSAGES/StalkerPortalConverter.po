@@ -279,7 +279,7 @@ msgid "Error accessing configuration values"
 msgstr ""
 
 #: plugin.py:1165
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 msgstr ""
 
 #: plugin.py:1174
@@ -318,7 +318,7 @@ msgstr "加载图库时出错："
 #, fuzzy
 #| msgid "Error during capture:\n"
 msgid "Conversion stopped during channel retrieval"
-msgstr "解压缩固件时出错:\\\\\\\\n"
+msgstr "解压缩固件时出错:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 #: plugin.py:1229
 msgid "Failed to retrieve channel list"
@@ -340,7 +340,7 @@ msgstr "加载图库时出错："
 #, fuzzy
 #| msgid "Error during capture:\n"
 msgid "Conversion stopped during M3U creation"
-msgstr "解压缩固件时出错:\\\\\\\\n"
+msgstr "解压缩固件时出错:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 #: plugin.py:1265 plugin.py:1328
 msgid "Step 4/4: Getting VOD content..."
@@ -524,13 +524,13 @@ msgstr ""
 #, python-format
 
 #: plugin.py:2324
-msgid "HELP:\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 msgstr ""
 
 #: plugin.py:2325
 
 #: plugin.py:2326
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 msgstr ""
 
 #: plugin.py:2327

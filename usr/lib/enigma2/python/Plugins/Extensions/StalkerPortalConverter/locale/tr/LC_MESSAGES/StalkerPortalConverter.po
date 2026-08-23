@@ -12,11 +12,13 @@ msgstr ""
 "X-Generator: Poedit 2.2.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#, fuzzy
 msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- İstenen çıktı formatını seçin: M3U veya TV buketi\\\\\\\\n"
+msgstr "- İstenen çıktı formatını seçin: M3U veya TV buketi\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- Sunucu URL'lerini içeren bir dosya açın veya ana bilgisayarı ve MAC adresini düzenlemek için MAVİ düğmeye basın\\\\\\\\n"
+msgstr "- Sunucu URL'lerini içeren bir dosya açın veya ana bilgisayarı ve MAC adresini düzenlemek için MAVİ düğmeye basın\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Oynatma listesini oluşturmak için DÖNÜŞTÜR’e basın"
@@ -189,8 +191,9 @@ msgstr "Hesap bilgileri yüklenemedi"
 msgid "Failed to obtain token!"
 msgstr "Token alınamadı!"
 
+#, fuzzy
 msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "Portal veya MAC yapılandırması okunamadı:\\\\\\\\n"
+msgstr "Portal veya MAC yapılandırması okunamadı:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Kanal listesi alınamadı"
@@ -201,8 +204,9 @@ msgstr "Alanlar temizlendi"
 msgid "Grouping: {}"
 msgstr "Gruplama: {}"
 
+#, fuzzy
 msgid "HELP:\\\\\\\\n"
-msgstr "YARDIM:\\\\\\\\n"
+msgstr "YARDIM:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "El sıkışma başarısız: HTTP {}"

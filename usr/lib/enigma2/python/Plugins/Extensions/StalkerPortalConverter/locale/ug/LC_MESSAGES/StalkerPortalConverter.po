@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- لازىملىق چىقىرىش فورماتىنى تاللاڭ: M3U ياكى تېلېۋىزور گۈللۈكى \\\\\\\\ n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- لازىملىق چىقىرىش فورماتىنى تاللاڭ: M3U ياكى تېلېۋىزور گۈللۈكى \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- مۇلازىمېتىر URL لىرى بار ھۆججەتنى ئېچىڭ ياكى BLUE كۇنۇپكىسىنى بېسىپ باش ئاپپارات ۋە MAC ئادرېسىنى تەھرىرلەڭ \\\\\\\\ n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- مۇلازىمېتىر URL لىرى بار ھۆججەتنى ئېچىڭ ياكى BLUE كۇنۇپكىسىنى بېسىپ باش ئاپپارات ۋە MAC ئادرېسىنى تەھرىرلەڭ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- CONVERT كۇنۇپكىسىنى بېسىپ قويۇش تىزىملىكى ھاسىل قىلىڭ"
@@ -186,8 +186,8 @@ msgstr "ھېسابات ئۇچۇرلىرىنى يۈكلىيەلمىدى"
 msgid "Failed to obtain token!"
 msgstr "بەلگە ئالالمىدى!"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "ئېغىز ياكى MAC سەپلىمىسىنى ئوقۇيالمىدى: \\\\\\\\ n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "ئېغىز ياكى MAC سەپلىمىسىنى ئوقۇيالمىدى: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ n"
 
 msgid "Failed to retrieve channel list"
 msgstr "قانال تىزىملىكىنى ئەسلىگە كەلتۈرەلمىدى"
@@ -198,8 +198,8 @@ msgstr "مەيدانلار تازىلاندى"
 msgid "Grouping: {}"
 msgstr "گۇرۇپپىلاش: {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "ياردەم: \\\\\\\\ n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "ياردەم: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "قول ئېلىشىش مەغلۇب بولدى: HTTP {}"

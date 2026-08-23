@@ -10,11 +10,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- Абярыце жаданы фармат вываду: M3U або TV bouquet\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Абярыце жаданы фармат вываду: M3U або TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- Адкрыйце файл з URL-адрасамі сервера або націсніце СІНЮЮ кнопку, каб адрэдагаваць хост і MAC-адрас\\\\\\\\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Адкрыйце файл з URL-адрасамі сервера або націсніце СІНЮЮ кнопку, каб адрэдагаваць хост і MAC-адрас\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Націсніце CONVERT, каб стварыць спіс прайгравання"
@@ -187,8 +187,8 @@ msgstr "Не ўдалося загрузіць інфармацыю аб улі�
 msgid "Failed to obtain token!"
 msgstr "Не ўдалося атрымаць маркер!"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "Не ўдалося прачытаць партал або канфігурацыю MAC:\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "Не ўдалося прачытаць партал або канфігурацыю MAC:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Не ўдалося атрымаць спіс каналаў"
@@ -199,8 +199,8 @@ msgstr "Палі ўбраны"
 msgid "Grouping: {}"
 msgstr "Групоўка: {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "ДАПАМОГА:\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "ДАПАМОГА:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Памылка рукапаціскання: HTTP {}"

@@ -10,11 +10,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- Chọn định dạng đầu ra mong muốn: M3U hoặc bó TV\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Chọn định dạng đầu ra mong muốn: M3U hoặc bó TV\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- Mở tệp có URL máy chủ hoặc nhấn nút BLUE để chỉnh sửa máy chủ và địa chỉ MAC\\\\\\\\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Mở tệp có URL máy chủ hoặc nhấn nút BLUE để chỉnh sửa máy chủ và địa chỉ MAC\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Nhấn CONVERT để tạo danh sách phát"
@@ -187,8 +187,8 @@ msgstr "Không tải được thông tin tài khoản"
 msgid "Failed to obtain token!"
 msgstr "Không nhận được mã thông báo!"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "Không đọc được cấu hình cổng hoặc MAC:\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "Không đọc được cấu hình cổng hoặc MAC:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Không truy xuất được danh sách kênh"
@@ -199,8 +199,8 @@ msgstr "Các trường đã bị xóa"
 msgid "Grouping: {}"
 msgstr "Nhóm: {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "GIÚP ĐỠ:\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "GIÚP ĐỠ:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Bắt tay không thành công: HTTP {}"

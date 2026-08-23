@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- Odaberite željeni izlazni format: M3U ili TV buket\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Odaberite željeni izlazni format: M3U ili TV buket\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- Otvorite fajl sa URL-ovima servera ili pritisnite PLAVO dugme da uredite host i MAC adresu\\\\\\\\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Otvorite fajl sa URL-ovima servera ili pritisnite PLAVO dugme da uredite host i MAC adresu\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Pritisnite CONVERT da generišete listu pesama"
@@ -186,8 +186,8 @@ msgstr "Učitavanje informacija o računu nije uspjelo"
 msgid "Failed to obtain token!"
 msgstr "Nije uspjelo preuzimanje tokena!"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "Čitanje portala ili MAC konfiguracije nije uspjelo:\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "Čitanje portala ili MAC konfiguracije nije uspjelo:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Nije uspjelo preuzimanje liste kanala"
@@ -198,8 +198,8 @@ msgstr "Polja očišćena"
 msgid "Grouping: {}"
 msgstr "Grupiranje: {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "POMOĆ:\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "POMOĆ:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Rukovanje nije uspjelo: HTTP {}"

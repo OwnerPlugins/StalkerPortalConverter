@@ -10,11 +10,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- Velg ønsket utgangsformat: M3U eller TV-bukett\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Velg ønsket utgangsformat: M3U eller TV-bukett\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- Åpne en fil med server-URLer eller trykk på den BLÅ knappen for å redigere verten og MAC-adressen\\\\\\\\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- Åpne en fil med server-URLer eller trykk på den BLÅ knappen for å redigere verten og MAC-adressen\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Trykk KONVERTER for å generere spillelisten"
@@ -187,8 +187,8 @@ msgstr "Kunne ikke laste inn kontoinformasjon"
 msgid "Failed to obtain token!"
 msgstr "Kunne ikke skaffe token!"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "Kunne ikke lese portal- eller MAC-konfigurasjon:\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "Kunne ikke lese portal- eller MAC-konfigurasjon:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Kunne ikke hente kanallisten"
@@ -199,8 +199,8 @@ msgstr "Felter ryddet"
 msgid "Grouping: {}"
 msgstr "Gruppering: {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "HJELP:\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "HJELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Håndtrykk mislyktes: HTTP {}"

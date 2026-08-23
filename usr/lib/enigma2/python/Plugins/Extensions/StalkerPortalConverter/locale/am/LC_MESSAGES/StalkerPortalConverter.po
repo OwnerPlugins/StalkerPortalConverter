@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- የሚፈለገውን የውጤት ቅርጸት ይምረጡ፡ M3U ወይም TV bouquet\\\\\\\\n"
+msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- የሚፈለገውን የውጤት ቅርጸት ይምረጡ፡ M3U ወይም TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
-msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- ፋይል ከአገልጋይ URLs ጋር ይክፈቱ ወይም አስተናጋጁን እና የማክ አድራሻውን ለማርትዕ ሰማያዊውን ይጫኑ\\\\\\\\n"
+msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "- ፋይል ከአገልጋይ URLs ጋር ይክፈቱ ወይም አስተናጋጁን እና የማክ አድራሻውን ለማርትዕ ሰማያዊውን ይጫኑ\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- አጫዋች ዝርዝሩን ለመፍጠር CONVERTን ይጫኑ"
@@ -186,8 +186,8 @@ msgstr "የመለያ መረጃን መጫን አልተሳካም።"
 msgid "Failed to obtain token!"
 msgstr "ማስመሰያ ማግኘት አልተሳካም!"
 
-msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "ፖርታልን ወይም MAC ውቅረትን ማንበብ አልተሳካም፦\\\\\\\\n"
+msgid "Failed to read portal or MAC configuration:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "ፖርታልን ወይም MAC ውቅረትን ማንበብ አልተሳካም፦\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "የሰርጥ ዝርዝርን ሰርስሮ ማውጣት አልተሳካም።"
@@ -198,8 +198,8 @@ msgstr "መስኮች ጸድተዋል።"
 msgid "Grouping: {}"
 msgstr "መቧደን፡ {}"
 
-msgid "HELP:\\\\\\\\n"
-msgstr "እገዛ፡\\\\\\\\n"
+msgid "HELP:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+msgstr "እገዛ፡\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "መጨባበጥ አልተሳካም፡ HTTP {}"

@@ -16,11 +16,13 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 
+#, fuzzy
 msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- Scegli il formato di output desiderato: M3U o TV bouquet\\\\\\\\n"
+msgstr "- Scegli il formato di output desiderato: M3U o TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- Apri un file con gli URL del server o premi il pulsante BLU per modificare l'host e l'indirizzo MAC\\\\\\\\n"
+msgstr "- Apri un file con gli URL del server o premi il pulsante BLU per modificare l'host e l'indirizzo MAC\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Premere CONVERTI per generare la playlist"
@@ -207,8 +209,9 @@ msgstr "Impossibile caricare le informazioni dell'account"
 msgid "Failed to obtain token!"
 msgstr "Impossibile ottenere il token!"
 
+#, fuzzy
 msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "Impossibile leggere il portale o la configurazione MAC:\\\\\\\\n"
+msgstr "Impossibile leggere il portale o la configurazione MAC:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Impossibile recuperare l'elenco dei canali"
@@ -219,8 +222,9 @@ msgstr "Campi cancellati"
 msgid "Grouping: {}"
 msgstr "Raggruppamento: {}"
 
+#, fuzzy
 msgid "HELP:\\\\\\\\n"
-msgstr "AIUTO:\\\\\\\\n"
+msgstr "AIUTO:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Handshake failed: HTTP {}"
 msgstr "Handshake fallito: HTTP {}"

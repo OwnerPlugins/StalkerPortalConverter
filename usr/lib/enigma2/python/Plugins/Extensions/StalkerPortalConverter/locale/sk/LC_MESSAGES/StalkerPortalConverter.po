@@ -16,11 +16,13 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SearchPath-0: plugin.py\n"
 
+#, fuzzy
 msgid "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n"
-msgstr "- Vyberte požadovaný výstupný formát: M3U alebo TV bouquet\\\\\\\\n"
+msgstr "- Vyberte požadovaný výstupný formát: M3U alebo TV bouquet\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
+#, fuzzy
 msgid "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n"
-msgstr "- Otvorte súbor s adresami URL servera alebo stlačením MODRÉHO tlačidla upravte hostiteľa a adresu MAC\\\\\\\\n"
+msgstr "- Otvorte súbor s adresami URL servera alebo stlačením MODRÉHO tlačidla upravte hostiteľa a adresu MAC\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "- Press CONVERT to generate the playlist"
 msgstr "- Stlačením tlačidla KONVERTOVAŤ vygenerujete zoznam skladieb"
@@ -207,8 +209,9 @@ msgstr "Nepodarilo sa načítať informácie o účte"
 msgid "Failed to obtain token!"
 msgstr "Nepodarilo sa získať token!"
 
+#, fuzzy
 msgid "Failed to read portal or MAC configuration:\\\\\\\\n"
-msgstr "Nepodarilo sa načítať konfiguráciu portálu alebo MAC adresy:\\\\\\\\n"
+msgstr "Nepodarilo sa načítať konfiguráciu portálu alebo MAC adresy:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 msgid "Failed to retrieve channel list"
 msgstr "Nepodarilo sa načítať zoznam kanálov"
@@ -219,8 +222,9 @@ msgstr "Polia vymazané"
 msgid "Grouping: {}"
 msgstr "Zoskupenie: {}"
 
+#, fuzzy
 msgid "HELP:\\\\\\\\n"
-msgstr "POMOC:\\\\\\\\n"
+msgstr "POMOC:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
 
 #, fuzzy
 msgid "Handshake failed: HTTP {}"
