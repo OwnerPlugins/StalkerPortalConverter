@@ -30,7 +30,7 @@ __author__ = "Lululla"
 __email__ = "ekekaz@gmail.com"
 __copyright__ = 'Copyright (c) 2024 Lululla'
 __license__ = "GPL-v2"
-__version__ = "1.6"
+__version__ = "1.7"
 
 isDreambox = exists("/usr/bin/apt-get")
 
@@ -49,6 +49,9 @@ def check_and_install_requests():
 
 check_and_install_requests()
 
+# --- AGGIUNTA FONDAMENTALE PER RISOLVERE L'ERRORE ---
+import requests
+# ----------------------------------------------------
 
 PY3 = sys.version_info[0] >= 3
 if PY3:

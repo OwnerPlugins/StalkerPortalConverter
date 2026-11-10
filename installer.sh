@@ -1,7 +1,7 @@
 #!/bin/bash
 
-version='1.6'
-changelog='\nFix BA - outpout folder'
+version='1.7'
+changelog='\nFix init - decoration code'
 
 TMPPATH=/tmp/StalkerPortalConverter-install
 FILEPATH=/tmp/StalkerPortalConverter-main.tar.gz
