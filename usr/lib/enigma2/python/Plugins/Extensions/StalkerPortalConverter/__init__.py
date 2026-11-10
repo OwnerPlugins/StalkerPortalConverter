@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 from __future__ import absolute_import, print_function
+import requests
 from Components.Language import language
 from Tools.Directories import resolveFilename, SCOPE_PLUGINS
 from os.path import isdir, exists, dirname, join
@@ -50,7 +51,6 @@ def check_and_install_requests():
 check_and_install_requests()
 
 # --- AGGIUNTA FONDAMENTALE PER RISOLVERE L'ERRORE ---
-import requests
 # ----------------------------------------------------
 
 PY3 = sys.version_info[0] >= 3
