@@ -57,9 +57,6 @@ msgstr ""
 msgid "Connection error:"
 msgstr ""
 
-msgid "Conversion canceled before start"
-msgstr ""
-
 msgid "Conversion error:"
 msgstr ""
 
@@ -186,9 +183,6 @@ msgstr ""
 msgid "Fields cleared"
 msgstr ""
 
-msgid "Grouping: {}"
-msgstr ""
-
 msgid "HELP:\\n"
 msgstr ""
 
@@ -216,10 +210,10 @@ msgstr ""
 msgid "Invalid JSON response for channel list"
 msgstr ""
 
-msgid "Invalid MAC: {mac}"
+msgid "Invalid MAC:"
 msgstr ""
 
-msgid "Invalid URL: {portal}"
+msgid "Invalid URL:"
 msgstr ""
 
 msgid "Loaded playlist: %s"
@@ -229,6 +223,9 @@ msgid "Loaded {} valid entries from {}"
 msgstr ""
 
 msgid "Loading account info in background..."
+msgstr ""
+
+msgid "M3U created successfully"
 msgstr ""
 
 msgid "M3U created with {} channels"
@@ -286,9 +283,6 @@ msgid "Press 0: Show Access Code | Press 1: New Code"
 msgstr ""
 
 msgid "Ready - Select a file or enter URL/MAC"
-msgstr ""
-
-msgid "Scanning file... {}%"
 msgstr ""
 
 msgid "Select Bouquet Position"

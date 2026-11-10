@@ -12363,5 +12363,15 @@
   "77b8ce0d6cf91837ebd212a78777c7b5": "- Choose the desired output format: M3U or TV bouquet\\\\\\\\n",
   "e4263b47b18bfa362f3d626b7eaa0d33": "- Open a file with server URLs or press the BLUE button to edit the host and MAC address\\\\\\\\n",
   "8ff1c1de79d23e261c3a8227b9b3d855": "Failed to read portal or MAC configuration:\\\\\\\\n",
-  "4fe88e49a273d9095717d13365e100e8": "HELP:\\\\\\\\n"
+  "4fe88e49a273d9095717d13365e100e8": "HELP:\\\\\\\\n",
+  "b7ca206b48efb7f5d1655fd513c1191c": "تم إنشاء M3U بنجاح",
+  "b659181819c1581e88345615a5292aee": "M3U erfolgreich erstellt",
+  "b3c1d9824ffae0c2c9f2c17803e3dd4e": "Invalid MAC:",
+  "b1c943b63cde62c619f655ab5ccbfb11": "Invalid URL:",
+  "e46fec442a7cc1024ce286249f3c2c18": "M3U created successfully",
+  "42c0ddcf3d3501384cc7229045ba93b9": "M3U berhasil dibuat",
+  "90754efe2e4a1012a822bcb944bdaf34": "M3U creato con successo",
+  "f29662d5af906df391b73ed91476efe3": "Utworzono M3U pomyślnie",
+  "6f914baecc11e59c695f40206f02e7c5": "M3U успешно создан",
+  "a5c6ae855db3fd0c21155198648aa378": "M3U başarıyla oluşturuldu"
 }
