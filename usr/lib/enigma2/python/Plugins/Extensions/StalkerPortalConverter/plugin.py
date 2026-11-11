@@ -1,22 +1,5 @@
 # -*- coding: utf-8 -*-
 from __future__ import absolute_import, print_function
-from . import (
-    _, __version__, b64decoder, check_version,
-    fetch_system_timezone, get_mounted_devices,
-    has_enough_free_space, installer_url, Request,
-    requests, urlopen, cleanName,
-)
-from Tools.Directories import defaultRecordingLocation
-from Screens.VirtualKeyBoard import VirtualKeyBoard
-from Screens.Screen import Screen
-from Screens.MessageBox import MessageBox
-from Screens.Console import Console
-from Screens.ChoiceBox import ChoiceBox
-from Plugins.Plugin import PluginDescriptor
-from Components.config import config, configfile, ConfigSelection, ConfigSubsection, ConfigText, ConfigYesNo
-from Components.MenuList import MenuList
-from Components.Label import Label
-from Components.ActionMap import ActionMap
 
 import threading
 import time
@@ -48,6 +31,25 @@ import urllib3
 # Disabilita warning SSL per portali con certificati non validi
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
+from Components.ActionMap import ActionMap
+from Components.Label import Label
+from Components.MenuList import MenuList
+from Components.config import config, configfile, ConfigSelection, ConfigSubsection, ConfigText, ConfigYesNo
+
+from Plugins.Plugin import PluginDescriptor
+
+from Screens.ChoiceBox import ChoiceBox
+from Screens.Console import Console
+from Screens.MessageBox import MessageBox
+from Screens.Screen import Screen
+from Screens.VirtualKeyBoard import VirtualKeyBoard
+from Tools.Directories import defaultRecordingLocation
+from . import (
+    _, __version__, b64decoder, check_version,
+    fetch_system_timezone, get_mounted_devices,
+    has_enough_free_space, installer_url, Request,
+    requests, urlopen, cleanName,
+)
 
 """
 #########################################################
@@ -96,8 +98,6 @@ __author__ = "Lululla"
 # http://server2.com/c/ # Uses same MAC as server1
 # 00:1A:79:XX:XX:XX
 """
-
-
 def defaultMoviePath():
     result = config.usage.default_path.value
     if not result.endswith("/"):
@@ -151,10 +151,7 @@ def reload_services():
     eDVBDB.getInstance().reloadBouquets()
 
 
-for path in [
-    "/tmp/account_debug.log",
-    "/tmp/stalker_convert_info.log",
-        "/tmp/stalker_convert.log"]:
+for path in ["/tmp/account_debug.log", "/tmp/stalker_convert_info.log", "/tmp/stalker_convert.log"]:
     if exists(path):
         try:
             remove(path)
@@ -246,21 +243,16 @@ class StalkerPortalConverter(Screen):
         self.get_output_filename = self._get_output_filename
         self.update_flag_file = "/tmp/stalker_update_flag"
 
-        self["title"] = Label(
-            _("Stalker Portal to M3U Converter v.%s") %
-            __version__)
+        self["title"] = Label(_("Stalker Portal to M3U Converter v.%s") % __version__)
         self["portal_label"] = Label(_("Portal URL:"))
-        self["portal_input"] = Label(
-            config.plugins.stalkerportal.portal_url.value)
+        self["portal_input"] = Label(config.plugins.stalkerportal.portal_url.value)
         self["mac_label"] = Label(_("MAC Address:"))
-        self["mac_input"] = Label(
-            config.plugins.stalkerportal.mac_address.value)
+        self["mac_input"] = Label(config.plugins.stalkerportal.mac_address.value)
         self["file_label"] = Label(_("Output File:"))
         self["file_input"] = Label("")
         self["file_path_label"] = Label(_("Playlist File:"))
         self["file_path_input"] = Label("")
-        self["portal_list_label"] = Label(
-            _("Valid Portals from Selected File:"))
+        self["portal_list_label"] = Label(_("Valid Portals from Selected File:"))
         self["account_info"] = Label("")
         self["user_label"] = Label(_("User:"))
         self["user_value"] = Label("")
@@ -282,10 +274,8 @@ class StalkerPortalConverter(Screen):
         self["key_yellow"] = Label(_("Select Playlist"))
         self["key_blue"] = Label(_("Edit"))
         self["key_web"] = Label(_("Web Portal Server Off"))
-        self["hint_label"] = Label(
-            _("Press 0: Show Access Code | Press 1: New Code"))
-        self["access_code_label"] = Label(
-            _("Access Code: ") + self.get_masked_access_code())
+        self["hint_label"] = Label(_("Press 0: Show Access Code | Press 1: New Code"))
+        self["access_code_label"] = Label(_("Access Code: ") + self.get_masked_access_code())
         self["regen_code_btn"] = Label(_("New Code"))
         self["show_code_btn"] = Label(_("Show Code"))
 
@@ -329,19 +319,15 @@ class StalkerPortalConverter(Screen):
         if "file_input" not in self:
             self["file_input"] = Label("")
         self.get_output_filename = self._get_output_filename
-        vod_status = _(
-            "Enabled") if config.plugins.stalkerportal.include_vod.value else _("Disabled")
+        vod_status = _("Enabled") if config.plugins.stalkerportal.include_vod.value else _("Disabled")
         self["status"].setText(_("VOD inclusion: {}").format(vod_status))
         self.update_all_widgets()
-        self.extract_account_info_async()
 
     def update_all_widgets(self):
         try:
             configfile.load()
-            self["portal_input"].setText(
-                config.plugins.stalkerportal.portal_url.value)
-            self["mac_input"].setText(
-                config.plugins.stalkerportal.mac_address.value)
+            self["portal_input"].setText(config.plugins.stalkerportal.portal_url.value)
+            self["mac_input"].setText(config.plugins.stalkerportal.mac_address.value)
 
             output_dir = config.plugins.stalkerportal.output_dir.value
             if not output_dir or not isdir(output_dir):
@@ -358,12 +344,7 @@ class StalkerPortalConverter(Screen):
             self["file_path_input"].setText(playlist_file)
             self["key_green"].setText(self.get_convert_label())
 
-            for widget in [
-                "portal_input",
-                "mac_input",
-                "file_input",
-                "file_path_input",
-                    "key_green"]:
+            for widget in ["portal_input", "mac_input", "file_input", "file_path_input", "key_green"]:
                 if widget in self:
                     self[widget].instance.invalidate()
 
@@ -375,8 +356,7 @@ class StalkerPortalConverter(Screen):
     def select_portal(self):
         if self.conversion_running:
             self.conversion_stopped = True
-            self["status"].setText(
-                _("Stopping current process to switch portal..."))
+            self["status"].setText(_("Stopping current process to switch portal..."))
             start_time = time.time()
             while self.conversion_running and (time.time() - start_time) < 2.0:
                 time.sleep(0.1)
@@ -393,10 +373,7 @@ class StalkerPortalConverter(Screen):
                 config.plugins.stalkerportal.mac_address.value = mac
                 configfile.save()
                 configfile.load()
-                self["status"].setText(
-                    _("Selected: ") +
-                    basename(
-                        self.playlist_file))
+                self["status"].setText(_("Selected: ") + basename(self.playlist_file))
                 self["account_info"].setText("")
                 self["user_value"].setText("")
                 self["pass_value"].setText("")
@@ -404,8 +381,7 @@ class StalkerPortalConverter(Screen):
                 self["status_value"].setText("")
                 self["active_value"].setText("")
                 self["max_value"].setText("")
-                self["status"].setText(
-                    _("Loading account info in background..."))
+                self["status"].setText(_("Loading account info in background..."))
                 self.extract_account_info_async()
                 self.update_all_widgets()
 
@@ -429,8 +405,7 @@ class StalkerPortalConverter(Screen):
             portal = config.plugins.stalkerportal.portal_url.value.strip()
             mac = config.plugins.stalkerportal.mac_address.value.strip()
         except Exception as e:
-            self.update_status(
-                _("Error accessing configuration values: ") + str(e))
+            self.update_status(_("Error accessing configuration values: ") + str(e))
             return None
 
         if not portal or not mac:
@@ -456,11 +431,8 @@ class StalkerPortalConverter(Screen):
         timezone = fetch_system_timezone()
         headers = {
             "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3",
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate",
-            "Connection": "keep-alive",
-            "Host": host,
-            "Referer": portal,
+            "Accept": "*/*", "Accept-Encoding": "gzip, deflate",
+            "Connection": "keep-alive", "Host": host, "Referer": portal,
             "Cookie": f"mac={mac}; stb_lang=en; timezone={timezone};",
             "X-User-Agent": "Model: MAG254; Link: Ethernet",
         }
@@ -469,25 +441,14 @@ class StalkerPortalConverter(Screen):
                   "model": "MAG250", "uid": "", "random": "null"}
 
         legacy_params = {
-            'action': 'get_profile',
-            'mac': mac,
-            'type': 'stb',
-            'hd': '1',
-            'sn': md5_hash,
-            'stb_type': "MAG250",
-            'client_type': 'STB',
-            'image_version': '218',
-            'device_id': "",
-            'hw_version': '1.7-BD-00',
-            'hw_version_2': '1.7-BD-00',
-            'auth_second_step': '1',
-            'video_out': 'hdmi',
-            'num_banks': '2',
+            'action': 'get_profile', 'mac': mac, 'type': 'stb', 'hd': '1',
+            'sn': md5_hash, 'stb_type': "MAG250", 'client_type': 'STB',
+            'image_version': '218', 'device_id': "", 'hw_version': '1.7-BD-00',
+            'hw_version_2': '1.7-BD-00', 'auth_second_step': '1',
+            'video_out': 'hdmi', 'num_banks': '2',
             'ver': "ImageDescription: 0.2.18-r14-pub-250;ImageDate: Fri Jan 15 15:20:44 EET 2016;PORTAL version: 5.6.1;API Version: JS API version: 328;STB API version: 134;Player Engine version: 0x566",
-            'not_valid_token': '0',
-            'metrics': dumps(idents),
-            'timestamp': str(timestamp),
-            'api_signature': '262'}
+            'not_valid_token': '0', 'metrics': dumps(idents),
+            'timestamp': str(timestamp), 'api_signature': '262'}
 
         url_templates = {
             "handshake": [
@@ -512,13 +473,7 @@ class StalkerPortalConverter(Screen):
             ]
         }
 
-        info = {
-            "user": "",
-            "password": "",
-            "expiry": "",
-            "status": "",
-            "active": "",
-            "max": ""}
+        info = {"user": "", "password": "", "expiry": "", "status": "", "active": "", "max": ""}
 
         try:
             self.update_status(_("Step 1/3: Handshake..."))
@@ -527,26 +482,21 @@ class StalkerPortalConverter(Screen):
                 f_debug.write("=== Handshake phase ===\n")
                 for url in url_templates["handshake"]:
                     try:
-                        response = session.get(
-                            url, headers=headers, timeout=8, verify=False)
+                        response = session.get(url, headers=headers, timeout=8, verify=False)
                         f_debug.write("URL: " + url + "\n")
-                        f_debug.write("Response status: " +
-                                      str(response.status_code) + "\n")
+                        f_debug.write("Response status: " + str(response.status_code) + "\n")
                         if response.status_code == 200:
                             try:
                                 data = response.json()
                                 token = data.get("js", {}).get("token")
                                 if token:
-                                    f_debug.write(
-                                        "Token found: " + token + "\n\n")
+                                    f_debug.write("Token found: " + token + "\n\n")
                                     break
                             except JSONDecodeError:
-                                match = search(
-                                    r'"token"\s*:\s*"([^"]+)"', response.text)
+                                match = search(r'"token"\s*:\s*"([^"]+)"', response.text)
                                 if match:
                                     token = match.group(1)
-                                    f_debug.write(
-                                        "Token extracted manually: " + token + "\n\n")
+                                    f_debug.write("Token extracted manually: " + token + "\n\n")
                                     break
                     except (requests.exceptions.RequestException, ConnectionError) as e:
                         f_debug.write("Request exception: " + str(e) + "\n")
@@ -554,8 +504,7 @@ class StalkerPortalConverter(Screen):
 
             if not token:
                 self.update_status(_("Handshake failed: No token received"))
-                self.update_account_info(
-                    _("Possible causes:\n- Server not responding\n- Incorrect portal URL\n- Network issues"))
+                self.update_account_info(_("Possible causes:\n- Server not responding\n- Incorrect portal URL\n- Network issues"))
                 return None
 
             headers_auth = headers.copy()
@@ -568,8 +517,7 @@ class StalkerPortalConverter(Screen):
             profile_data = {}
             for url in url_templates["profile"]:
                 try:
-                    response = session.get(
-                        url, headers=headers_auth, timeout=8, verify=False)
+                    response = session.get(url, headers=headers_auth, timeout=8, verify=False)
                     if response.status_code == 200:
                         try:
                             profile_data = response.json().get("js", {})
@@ -582,12 +530,7 @@ class StalkerPortalConverter(Screen):
             account_info = {}
             for url in url_templates["account"]:
                 try:
-                    response = session.get(
-                        url,
-                        headers=headers_auth,
-                        params=legacy_params,
-                        timeout=8,
-                        verify=False)
+                    response = session.get(url, headers=headers_auth, params=legacy_params, timeout=8, verify=False)
                     if response.status_code == 200:
                         try:
                             account_info = response.json().get("js", {})
@@ -601,15 +544,13 @@ class StalkerPortalConverter(Screen):
             tariff_info = {}
             for url in url_templates["tariff"]:
                 try:
-                    response = session.get(
-                        url, headers=headers_auth, timeout=8, verify=False)
+                    response = session.get(url, headers=headers_auth, timeout=8, verify=False)
                     if response.status_code == 200:
                         try:
                             tariff_info = response.json().get("js", {})
                             info["status"] = tariff_info.get("status", "")
                             info["active"] = tariff_info.get("active", "")
-                            info["max"] = tariff_info.get(
-                                "max_connections", "")
+                            info["max"] = tariff_info.get("max_connections", "")
                             break
                         except JSONDecodeError:
                             continue
@@ -633,14 +574,7 @@ class StalkerPortalConverter(Screen):
                 f_debug.write("Error: " + str(e) + "\n")
             return None
 
-    def update_account_fields(
-            self,
-            user,
-            password,
-            expiry,
-            status,
-            active,
-            max_conn):
+    def update_account_fields(self, user, password, expiry, status, active, max_conn):
         status_map = {"0": "Active", "1": "Disabled", "": "Unknown"}
         status_str = status_map.get(status, status)
         expiry_str = "Never" if expiry == "0000-00-00 00:00:00" else expiry
@@ -719,11 +653,9 @@ class StalkerPortalConverter(Screen):
         ]
 
         if config.plugins.stalkerportal.type_convert.value == "1":
-            menu_items.insert(
-                5, ("Set Bouquet Position", self.select_bouquet_position))
+            menu_items.insert(5, ("Set Bouquet Position", self.select_bouquet_position))
 
-        menu = [(translations.get(text, text), function)
-                for text, function in menu_items]
+        menu = [(translations.get(text, text), function) for text, function in menu_items]
         self.session.openWithCallback(self.menu_callback, MenuDialog, menu)
 
     def toggle_include_vod(self):
@@ -731,8 +663,7 @@ class StalkerPortalConverter(Screen):
         config.plugins.stalkerportal.include_vod.value = not current_value
         config.plugins.stalkerportal.include_vod.save()
         configfile.save()
-        status = _("Enabled") if config.plugins.stalkerportal.include_vod.value else _(
-            "Disabled")
+        status = _("Enabled") if config.plugins.stalkerportal.include_vod.value else _("Disabled")
         self["status"].setText(_("VOD inclusion: {}").format(status))
         self.update_all_widgets()
 
@@ -767,33 +698,27 @@ class StalkerPortalConverter(Screen):
 
     def select_type_convert(self):
         options = [("MAC to M3U", "0"), ("MAC to .tv", "1")]
-
         def type_callback(choice):
             if choice:
                 config.plugins.stalkerportal.type_convert.value = choice[1]
                 configfile.save()
                 configfile.load()
                 self.update_all_widgets()
-        self.session.openWithCallback(
-            type_callback,
-            ChoiceBox,
-            title=_("Select Type of Conversion"),
-            list=options)
+        self.session.openWithCallback(type_callback, ChoiceBox,
+                                     title=_("Select Type of Conversion"), list=options)
 
     def select_bouquet_position(self):
         options = [("top", _("Top")), ("bottom", _("Bottom"))]
-
         def bouquet_pos_callback(choice):
             if choice is not None:
                 config.plugins.stalkerportal.bouquet_position.value = choice
                 configfile.save()
                 configfile.load()
-                self.update_status(
-                    _("Bouquet position set to: {}").format(choice))
+                self.update_status(_("Bouquet position set to: {}").format(choice))
                 self.update_all_widgets()
         self.session.openWithCallback(bouquet_pos_callback, ChoiceBox,
-                                      title=_("Select Bouquet Position"),
-                                      list=[(key, _(val)) for key, val in options])
+                                     title=_("Select Bouquet Position"),
+                                     list=[(key, _(val)) for key, val in options])
 
     def load_playlist(self, file_path=None):
         if not file_path:
@@ -812,10 +737,7 @@ class StalkerPortalConverter(Screen):
             for line in lines:
                 if not line:
                     continue
-                if any(
-                    keyword in line.lower() for keyword in [
-                        'panel',
-                        'portal']) or line.startswith('http'):
+                if any(keyword in line.lower() for keyword in ['panel', 'portal']) or line.startswith('http'):
                     url_match = search(r'(https?://[^\s]+)', line)
                     if url_match:
                         portal = url_match.group(0)
@@ -825,8 +747,7 @@ class StalkerPortalConverter(Screen):
                             portal = portal.rstrip('/') + '/c/'
                         current_portal = portal
                 elif any(keyword in line.lower() for keyword in ['mac', 'mac_address']) or ':' in line:
-                    mac_match = search(
-                        r'([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})', line, IGNORECASE)
+                    mac_match = search(r'([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})', line, IGNORECASE)
                     if mac_match and current_portal:
                         mac = mac_match.group(0)
                         display = f"{current_portal} - {mac}"
@@ -836,9 +757,7 @@ class StalkerPortalConverter(Screen):
             display_list = [entry[0] for entry in self.portal_list]
             self["file_list"].setList(display_list)
             if valid_count > 0:
-                self["status"].setText(
-                    _("Loaded {} valid entries from {}").format(
-                        valid_count, basename(file_path)))
+                self["status"].setText(_("Loaded {} valid entries from {}").format(valid_count, basename(file_path)))
             else:
                 self["status"].setText(_("No valid entries found in file"))
         except Exception as e:
@@ -868,8 +787,7 @@ class StalkerPortalConverter(Screen):
         try:
             success, message = self.conversion_result
             self["key_green"].setText(self.get_convert_label())
-            self["status"].setText(
-                (_("Success! ") if success else _("Error! ")) + message)
+            self["status"].setText((_("Success! ") if success else _("Error! ")) + message)
         finally:
             if hasattr(self, 'conversion_result'):
                 del self.conversion_result
@@ -887,10 +805,8 @@ class StalkerPortalConverter(Screen):
                 return
 
             output_path = config.plugins.stalkerportal.output_dir.value
-            if not has_enough_free_space(
-                    output_path, min_bytes_required=100 * 1024 * 1024):
-                self["status"].setText(
-                    _("Not enough space on {}!").format(output_path))
+            if not has_enough_free_space(output_path, min_bytes_required=100 * 1024 * 1024):
+                self["status"].setText(_("Not enough space on {}!").format(output_path))
                 return
 
             try:
@@ -899,13 +815,8 @@ class StalkerPortalConverter(Screen):
                 output_file = self._get_output_filename()
                 f_debug.write("Output file: {}\n".format(output_file))
             except Exception as e:
-                self["status"].setText(
-                    _("Error accessing configuration values"))
-                self.session.open(
-                    MessageBox,
-                    _("Failed to read portal or MAC configuration:\n") +
-                    str(e),
-                    MessageBox.TYPE_ERROR)
+                self["status"].setText(_("Error accessing configuration values"))
+                self.session.open(MessageBox, _("Failed to read portal or MAC configuration:\n") + str(e), MessageBox.TYPE_ERROR)
                 return
 
             if not portal or not mac:
@@ -925,8 +836,7 @@ class StalkerPortalConverter(Screen):
                 try:
                     makedirs(output_dir)
                 except Exception as e:
-                    self["status"].setText(
-                        _("Cannot create directory: ") + str(e))
+                    self["status"].setText(_("Cannot create directory: ") + str(e))
                     return
 
             self.conversion_stopped = False
@@ -935,9 +845,7 @@ class StalkerPortalConverter(Screen):
             self["status"].setText(_("Starting conversion process..."))
             f_debug.write("Starting conversion process...\n")
 
-            self.worker_thread = Thread(
-                target=self.convert_thread, args=(
-                    portal, mac, output_file))
+            self.worker_thread = Thread(target=self.convert_thread, args=(portal, mac, output_file))
             self.worker_thread.start()
 
     def convert_thread(self, portal, mac, output_file):
@@ -946,8 +854,7 @@ class StalkerPortalConverter(Screen):
             try:
                 makedirs(output_dir, exist_ok=True)
             except Exception as e:
-                self.finish_conversion(
-                    False, _("Cannot create directory: ") + str(e))
+                self.finish_conversion(False, _("Cannot create directory: ") + str(e))
                 return
         try:
             if self.closed or self.conversion_stopped:
@@ -962,16 +869,13 @@ class StalkerPortalConverter(Screen):
                 self.update_status(_("Step 1/3: Connecting to portal..."))
                 success, token = self.get_channel_list(portal, mac)
                 if time.time() > self.conversion_timeout:
-                    self.finish_conversion(
-                        False, _("Conversion timeout exceeded"))
+                    self.finish_conversion(False, _("Conversion timeout exceeded"))
                     return
                 if self.conversion_stopped:
-                    self.finish_conversion(
-                        False, _("Conversion stopped during channel retrieval"))
+                    self.finish_conversion(False, _("Conversion stopped during channel retrieval"))
                     return
                 if not success or not self.channels:
-                    self.finish_conversion(
-                        False, _("Failed to retrieve channel list"))
+                    self.finish_conversion(False, _("Failed to retrieve channel list"))
                     return
 
                 self.update_status(_("Step 2/3: Creating playlist file..."))
@@ -984,130 +888,90 @@ class StalkerPortalConverter(Screen):
                             f.write("#EXTM3U\n")
                             f.write("# Portal: {}\n".format(portal))
                             f.write("# MAC: {}\n".format(mac))
-                            f.write("# Channels: {}\n\n".format(
-                                len(self.channels)))
+                            f.write("# Channels: {}\n\n".format(len(self.channels)))
                             for channel in self.channels:
                                 if self.conversion_stopped:
-                                    self.finish_conversion(
-                                        False, _("Conversion stopped during M3U creation"))
+                                    self.finish_conversion(False, _("Conversion stopped during M3U creation"))
                                     return
                                 cleaned_name = cleanName(channel["name"])
                                 cleaned_group = cleanName(channel["group"])
-                                f.write(
-                                    "#EXTINF:-1 tvg-id=\"{}\" tvg-name=\"{}\" ".format(channel["id"], cleaned_name))
-                                f.write(
-                                    "tvg-logo=\"{}\" group-title=\"{}\",{}\n".format(
-                                        channel["logo"], cleaned_group, cleaned_name))
+                                f.write("#EXTINF:-1 tvg-id=\"{}\" tvg-name=\"{}\" ".format(channel["id"], cleaned_name))
+                                f.write("tvg-logo=\"{}\" group-title=\"{}\",{}\n".format(channel["logo"], cleaned_group, cleaned_name))
                                 f.write("{}\n\n".format(channel["url"]))
 
                         if config.plugins.stalkerportal.include_vod.value:
-                            self.update_status(
-                                _("Step 4/4: Getting VOD content..."))
-                            vod_categories = self.get_vod_list(
-                                portal, mac, token)
+                            self.update_status(_("Step 4/4: Getting VOD content..."))
+                            vod_categories = self.get_vod_list(portal, mac, token)
                             if vod_categories:
                                 with open(output_file, "a", encoding="utf-8") as f:
                                     f.write("\n\n#EXTM3U VOD SECTION\n\n")
                                     for category in vod_categories:
-                                        f.write(
-                                            f"#EXTINF:-1 group-title=\"VOD - {category['name']}\",{category['name']}\n")
-                                        f.write(
-                                            "#EXTVLCOPT:network-caching=1000\n\n")
+                                        f.write(f"#EXTINF:-1 group-title=\"VOD - {category['name']}\",{category['name']}\n")
+                                        f.write("#EXTVLCOPT:network-caching=1000\n\n")
                                         for movie in category['movies']:
-                                            cleaned_name = cleanName(
-                                                movie["name"])
-                                            f.write(
-                                                f"#EXTINF:-1 tvg-id=\"{movie['id']}\" ")
-                                            f.write(
-                                                f"tvg-name=\"{cleaned_name}\" ")
+                                            cleaned_name = cleanName(movie["name"])
+                                            f.write(f"#EXTINF:-1 tvg-id=\"{movie['id']}\" ")
+                                            f.write(f"tvg-name=\"{cleaned_name}\" ")
                                             if movie.get('year'):
-                                                f.write(
-                                                    f"tvg-year=\"{movie['year']}\" ")
+                                                f.write(f"tvg-year=\"{movie['year']}\" ")
                                             if movie.get('poster'):
-                                                f.write(
-                                                    f"tvg-logo=\"{movie['poster']}\" ")
+                                                f.write(f"tvg-logo=\"{movie['poster']}\" ")
                                             if movie.get('description'):
-                                                desc = movie['description'].replace(
-                                                    '"', "'")
-                                                f.write(
-                                                    f"tvg-description=\"{desc}\" ")
-                                            f.write(
-                                                f"group-title=\"VOD - {category['name']}\",")
-                                            f.write(f"{cleaned_name} ({movie['year']})\n" if movie.get(
-                                                'year') else f"{cleaned_name}\n")
+                                                desc = movie['description'].replace('"', "'")
+                                                f.write(f"tvg-description=\"{desc}\" ")
+                                            f.write(f"group-title=\"VOD - {category['name']}\",")
+                                            f.write(f"{cleaned_name} ({movie['year']})\n" if movie.get('year') else f"{cleaned_name}\n")
                                             if movie.get('poster'):
-                                                f.write(
-                                                    f"#EXTIMG:{movie['poster']}\n")
-                                            f.write(
-                                                "#EXTVLCOPT:network-caching=1000\n")
-                                            f.write(
-                                                f"{movie['stream_url']}\n\n")
-                                    total_vod = sum(
-                                        len(cat['movies']) for cat in vod_categories)
-                                    self.update_status(
-                                        _("Added {} VOD items").format(total_vod))
+                                                f.write(f"#EXTIMG:{movie['poster']}\n")
+                                            f.write("#EXTVLCOPT:network-caching=1000\n")
+                                            f.write(f"{movie['stream_url']}\n\n")
+                                    total_vod = sum(len(cat['movies']) for cat in vod_categories)
+                                    self.update_status(_("Added {} VOD items").format(total_vod))
 
-                        self.update_status(_("M3U created with {} channels").replace(
-                            "%s", str(len(self.channels))).replace("{}", str(len(self.channels))))
-                        self.finish_conversion(
-                            True, _("M3U created successfully"))
+                        self.update_status(_("M3U created with {} channels").replace("%s", str(len(self.channels))).replace("{}", str(len(self.channels))))
+                        self.finish_conversion(True, _("M3U created successfully"))
 
                     elif convert_type == "1":
-                        self.update_status(
-                            _("Step 3/3: Create Bouquet file..."))
+                        self.update_status(_("Step 3/3: Create Bouquet file..."))
                         groups = {}
                         for idx, channel in enumerate(self.channels):
                             if idx % 50 == 0 and self.conversion_stopped:
-                                self.finish_conversion(
-                                    False, _("Conversion stopped during grouping"))
+                                self.finish_conversion(False, _("Conversion stopped during grouping"))
                                 return
                             group = channel.get("group", "Default")
                             groups.setdefault(group, []).append(channel)
                         if self.conversion_stopped:
-                            self.finish_conversion(
-                                False, _("Conversion stopped before bouquet creation"))
+                            self.finish_conversion(False, _("Conversion stopped before bouquet creation"))
                             return
                         for group, ch_list in groups.items():
                             if self.conversion_stopped:
-                                self.finish_conversion(
-                                    False, _("Conversion stopped during bouquet creation"))
+                                self.finish_conversion(False, _("Conversion stopped during bouquet creation"))
                                 return
                             self.write_group_bouquet(group, ch_list)
 
                         if config.plugins.stalkerportal.include_vod.value:
-                            self.update_status(
-                                _("Step 4/4: Getting VOD content..."))
-                            vod_categories = self.get_vod_list(
-                                portal, mac, token)
+                            self.update_status(_("Step 4/4: Getting VOD content..."))
+                            vod_categories = self.get_vod_list(portal, mac, token)
                             if vod_categories:
                                 vod_group_names = []
                                 for category in vod_categories:
                                     group_name = "VOD: " + category['name']
-                                    self.write_group_bouquet(
-                                        group_name, category['movies'], is_vod=True)
+                                    self.write_group_bouquet(group_name, category['movies'], is_vod=True)
                                     vod_group_names.append(group_name)
                                 for group_name in vod_group_names:
                                     groups[group_name] = []
-                                total_vod = sum(len(cat['movies'])
-                                                for cat in vod_categories)
-                                self.update_status(
-                                    _("Added {} VOD items").format(total_vod))
+                                total_vod = sum(len(cat['movies']) for cat in vod_categories)
+                                self.update_status(_("Added {} VOD items").format(total_vod))
 
                         self.update_main_bouquet(groups.keys())
-                        self.finish_conversion(
-                            True, _("Bouquets created: {} groups with {} channels").format(
-                                len(groups), len(
-                                    self.channels)))
+                        self.finish_conversion(True, _("Bouquets created: {} groups with {} channels").format(len(groups), len(self.channels)))
                 except Exception as e:
-                    self.finish_conversion(
-                        False, _("Error creating playlist: ") + str(e))
+                    self.finish_conversion(False, _("Error creating playlist: ") + str(e))
         except Exception as e:
             self.finish_conversion(False, _("Conversion error: ") + str(e))
         finally:
             self.conversion_running = False
-            reactor.callFromThread(
-                lambda: self["key_green"].setText(
-                    self.get_convert_label()))
+            reactor.callFromThread(lambda: self["key_green"].setText(self.get_convert_label()))
 
     def write_group_bouquet(self, group, items, is_vod=False):
         try:
@@ -1121,8 +985,7 @@ class StalkerPortalConverter(Screen):
                     f.write("#SERVICE 1:64:0:0:0:0:0:0:0:0:--- | VOD | ---\n")
                     f.write("#DESCRIPTION --- | VOD | ---\n")
                 else:
-                    f.write(
-                        "#SERVICE 1:64:0:0:0:0:0:0:0:0:--- | Stalker2Bouquet | ---\n")
+                    f.write("#SERVICE 1:64:0:0:0:0:0:0:0:0:--- | Stalker2Bouquet | ---\n")
                     f.write("#DESCRIPTION --- | Stalker2Bouquet | ---\n")
                 for item in items:
                     url = item["stream_url"] if is_vod else item["url"]
@@ -1154,23 +1017,17 @@ class StalkerPortalConverter(Screen):
         for group in groups:
             safe_name = self.get_safe_filename(group)
             bouquet_path = "userbouquet." + safe_name + ".tv"
-            line_to_add = '#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "' + \
-                bouquet_path + '" ORDER BY bouquet\n'
+            line_to_add = '#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "' + bouquet_path + '" ORDER BY bouquet\n'
             if line_to_add not in existing and line_to_add not in new_lines:
                 new_lines.append(line_to_add)
-        new_content = (
-            new_lines +
-            existing) if config.plugins.stalkerportal.bouquet_position.value == "top" else (
-            existing +
-            new_lines)
+        new_content = (new_lines + existing) if config.plugins.stalkerportal.bouquet_position.value == "top" else (existing + new_lines)
         with open(main_file, "w", encoding="utf-8") as f:
             f.writelines(new_content)
         reactor.callFromThread(reload_services)
 
     def get_safe_filename(self, group):
         if not group or not group.strip():
-            mac = config.plugins.stalkerportal.mac_address.value.replace(
-                ":", "_")
+            mac = config.plugins.stalkerportal.mac_address.value.replace(":", "_")
             return f"stalker_{mac}"
         safe_name = unicodedata.normalize("NFKD", group)
         safe_name = safe_name.encode("ascii", "ignore").decode("ascii")
@@ -1178,8 +1035,7 @@ class StalkerPortalConverter(Screen):
         safe_name = sub(r"\s+", "_", safe_name)
         safe_name = sub(r"_+", "_", safe_name).strip("_")
         if not safe_name:
-            mac = config.plugins.stalkerportal.mac_address.value.replace(
-                ":", "_")
+            mac = config.plugins.stalkerportal.mac_address.value.replace(":", "_")
             return f"stalker_{mac}"
         if len(safe_name) > 40:
             safe_name = safe_name[-40:]
@@ -1221,10 +1077,7 @@ class StalkerPortalConverter(Screen):
             retry_strategy = Retry(total=2, backoff_factor=0.3,
                                    status_forcelist=[429, 500, 502, 503, 504],
                                    allowed_methods=["GET"])
-            adapter = HTTPAdapter(
-                max_retries=retry_strategy,
-                pool_connections=50,
-                pool_maxsize=100)
+            adapter = HTTPAdapter(max_retries=retry_strategy, pool_connections=50, pool_maxsize=100)
             session.mount("http://", adapter)
             session.mount("https://", adapter)
             session.verify = False
@@ -1235,31 +1088,18 @@ class StalkerPortalConverter(Screen):
             timezone = fetch_system_timezone()
             headers = {
                 "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/537.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/537.3",
-                "Accept": "*/*",
-                "Accept-Encoding": "gzip, deflate",
-                "Connection": "keep-alive",
-                "Host": host,
-                "Referer": portal,
+                "Accept": "*/*", "Accept-Encoding": "gzip, deflate",
+                "Connection": "keep-alive", "Host": host, "Referer": portal,
                 "Cookie": f"mac={mac}; stb_lang=en; timezone={timezone};",
                 "X-User-Agent": "Model: MAG254; Link: Ethernet"}
 
             self.update_status(_("Step 1/3: Handshake..."))
             try:
-                response = session.get(
-                    link_api,
-                    params={
-                        "type": "stb",
-                        "action": "handshake",
-                        "token": "",
-                        "JsHttpRequest": "1-xml"},
-                    headers=headers,
-                    timeout=(
-                        3.0,
-                        10.0))
+                response = session.get(link_api,
+                    params={"type": "stb", "action": "handshake", "token": "", "JsHttpRequest": "1-xml"},
+                    headers=headers, timeout=(3.0, 10.0))
                 if response.status_code != 200:
-                    self.update_status(
-                        _("Handshake failed: HTTP {}").format(
-                            response.status_code))
+                    self.update_status(_("Handshake failed: HTTP {}").format(response.status_code))
                     return False, None
             except RequestException as e:
                 self.update_status(_("Connection error: ") + str(e))
@@ -1274,38 +1114,20 @@ class StalkerPortalConverter(Screen):
             self.update_status(_("Step 2/3: Authentication..."))
             headers["Authorization"] = f"Bearer {token}"
             try:
-                session.get(
-                    link_api,
-                    params={
-                        "type": "stb",
-                        "action": "do_auth",
-                        "mac": mac,
-                        "token": token,
-                        "JsHttpRequest": "1-xml"},
-                    headers=headers,
-                    timeout=(
-                        3.0,
-                        10.0))
+                session.get(link_api,
+                    params={"type": "stb", "action": "do_auth", "mac": mac, "token": token, "JsHttpRequest": "1-xml"},
+                    headers=headers, timeout=(3.0, 10.0))
             except RequestException as e:
                 self.update_status(_("Authentication failed: ") + str(e))
                 return False, None
 
             self.update_status(_("Step 3/3: Getting channels..."))
             try:
-                response = session.get(
-                    link_api,
-                    params={
-                        "type": "itv",
-                        "action": "get_all_channels",
-                        "JsHttpRequest": "1-xml"},
-                    headers=headers,
-                    timeout=(
-                        3.0,
-                        15.0))
+                response = session.get(link_api,
+                    params={"type": "itv", "action": "get_all_channels", "JsHttpRequest": "1-xml"},
+                    headers=headers, timeout=(3.0, 15.0))
                 if response.status_code != 200:
-                    self.update_status(
-                        _("Channel list failed: HTTP {}").format(
-                            response.status_code))
+                    self.update_status(_("Channel list failed: HTTP {}").format(response.status_code))
                     return False, None
                 json_data = response.json()
             except JSONDecodeError:
@@ -1321,12 +1143,10 @@ class StalkerPortalConverter(Screen):
                 self.update_status(_("No channels found in response"))
                 return False, None
 
-            self.update_status(
-                _("Preparing {} channels...").format(total_channels))
+            self.update_status(_("Preparing {} channels...").format(total_channels))
             start_time = time.time()
             last_update = start_time
-            # Conta TUTTI i processati (successi e fallimenti)
-            completed_count = 0
+            completed_count = 0 # Conta TUTTI i processati (successi e fallimenti)
             success_count = 0   # Conta solo i canali validi
             results = []
             max_workers = 50
@@ -1334,12 +1154,8 @@ class StalkerPortalConverter(Screen):
             def update_detailed_status():
                 elapsed = time.time() - start_time
                 speed = completed_count / elapsed if elapsed > 0 else 0
-                percent = (
-                    completed_count /
-                    total_channels *
-                    100) if total_channels > 0 else 0
-                eta = (total_channels - completed_count) / \
-                    speed if speed > 0 else 0
+                percent = (completed_count / total_channels * 100) if total_channels > 0 else 0
+                eta = (total_channels - completed_count) / speed if speed > 0 else 0
                 status_text = (
                     "Processed {}/{} ({:.1f}%)\n"
                     "Success: {} | Speed: {:.1f}/s | ETA: {:.1f}s"
@@ -1347,20 +1163,12 @@ class StalkerPortalConverter(Screen):
                 self.update_status(status_text)
 
             with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-                futures = {
-                    executor.submit(
-                        self.process_channel,
-                        session,
-                        portal,
-                        headers,
-                        channel,
-                        mac,
-                        token): channel for channel in channels_data}
-
+                futures = {executor.submit(self.process_channel, session, portal, headers, channel, mac, token): channel
+                           for channel in channels_data}
+                
                 for future in concurrent.futures.as_completed(futures):
                     if self.conversion_stopped:
-                        self.update_status(
-                            _("Conversion stopped during processing"))
+                        self.update_status(_("Conversion stopped during processing"))
                         return False, None
                     try:
                         channel_data = future.result(timeout=15.0)
@@ -1368,7 +1176,7 @@ class StalkerPortalConverter(Screen):
                         if channel_data:
                             results.append(channel_data)
                             success_count += 1
-
+                            
                         current_time = time.time()
                         if completed_count % 10 == 0 or current_time - last_update > 2:
                             update_detailed_status()
@@ -1380,8 +1188,7 @@ class StalkerPortalConverter(Screen):
             update_detailed_status()
             self.channels = results
             self.cache_expiration = time.time() + 1800
-            self.channel_cache[cache_key] = {
-                "channels": self.channels.copy(), "token": token}
+            self.channel_cache[cache_key] = {"channels": self.channels.copy(), "token": token}
             return True, token
         except Exception as e:
             print(f"Critical error in get_channel_list: {str(e)}")
@@ -1401,13 +1208,8 @@ class StalkerPortalConverter(Screen):
             if not categories_data:
                 return []
             with ThreadPoolExecutor(max_workers=min(10, len(categories_data))) as executor:
-                futures = [
-                    executor.submit(
-                        self.process_vod_category,
-                        category,
-                        portal,
-                        mac,
-                        token) for category in categories_data]
+                futures = [executor.submit(self.process_vod_category, category, portal, mac, token)
+                           for category in categories_data]
                 for future in as_completed(futures):
                     try:
                         category_data = future.result()
@@ -1427,33 +1229,21 @@ class StalkerPortalConverter(Screen):
         host = parsed_portal.netloc
         headers = {
             "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/537.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/537.3",
-            "Accept": "*/*",
-            "Accept-Encoding": "gzip, deflate",
-            "Connection": "keep-alive",
-            "Host": host,
-            "Referer": portal,
-            "Cookie": f"mac={mac}; stb_lang=en; timezone={
-                fetch_system_timezone()};",
+            "Accept": "*/*", "Accept-Encoding": "gzip, deflate",
+            "Connection": "keep-alive", "Host": host, "Referer": portal,
+            "Cookie": f"mac={mac}; stb_lang=en; timezone={fetch_system_timezone()};",
             "X-User-Agent": "Model: MAG254; Link: Ethernet",
             "Authorization": f"Bearer {token}"}
         movies_url = f"{portal}?type=vod&action=get_ordered_list&genre={category_id}&JsHttpRequest=1-xml"
         try:
-            response = requests.get(
-                movies_url,
-                headers=headers,
-                timeout=15,
-                verify=False)
+            response = requests.get(movies_url, headers=headers, timeout=15, verify=False)
             movies_data = response.json().get("js", {}).get("data", [])
             vod_entries = []
             for movie in movies_data:
-                movie_data = self.process_vod_movie(
-                    movie, portal, mac, token, category_name)
+                movie_data = self.process_vod_movie(movie, portal, mac, token, category_name)
                 if movie_data:
                     vod_entries.append(movie_data)
-            return {
-                "id": category_id,
-                "name": category_name,
-                "movies": vod_entries}
+            return {"id": category_id, "name": category_name, "movies": vod_entries}
         except Exception as e:
             print(f"Error processing VOD category {category_name}: {e}")
             return None
@@ -1465,34 +1255,18 @@ class StalkerPortalConverter(Screen):
             base_url = f"{parsed_portal.scheme}://{host}"
             headers = {
                 "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/537.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/537.3",
-                "Accept": "*/*",
-                "Accept-Encoding": "gzip, deflate",
-                "Connection": "keep-alive",
-                "Host": host,
-                "Referer": portal,
-                "Cookie": f"mac={mac}; stb_lang=en; timezone={
-                    fetch_system_timezone()};",
+                "Accept": "*/*", "Accept-Encoding": "gzip, deflate",
+                "Connection": "keep-alive", "Host": host, "Referer": portal,
+                "Cookie": f"mac={mac}; stb_lang=en; timezone={fetch_system_timezone()};",
                 "X-User-Agent": "Model: MAG254; Link: Ethernet",
                 "Authorization": f"Bearer {token}"}
-            params = {
-                "type": "vod",
-                "action": "create_link",
-                "cmd": cmd,
-                "forced_storage": "none",
-                "disable_ad": "0",
-                "download": "0",
-                "JsHttpRequest": "1-xml"}
-            for endpoint in [
-                    f"{base_url}/portal.php",
-                    f"{base_url}/server/load.php",
-                    f"{base_url}/stalker_portal/server/load.php"]:
+            params = {"type": "vod", "action": "create_link", "cmd": cmd,
+                      "forced_storage": "none", "disable_ad": "0", "download": "0",
+                      "JsHttpRequest": "1-xml"}
+            for endpoint in [f"{base_url}/portal.php", f"{base_url}/server/load.php",
+                             f"{base_url}/stalker_portal/server/load.php"]:
                 try:
-                    response = requests.get(
-                        endpoint,
-                        params=params,
-                        headers=headers,
-                        timeout=10,
-                        verify=False)
+                    response = requests.get(endpoint, params=params, headers=headers, timeout=10, verify=False)
                     if response.status_code == 200:
                         try:
                             json_data = response.json()
@@ -1550,24 +1324,18 @@ class StalkerPortalConverter(Screen):
             channel_id = channel.get("id", "")
             channel_name = channel.get("name", "Unknown")
 
-            # OTTIMIZZAZIONE 1: Se il comando è già un URL valido, risparmiamo
-            # la richiesta HTTP!
+            # OTTIMIZZAZIONE 1: Se il comando è già un URL valido, risparmiamo la richiesta HTTP!
             if cmd.startswith("http://") or cmd.startswith("https://"):
                 return {
                     "id": str(channel_id),
                     "name": cleanName(channel_name),
-                    "number": int(
-                        channel.get(
-                            "number",
-                            0)),
+                    "number": int(channel.get("number", 0)),
                     "group": channel.get("category_name") or channel.get("group_name") or "",
-                    "logo": str(
-                        channel.get(
-                            "logo",
-                            "")),
+                    "logo": str(channel.get("logo", "")),
                     "url": cmd,
                     "username": "",
-                    "password": ""}
+                    "password": ""
+                }
 
             max_retries = 2
             retry_delay = 0.5
@@ -1580,20 +1348,20 @@ class StalkerPortalConverter(Screen):
                 "token": token,
                 "JsHttpRequest": "1-xml"
             }
-            api_url = portal.rstrip('/') + "/portal.php?" + \
-                urlencode(channel_params)
+            api_url = portal.rstrip('/') + "/portal.php?" + urlencode(channel_params)
             domain = urlparse(portal).netloc
 
             for attempt in range(max_retries + 1):
                 if self.conversion_stopped or time.time() > self.conversion_timeout:
                     return None
                 try:
-                    # OTTIMIZZAZIONE 2: Usiamo la sessione passata (con pool di connessioni)
+                    # OTTIMIZZAZIONE 2: Usiamo la sessione passata (con pool di connessioni) 
                     # invece di crearne una nuova per ogni canale
                     current_headers = headers.copy()
                     user_agents = [
                         "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/537.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/537.3",
-                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"]
+                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+                    ]
                     current_headers["User-Agent"] = random.choice(user_agents)
 
                     response = session.get(
@@ -1627,16 +1395,11 @@ class StalkerPortalConverter(Screen):
                                 return {
                                     "id": str(channel_id),
                                     "name": cleanName(channel_name),
-                                    "number": int(
-                                        channel.get(
-                                            "number",
-                                            0)),
+                                    "number": int(channel.get("number", 0)),
                                     "group": channel.get("category_name") or channel.get("group_name") or "",
-                                    "logo": str(
-                                        channel.get(
-                                            "logo",
-                                            "")),
-                                    "url": response.text.strip()}
+                                    "logo": str(channel.get("logo", "")),
+                                    "url": response.text.strip()
+                                }
                             else:
                                 return None
 
@@ -1657,11 +1420,8 @@ class StalkerPortalConverter(Screen):
                     if "localhost" in stream_url:
                         stream_url = stream_url.replace("localhost", domain)
 
-                    group_title = channel.get(
-                        "group_name", "") or channel.get(
-                        "category_name", "")
-                    display_name = channel_name.split(
-                        ",", 1)[1].strip() if "," in channel_name else channel_name
+                    group_title = channel.get("group_name", "") or channel.get("category_name", "")
+                    display_name = channel_name.split(",", 1)[1].strip() if "," in channel_name else channel_name
 
                     return {
                         "id": str(channel_id),
@@ -1684,14 +1444,7 @@ class StalkerPortalConverter(Screen):
             print(f"Error processing channel: {str(e)}")
             return None
 
-    def process_fallback_response(
-            self,
-            response,
-            channel_id,
-            channel_name,
-            channel,
-            api_url,
-            domain):
+    def process_fallback_response(self, response, channel_id, channel_name, channel, api_url, domain):
         try:
             try:
                 json_data = response.json()
@@ -1705,32 +1458,22 @@ class StalkerPortalConverter(Screen):
                 stream_url = stream_url[7:]
             if "localhost" in stream_url:
                 stream_url = stream_url.replace("localhost", domain)
-            return {
-                "id": str(channel_id),
-                "name": cleanName(channel_name),
-                "number": int(
-                    channel.get(
-                        "number",
-                        0)),
-                "group": channel.get("category_name") or channel.get("group_name") or "",
-                "logo": str(
-                    channel.get(
-                        "logo",
-                        "")),
-                "url": stream_url}
+            return {"id": str(channel_id),
+                    "name": cleanName(channel_name),
+                    "number": int(channel.get("number", 0)),
+                    "group": channel.get("category_name") or channel.get("group_name") or "",
+                    "logo": str(channel.get("logo", "")),
+                    "url": stream_url}
         except BaseException:
             return None
 
     def select_output_dir(self):
-        self.browse_directory(
-            config.plugins.stalkerportal.output_dir.value,
-            mode="directory")
+        self.browse_directory(config.plugins.stalkerportal.output_dir.value, mode="directory")
 
     def browse_directory(self, path=None, mode="playlist"):
         if path is None:
             path = config.plugins.stalkerportal.output_dir.value
-        is_mount_point = any(
-            ['/barryhallen' in path, '/hdd' in path, '/usb' in path, '/net' in path])
+        is_mount_point = any(['/barryhallen' in path, '/hdd' in path, '/usb' in path, '/net' in path])
         if not exists(path):
             try:
                 makedirs(path, exist_ok=True)
@@ -1742,14 +1485,9 @@ class StalkerPortalConverter(Screen):
         if parent_dir and parent_dir != path and exists(parent_dir):
             entries.append(("[DIR] ..", parent_dir, "dir"))
         if is_mount_point:
-            entries.append(
-                ("[MOUNT ROOT] " +
-                 _("Select Mount Root"),
-                    path,
-                    "mount_root"))
+            entries.append(("[MOUNT ROOT] " + _("Select Mount Root"), path, "mount_root"))
         if mode == "directory":
-            entries.append(
-                ("[SELECT] " + _("Select this directory"), path, "select"))
+            entries.append(("[SELECT] " + _("Select this directory"), path, "select"))
 
         try:
             for item in sorted(listdir(path)):
@@ -1759,8 +1497,7 @@ class StalkerPortalConverter(Screen):
                 elif mode == "playlist" and item.lower().endswith(('.txt', '.list', '.m3u')):
                     try:
                         human_size = self.format_size(getsize(full_path))
-                        entries.append(
-                            (f"{item} ({human_size})", full_path, "file"))
+                        entries.append((f"{item} ({human_size})", full_path, "file"))
                     except BaseException:
                         entries.append((item, full_path, "file"))
         except Exception as e:
@@ -1770,10 +1507,10 @@ class StalkerPortalConverter(Screen):
         if entries:
             entries.insert(0, (_("<< Cancel"), None, "cancel"))
             self.session.openWithCallback(
-                lambda choice: self.handle_directory_selection(
-                    choice, mode), ChoiceBox, title=_(
-                    "Select directory" if mode == "directory" else _("Select playlist file")), list=[
-                    (desc, (path, type)) for desc, path, type in entries])
+                lambda choice: self.handle_directory_selection(choice, mode),
+                ChoiceBox,
+                title=_("Select directory" if mode == "directory" else _("Select playlist file")),
+                list=[(desc, (path, type)) for desc, path, type in entries])
         else:
             self["status"].setText(_("No files found in: ") + path)
 
@@ -1807,12 +1544,10 @@ class StalkerPortalConverter(Screen):
                 try:
                     makedirs(selected_path, exist_ok=True)
                 except Exception as e:
-                    self["status"].setText(
-                        _("Cannot create directory: ") + str(e))
+                    self["status"].setText(_("Cannot create directory: ") + str(e))
                     return
             if not access(selected_path, W_OK):
-                self["status"].setText(
-                    _("Directory not writable: ") + selected_path)
+                self["status"].setText(_("Directory not writable: ") + selected_path)
                 return
             config.plugins.stalkerportal.output_dir.value = selected_path
             config.plugins.stalkerportal.output_dir.save()
@@ -1822,13 +1557,10 @@ class StalkerPortalConverter(Screen):
         elif mode == "playlist" and entry_type == "file":
             self.playlist_file = selected_path
             self.load_playlist(selected_path)
-            config.plugins.stalkerportal.input_filelist.value = dirname(
-                selected_path)
+            config.plugins.stalkerportal.input_filelist.value = dirname(selected_path)
             config.plugins.stalkerportal.input_filelist.save()
             configfile.save()
-            self["status"].setText(
-                _("Loaded playlist: %s") %
-                basename(selected_path))
+            self["status"].setText(_("Loaded playlist: %s") % basename(selected_path))
             self.update_all_widgets()
 
     def confirm_low_space(self, result, path):
@@ -1840,9 +1572,7 @@ class StalkerPortalConverter(Screen):
             self["status"].setText(_("Selected directory: ") + path)
 
     def select_playlist_file(self):
-        self.browse_directory(
-            config.plugins.stalkerportal.input_filelist.value,
-            mode="playlist")
+        self.browse_directory(config.plugins.stalkerportal.input_filelist.value, mode="playlist")
 
     def delete_playlist(self, path=None):
         if path is None:
@@ -1857,11 +1587,8 @@ class StalkerPortalConverter(Screen):
         try:
             dir_contents = sorted(listdir(path))
             dirs = [f for f in dir_contents if isdir(join(path, f))]
-            file_list = [
-                f for f in dir_contents if isfile(
-                    join(
-                        path, f)) and f.lower().endswith(
-                    ('.m3u', '.txt', '.list'))]
+            file_list = [f for f in dir_contents
+                         if isfile(join(path, f)) and f.lower().endswith(('.m3u', '.txt', '.list'))]
             for d in sorted(dirs):
                 files.append(("[DIR] " + d, join(path, d)))
             for f in sorted(file_list):
@@ -1875,15 +1602,11 @@ class StalkerPortalConverter(Screen):
             self["status"].setText(_("Error accessing directory: ") + str(e))
             return
         if not files:
-            self["status"].setText(
-                _("No files or directories found in: ") + path)
+            self["status"].setText(_("No files or directories found in: ") + path)
             return
         files.insert(0, (_("<< Back to main menu"), None))
-        self.session.openWithCallback(
-            self.playlist_selected_for_deletion,
-            ChoiceBox,
-            title=_("Select file to delete in: {}").format(path),
-            list=files)
+        self.session.openWithCallback(self.playlist_selected_for_deletion, ChoiceBox,
+                                     title=_("Select file to delete in: {}").format(path), list=files)
 
     def playlist_selected_for_deletion(self, choice):
         if not choice or choice[1] is None:
@@ -1905,9 +1628,7 @@ class StalkerPortalConverter(Screen):
                 current_dir = dirname(file_path)
                 remove(file_path)
                 self["status"].setText(_("Deleted: ") + basename(file_path))
-                if hasattr(
-                        self,
-                        'playlist_file') and self.playlist_file == file_path:
+                if hasattr(self, 'playlist_file') and self.playlist_file == file_path:
                     self.playlist_file = None
                     self["file_input"].setText("")
                 self.delete_playlist(current_dir)
@@ -1988,24 +1709,18 @@ class StalkerPortalConverter(Screen):
         remote_version = "0.0"
         remote_changelog = ""
         try:
-            req = Request(
-                b64decoder(installer_url), headers={
-                    "User-Agent": AgentRequest})
+            req = Request(b64decoder(installer_url), headers={"User-Agent": AgentRequest})
             page = urlopen(req).read().decode("utf-8")
         except Exception as e:
             print("[ERROR] Unable to fetch version info:", str(e))
-            self.defer_message(
-                _("Unable to fetch version info:\n{}").format(
-                    str(e)), MessageBox.TYPE_ERROR)
+            self.defer_message(_("Unable to fetch version info:\n{}").format(str(e)), MessageBox.TYPE_ERROR)
             return
         for line in page.split("\n"):
             line = line.strip()
             if line.startswith("version"):
-                remote_version = line.split(
-                    "=")[-1].strip().strip("'").strip('"')
+                remote_version = line.split("=")[-1].strip().strip("'").strip('"')
             elif line.startswith("changelog"):
-                remote_changelog = line.split(
-                    "=")[-1].strip().strip("'").strip('"')
+                remote_changelog = line.split("=")[-1].strip().strip("'").strip('"')
                 break
         self.new_version = str(remote_version)
         self.new_changelog = str(remote_changelog)
@@ -2013,9 +1728,7 @@ class StalkerPortalConverter(Screen):
             self.Update = True
             self.select_update()
         else:
-            self.defer_message(
-                _("You are already running the latest version: {}").format(__version__),
-                MessageBox.TYPE_INFO)
+            self.defer_message(_("You are already running the latest version: {}").format(__version__), MessageBox.TYPE_INFO)
 
     def select_update(self):
         self.Update = False
@@ -2023,49 +1736,33 @@ class StalkerPortalConverter(Screen):
             __version__, installer_url, AgentRequest)
         if update_available:
             self.Update = True
-
             def ask_update():
                 self.session.openWithCallback(
-                    self.install_update,
-                    MessageBox,
-                    _("New version %s available\n\nChangelog: %s\n\nDo you want to install it now?") %
-                    (self.new_version,
-                        self.new_changelog),
+                    self.install_update, MessageBox,
+                    _("New version %s available\n\nChangelog: %s\n\nDo you want to install it now?") % (
+                        self.new_version, self.new_changelog),
                     MessageBox.TYPE_YESNO)
             self._defer_timer = eTimer()
             self._defer_timer.callback.append(ask_update)
             self._defer_timer.start(100, True)
         else:
-            self.defer_message(
-                _("You are already running the latest version: %s") %
-                __version__, MessageBox.TYPE_INFO)
+            self.defer_message(_("You are already running the latest version: %s") % __version__, MessageBox.TYPE_INFO)
 
     def install_update(self, answer=False):
         if answer:
-            self.session.open(
-                Console,
-                "Upgrading...",
-                cmdlist=[
-                    "wget -q --no-check-certificate " +
-                    b64decoder(installer_url) +
-                    " -O - | /bin/sh"],
-                finishedCallback=self.myCallback,
-                closeOnSuccess=False)
+            self.session.open(Console, "Upgrading...",
+                              cmdlist=["wget -q --no-check-certificate " +
+                                       b64decoder(installer_url) + " -O - | /bin/sh"],
+                              finishedCallback=self.myCallback, closeOnSuccess=False)
         else:
-            self.session.open(
-                MessageBox,
-                _("Update Aborted!"),
-                MessageBox.TYPE_INFO,
-                timeout=3)
+            self.session.open(MessageBox, _("Update Aborted!"), MessageBox.TYPE_INFO, timeout=3)
 
     def myCallback(self, result=None):
         print("result:", result)
 
     def defer_message(self, text, mtype=MessageBox.TYPE_INFO):
         self._defer_timer = eTimer()
-        self._defer_timer.callback.append(
-            lambda: self.session.open(
-                MessageBox, text, type=mtype))
+        self._defer_timer.callback.append(lambda: self.session.open(MessageBox, text, type=mtype))
         self._defer_timer.start(100, True)
 
     def start_web_server(self):
@@ -2077,13 +1774,10 @@ class StalkerPortalConverter(Screen):
             port = 8080
             self.web_server = WebControlResource(self)
             self.site = server.Site(self.web_server)
-            self.listening_port = reactor.listenTCP(
-                port, self.site, interface="")
+            self.listening_port = reactor.listenTCP(port, self.site, interface="")
             ip_address = self.get_ip_address()
             self["key_web"].setText(_("Web Portal Server On"))
-            self["status"].setText(
-                _("Web server: http://%s:%d") %
-                (ip_address, port))
+            self["status"].setText(_("Web server: http://%s:%d") % (ip_address, port))
         except Exception as e:
             self["status"].setText(_("Web server error: ") + str(e))
 
@@ -2175,22 +1869,17 @@ class StalkerPortalConverter(Screen):
             else:
                 self.show_access_code()
         else:
-            self.session.open(
-                MessageBox,
-                _("You need to start the Web Server first!"),
-                MessageBox.TYPE_INFO)
+            self.session.open(MessageBox, _("You need to start the Web Server first!"), MessageBox.TYPE_INFO)
 
     def show_access_code(self):
         self.access_code_visible = True
-        self["access_code_label"].setText(
-            _("Access Code: ") + self.get_access_code())
+        self["access_code_label"].setText(_("Access Code: ") + self.get_access_code())
         self["show_code_btn"].setText(_("Hide Code"))
         self.access_code_timer.start(10000, True)
 
     def hide_access_code(self):
         self.access_code_visible = False
-        self["access_code_label"].setText(
-            _("Access Code: ") + self.get_masked_access_code())
+        self["access_code_label"].setText(_("Access Code: ") + self.get_masked_access_code())
         self["show_code_btn"].setText(_("Show Code"))
         self.access_code_timer.stop()
 
@@ -2199,23 +1888,15 @@ class StalkerPortalConverter(Screen):
             new_code = self.generate_access_code()
             self.hide_access_code()
             self.access_code_visible = True
-            self["access_code_label"].setText(
-                _("New Access Code: ") + new_code)
+            self["access_code_label"].setText(_("New Access Code: ") + new_code)
             self.access_code_timer.start(15000, True)
-            self.session.open(
-                MessageBox,
-                _("New access code generated!"),
-                MessageBox.TYPE_INFO)
+            self.session.open(MessageBox, _("New access code generated!"), MessageBox.TYPE_INFO)
         else:
-            self.session.open(
-                MessageBox,
-                _("You need to start the Web Server first!"),
-                MessageBox.TYPE_INFO)
+            self.session.open(MessageBox, _("You need to start the Web Server first!"), MessageBox.TYPE_INFO)
 
     def reset_access_code(self):
         new_code = self.generate_access_code()
-        self["access_code_label"].setText(
-            _("Access Code: ") + self.get_masked_access_code())
+        self["access_code_label"].setText(_("Access Code: ") + self.get_masked_access_code())
         return new_code
 
     def get_current_portal(self):
@@ -2323,8 +2004,8 @@ class StalkerPortalConverter(Screen):
         if portal_index < 0 or portal_index >= len(playlist):
             return False
         playlist[portal_index]['portal'] = new_portal
-        playlist[portal_index]['macs'] = [m.strip() for m in new_macs.split(
-            ',') if m.strip() and self.validate_mac_address(m.strip())]
+        playlist[portal_index]['macs'] = [m.strip() for m in new_macs.split(',')
+                                          if m.strip() and self.validate_mac_address(m.strip())]
         return self.save_playlist(playlist)
 
     def save_playlist(self, playlist):
@@ -2471,33 +2152,28 @@ class WebControlResource(resource.Resource):
     """
     isLeaf = True
     attempts = {}
-
+    
     def __init__(self, plugin):
         resource.Resource.__init__(self)
         self.plugin = plugin
         self.playlist_path = self.plugin.get_playlist_file_path()
         self.sessions = {}
-
-        self.attempts = {}
+        
+        self.attempts = {} 
 
     def check_authentication(self, request):
         token = request.getCookie(b'session_token')
         if token:
             token = token.decode('utf-8')
-            if token in self.sessions and self.sessions[token]['expires'] > time.time(
-            ):
+            if token in self.sessions and self.sessions[token]['expires'] > time.time():
                 return True
         return False
 
     def create_session(self, request):
         token = urandom(16).hex()
         expires = time.time() + 3600
-        self.sessions[token] = {
-            'ip': request.getClientIP(),
-            'expires': expires}
-        request.setHeader(
-            b'Set-Cookie',
-            f"session_token={token}; Path=/; Max-Age=3600".encode('utf-8'))
+        self.sessions[token] = {'ip': request.getClientIP(), 'expires': expires}
+        request.setHeader(b'Set-Cookie', f"session_token={token}; Path=/; Max-Age=3600".encode('utf-8'))
         return token
 
     def is_ip_blocked(self, ip):
@@ -2513,9 +2189,7 @@ class WebControlResource(resource.Resource):
         return False
 
     def block_ip(self, ip):
-        self.attempts[ip] = {
-            'blocked_until': time.time() + 300,
-            'type': 'block'}
+        self.attempts[ip] = {'blocked_until': time.time() + 300, 'type': 'block'}
 
     def render(self, request):
         try:
@@ -2569,8 +2243,7 @@ class WebControlResource(resource.Resource):
         if self.is_ip_blocked(client_ip):
             return self.get_blocked_page()
         if request.method == b'POST':
-            submitted_code = request.args.get(b'access_code', [b''])[
-                0].decode('utf-8').strip()
+            submitted_code = request.args.get(b'access_code', [b''])[0].decode('utf-8').strip()
             correct_code = self.plugin.get_access_code().strip()
             if submitted_code == correct_code:
                 self.create_session(request)
@@ -2585,14 +2258,11 @@ class WebControlResource(resource.Resource):
                         return self.get_blocked_page()
                 message = "<div class='error-message'>Invalid access code! Attempts left: {}</div>".format(
                     3 - self.attempts[client_ip]['count'])
-        html = f"""<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Authentication Required</title>{
-            self.get_css()}</head><body><div class="container"><header><h1>Authentication Required</h1></header><div class="card">{message}<form method="POST"><div class="form-group"><label>Access Code:</label><input type="password" name="access_code" required autofocus></div><button type="submit">Authenticate</button></form></div></div>{
-            self.get_footer()}</body></html>"""
+        html = f"""<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Authentication Required</title>{self.get_css()}</head><body><div class="container"><header><h1>Authentication Required</h1></header><div class="card">{message}<form method="POST"><div class="form-group"><label>Access Code:</label><input type="password" name="access_code" required autofocus></div><button type="submit">Authenticate</button></form></div></div>{self.get_footer()}</body></html>"""
         return html.encode('utf-8')
 
     def get_blocked_page(self):
-        html = """<!DOCTYPE html><html><head><title>Blocked</title>""" + self.get_css() + \
-            """</head><body><div class="container"><header><h1>Access Temporarily Blocked</h1></header><div class="card"><div class="error-message">⚠️ Too many failed authentication attempts</div><p>Your IP has been temporarily blocked. Try again in 5 minutes.</p></div></div>""" + self.get_footer() + """</body></html>"""
+        html = """<!DOCTYPE html><html><head><title>Blocked</title>""" + self.get_css() + """</head><body><div class="container"><header><h1>Access Temporarily Blocked</h1></header><div class="card"><div class="error-message">⚠️ Too many failed authentication attempts</div><p>Your IP has been temporarily blocked. Try again in 5 minutes.</p></div></div>""" + self.get_footer() + """</body></html>"""
         return html.encode('utf-8')
 
     def get_css(self):
@@ -2604,9 +2274,7 @@ class WebControlResource(resource.Resource):
         saved = ""
         if b"saved" in request.args:
             saved = "<div class='success-message'>✓ Playlist entry saved successfully</div>"
-        html = f"""<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Stalker Portal Converter</title>{
-            self.get_css()}</head><body><div class="container"><header><h1>Stalker Portal Converter</h1><p>by Lululla</p></header>{saved}<div class="card"><h2>Current Configuration</h2><p><strong>Portal URL:</strong> {current_portal}</p><p><strong>MAC Address:</strong> {current_mac}</p><form method="POST" action="/submit"><div class="form-group"><label>Portal URL:</label><input type="text" name="portal" value="{current_portal}" required></div><div class="form-group"><label>MAC Addresses (comma separated):</label><textarea name="mac" rows="3" required>{current_mac}</textarea></div><button type="submit">Save Configuration</button></form><div class="actions"><a href="/manage" class="btn">Full Management</a><a href="/upload" class="btn">Upload Playlist</a></div></div></div>{
-            self.get_footer()}</body></html>"""
+        html = f"""<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Stalker Portal Converter</title>{self.get_css()}</head><body><div class="container"><header><h1>Stalker Portal Converter</h1><p>by Lululla</p></header>{saved}<div class="card"><h2>Current Configuration</h2><p><strong>Portal URL:</strong> {current_portal}</p><p><strong>MAC Address:</strong> {current_mac}</p><form method="POST" action="/submit"><div class="form-group"><label>Portal URL:</label><input type="text" name="portal" value="{current_portal}" required></div><div class="form-group"><label>MAC Addresses (comma separated):</label><textarea name="mac" rows="3" required>{current_mac}</textarea></div><button type="submit">Save Configuration</button></form><div class="actions"><a href="/manage" class="btn">Full Management</a><a href="/upload" class="btn">Upload Playlist</a></div></div></div>{self.get_footer()}</body></html>"""
         return html.encode("utf-8")
 
     def get_manage_page(self):
@@ -2620,10 +2288,7 @@ class WebControlResource(resource.Resource):
         rows = ""
         for idx, entry in enumerate(playlist):
             for mac_idx, mac in enumerate(entry.get('macs', [])):
-                rows += f"""<tr><td><a href="/edit/{idx}/
-    {mac_idx}" class="btn">Edit</a> <a href="/delete/{idx}/
-    {mac_idx}" class="btn" onclick="return confirm('Delete?')">Delete</a></td><td>{
-                    entry['portal']}</td><td>{mac}</td></tr>"""
+                rows += f"""<tr><td><a href="/edit/{idx}/{mac_idx}" class="btn">Edit</a> <a href="/delete/{idx}/{mac_idx}" class="btn" onclick="return confirm('Delete?')">Delete</a></td><td>{entry['portal']}</td><td>{mac}</td></tr>"""
                 html = f"""
         <!DOCTYPE html><html><head><meta charset="UTF-8"><title>Playlist Management</title>{self.get_css()}</head>
         <body><div class="container"><header><h1>Playlist Management</h1></header>
@@ -2643,10 +2308,7 @@ class WebControlResource(resource.Resource):
             return self.get_404_page("Invalid portal index")
         entry = playlist[portal_index]
         macs = ", ".join(entry['macs'])
-        html = f"""<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Edit Portal</title>{
-            self.get_css()}</head><body><div class="container"><header><h1>Edit Portal</h1></header><a href="/manage" class="btn">← Back</a><div class="card"><form method="POST" action="/save_edit/{portal_index}"><div class="form-group"><label>Portal URL:</label><input type="text" name="portal" value="{
-            entry['portal']}" required></div><div class="form-group"><label>MAC Addresses (comma separated):</label><textarea name="mac" rows="5" required>{macs}</textarea></div><button type="submit">Save Changes</button></form></div></div>{
-            self.get_footer()}</body></html>"""
+        html = f"""<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Edit Portal</title>{self.get_css()}</head><body><div class="container"><header><h1>Edit Portal</h1></header><a href="/manage" class="btn">← Back</a><div class="card"><form method="POST" action="/save_edit/{portal_index}"><div class="form-group"><label>Portal URL:</label><input type="text" name="portal" value="{entry['portal']}" required></div><div class="form-group"><label>MAC Addresses (comma separated):</label><textarea name="mac" rows="5" required>{macs}</textarea></div><button type="submit">Save Changes</button></form></div></div>{self.get_footer()}</body></html>"""
         return html.encode('utf-8')
 
     def delete_entry(self, portal_index, mac_index, request):
@@ -2666,9 +2328,7 @@ class WebControlResource(resource.Resource):
         return self.get_error_page("Failed to save changes")
 
     def get_upload_page(self):
-        html = f"""<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Upload Playlist</title>{
-            self.get_css()}</head><body><div class="container"><header><h1>Upload Playlist</h1></header><a href="/" class="btn">← Back</a><div class="card"><form method="POST" action="/upload_file" enctype="multipart/form-data"><div class="form-group"><label>Select playlist file (TXT):</label><input type="file" name="playlist_file" accept=".txt" required></div><button type="submit">Upload</button></form></div></div>{
-            self.get_footer()}</body></html>"""
+        html = f"""<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Upload Playlist</title>{self.get_css()}</head><body><div class="container"><header><h1>Upload Playlist</h1></header><a href="/" class="btn">← Back</a><div class="card"><form method="POST" action="/upload_file" enctype="multipart/form-data"><div class="form-group"><label>Select playlist file (TXT):</label><input type="file" name="playlist_file" accept=".txt" required></div><button type="submit">Upload</button></form></div></div>{self.get_footer()}</body></html>"""
         return html.encode('utf-8')
 
     def handle_file_upload(self, request):
@@ -2712,30 +2372,22 @@ class WebControlResource(resource.Resource):
             self.plugin.load_playlist(self.playlist_path)
             self.plugin.notify_plugin("full_reload")
 
-            html = f"""<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Upload Successful</title>{
-                self.get_css()}</head><body><div class="container"><header><h1>Playlist Uploaded</h1></header><a href="/" class="btn">← Back</a><div class="card"><div class="success-message">✓ Playlist file uploaded successfully</div><div class="actions"><a href="/" class="btn">Go to Main</a><a href="/manage" class="btn">View Playlist</a></div></div></div>{
-                self.get_footer()}</body></html>"""
+            html = f"""<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Upload Successful</title>{self.get_css()}</head><body><div class="container"><header><h1>Playlist Uploaded</h1></header><a href="/" class="btn">← Back</a><div class="card"><div class="success-message">✓ Playlist file uploaded successfully</div><div class="actions"><a href="/" class="btn">Go to Main</a><a href="/manage" class="btn">View Playlist</a></div></div></div>{self.get_footer()}</body></html>"""
             return html.encode('utf-8')
         except Exception as e:
             return self.get_error_page(f"Error uploading file: {str(e)}")
 
     def get_404_page(self, message="Page not found"):
-        html = f"""<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Not Found</title>{
-            self.get_css()}</head><body><div class="container"><header><h1>Page Not Found</h1></header><div class="card"><div class="error-message">{message}</div><div class="actions"><a href="/" class="btn">Return to Main</a></div></div></div>{
-            self.get_footer()}</body></html>"""
+        html = f"""<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Not Found</title>{self.get_css()}</head><body><div class="container"><header><h1>Page Not Found</h1></header><div class="card"><div class="error-message">{message}</div><div class="actions"><a href="/" class="btn">Return to Main</a></div></div></div>{self.get_footer()}</body></html>"""
         return html.encode('utf-8')
 
     def get_error_page(self, error):
-        html = f"""<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Error</title>{
-            self.get_css()}</head><body><div class="container"><header><h1>An Error Occurred</h1></header><div class="card"><div class="error-message">{error}</div><div class="actions"><a href="/" class="btn">Return to Main</a><a href="/manage" class="btn">Back to Management</a></div></div></div>{
-            self.get_footer()}</body></html>"""
+        html = f"""<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Error</title>{self.get_css()}</head><body><div class="container"><header><h1>An Error Occurred</h1></header><div class="card"><div class="error-message">{error}</div><div class="actions"><a href="/" class="btn">Return to Main</a><a href="/manage" class="btn">Back to Management</a></div></div></div>{self.get_footer()}</body></html>"""
         return html.encode('utf-8')
 
     def cleanup_sessions(self):
         now = time.time()
-        expired = [
-            token for token,
-            data in self.sessions.items() if data['expires'] < now]
+        expired = [token for token, data in self.sessions.items() if data['expires'] < now]
         for token in expired:
             del self.sessions[token]
 
@@ -2769,22 +2421,19 @@ class WebControlResource(resource.Resource):
     def render_POST(self, request):
         path = request.path.decode("utf-8")
         if path == "/submit":
-            portal = request.args.get(b"portal", [b""])[
-                0].decode("utf-8").strip()
+            portal = request.args.get(b"portal", [b""])[0].decode("utf-8").strip()
             macs = request.args.get(b"mac", [b""])[0].decode("utf-8").strip()
-
+            
             if not portal or not macs:
-                return self.get_error_page(
-                    "Portal URL and MAC addresses are required.")
-
+                return self.get_error_page("Portal URL and MAC addresses are required.")
+                
             status, extra = self.plugin.add_to_playlist(portal, macs)
-
+            
             if status == "duplicate":
                 return self.get_error_page(f"MAC già presente: {extra}")
             if status != "ok":
-                return self.get_error_page(
-                    "Errore nel salvataggio della playlist.")
-
+                return self.get_error_page("Errore nel salvataggio della playlist.")
+                
             self.plugin.notify_plugin("full_reload")
             request.redirect(b"/?saved=1")
             return b""
@@ -2800,8 +2449,7 @@ class WebControlResource(resource.Resource):
                 return b"Invalid JSON data"
             if not confirm:
                 request.setHeader("Content-Type", "application/json")
-                return dumps({"message": "Confirm saving?",
-                             "portal": portal, "macs": macs}).encode("utf-8")
+                return dumps({"message": "Confirm saving?", "portal": portal, "macs": macs}).encode("utf-8")
             status, _ = self.plugin.add_to_playlist(portal, macs)
             if status == "ok":
                 self.plugin.load_playlist(self.playlist_path)
@@ -2828,9 +2476,7 @@ class MenuDialog(Screen):
     def __init__(self, session, menu):
         Screen.__init__(self, session)
         self["menu"] = MenuList(menu)
-        self["actions"] = ActionMap(
-            ["OkCancelActions"], {
-                "ok": self.ok, "cancel": self.cancel}, -1)
+        self["actions"] = ActionMap(["OkCancelActions"], {"ok": self.ok, "cancel": self.cancel}, -1)
 
     def ok(self):
         selection = self["menu"].getCurrent()
