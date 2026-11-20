@@ -1431,8 +1431,7 @@ class StalkerPortalConverter(Screen):
             "Connection": "keep-alive",
             "Host": host,
             "Referer": portal,
-            "Cookie": f"mac={mac}; stb_lang=en; timezone={
-                fetch_system_timezone()};",
+            "Cookie": f"mac={mac}; stb_lang=en; timezone={fetch_system_timezone()};",
             "X-User-Agent": "Model: MAG254; Link: Ethernet",
             "Authorization": f"Bearer {token}"}
         movies_url = f"{portal}?type=vod&action=get_ordered_list&genre={category_id}&JsHttpRequest=1-xml"
@@ -1469,8 +1468,7 @@ class StalkerPortalConverter(Screen):
                 "Connection": "keep-alive",
                 "Host": host,
                 "Referer": portal,
-                "Cookie": f"mac={mac}; stb_lang=en; timezone={
-                    fetch_system_timezone()};",
+                "Cookie": f"mac={mac}; stb_lang=en; timezone={fetch_system_timezone()};",
                 "X-User-Agent": "Model: MAG254; Link: Ethernet",
                 "Authorization": f"Bearer {token}"}
             params = {
